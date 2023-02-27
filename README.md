@@ -1,2 +1,3 @@
 # etl_pipelines
-Pipeline development practice
+
+This is my space for showcasing ETL pipeline development projects. 
