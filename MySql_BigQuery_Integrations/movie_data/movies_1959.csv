@@ -1,0 +1,401 @@
+year,title,genre,avg_vote,movie_category,duration,length_category
+1959,The Chaplin Revue,Comedy,7.8,Excellent,128,No Data
+1959,Teenage Zombies,"Horror, Sci-Fi",3.0,Poor,73,Avg. Length Film
+1959,A Stranger in My Arms,"Drama, Romance, War",6.4,Average,88,Avg. Length Film
+1959,Carry on Nurse,"Comedy, Romance",6.3,Average,86,Avg. Length Film
+1959,La notte brava,Drama,7.0,Excellent,95,Avg. Length Film
+1959,La cucaracha,"Drama, Romance, War",7.0,Excellent,97,Avg. Length Film
+1959,Erode il grande,"Biography, Drama, History",4.8,Average,93,Avg. Length Film
+1959,Escort West,Western,6.2,Average,75,Avg. Length Film
+1959,Le fauve est lâché,"Crime, Drama",6.4,Average,98,Avg. Length Film
+1959,La femme et le pantin,Drama,5.3,Average,101,Avg. Length Film
+1959,Das Feuerzeug,"Drama, Fantasy",6.7,Average,83,Avg. Length Film
+1959,"Go, Johnny, Go!",Musical,5.7,Average,75,Avg. Length Film
+1959,Good Day for a Hanging,Western,6.3,Average,85,Avg. Length Film
+1959,El grito de la muerte,"Horror, Mystery, Thriller",5.3,Average,72,Avg. Length Film
+1959,The Gunfight at Dodge City,Western,6.1,Average,81,Avg. Length Film
+1959,Die Halbzarte,Comedy,5.5,Average,92,Avg. Length Film
+1959,Der Haus-Tyrann,Comedy,6.3,Average,90,Avg. Length Film
+1959,El hombre y el monstruo,Horror,6.1,Average,78,Avg. Length Film
+1959,House on Haunted Hill,"Horror, Mystery",6.9,Average,75,Avg. Length Film
+1959,"Hunde, wollt ihr ewig leben","War, Drama",7.2,Excellent,93,Avg. Length Film
+1959,I Mobster,"Crime, Drama, Thriller",6.2,Average,81,Avg. Length Film
+1959,Ivan Brovkin na tseline,"Adventure, Comedy, Romance",7.0,Excellent,97,Avg. Length Film
+1959,The Last Blitzkrieg,"Drama, War",5.8,Average,84,Avg. Length Film
+1959,La legge,"Comedy, Crime, Drama",6.9,Average,126,No Data
+1959,Look Back in Anger,Drama,7.1,Excellent,98,Avg. Length Film
+1959,Misterios de ultratumba,"Fantasy, Horror, Mystery",6.9,Average,82,Avg. Length Film
+1959,The Monster of Piedras Blancas,"Horror, Sci-Fi",5.4,Average,71,Avg. Length Film
+1959,Nazarín,Drama,7.9,Excellent,94,Avg. Length Film
+1959,Nel segno di Roma,"Adventure, Drama, Romance",5.5,Average,98,Avg. Length Film
+1959,Nella città l'inferno,Drama,7.3,Excellent,95,Avg. Length Film
+1959,No Name on the Bullet,"Action, Drama, Romance",7.3,Excellent,77,Avg. Length Film
+1959,No Trees in the Street,Drama,6.0,Average,96,Avg. Length Film
+1959,Plan 9 from Outer Space,"Horror, Sci-Fi",4.0,Average,79,Avg. Length Film
+1959,Sube y baja,"Comedy, Sport",7.1,Excellent,108,Avg. Length Film
+1959,Il tempo si è fermato,Drama,7.4,Excellent,83,Avg. Length Film
+1959,Der Tiger von Eschnapur,"Adventure, Drama, Romance",6.7,Average,101,Avg. Length Film
+1959,Too Many Crooks,"Comedy, Crime",7.0,Excellent,87,Avg. Length Film
+1959,La tête contre les murs,Drama,7.1,Excellent,95,Avg. Length Film
+1959,Verboten!,"Drama, Thriller, War",6.8,Average,93,Avg. Length Film
+1959,"Zorro, the Avenger","Adventure, Family, Western",6.6,Average,91,Avg. Length Film
+1959,-30-,Drama,6.6,Average,96,Avg. Length Film
+1959,1001 Arabian Nights,"Animation, Fantasy",6.3,Average,75,Avg. Length Film
+1959,125 rue Montmartre,"Crime, Drama",6.6,Average,85,Avg. Length Film
+1959,The 30 Foot Bride of Candy Rock,"Comedy, Sci-Fi",5.8,Average,75,Avg. Length Film
+1959,4D Man,"Action, Horror, Romance",5.8,Average,85,Avg. Length Film
+1959,Agi Murad il diavolo bianco,"Action, Adventure, Drama",5.2,Average,91,Avg. Length Film
+1959,Ai to kibô no machi,Drama,7.1,Excellent,62,Avg. Length Film
+1959,Al Capone,"Biography, Crime, Drama",6.8,Average,104,Avg. Length Film
+1959,Alias Jesse James,"Comedy, Romance, Western",6.5,Average,92,Avg. Length Film
+1959,The Alligator People,"Horror, Mystery, Sci-Fi",5.6,Average,74,Avg. Length Film
+1959,Anari,"Comedy, Drama, Musical",8.0,Excellent,166,No Data
+1959,Anatomy of a Murder,"Crime, Drama, Mystery",8.0,Excellent,161,No Data
+1959,The Angry Hills,"Drama, War, Thriller",5.8,Average,105,Avg. Length Film
+1959,The Angry Red Planet,"Adventure, Sci-Fi",5.3,Average,83,Avg. Length Film
+1959,Un témoin dans la ville,"Crime, Drama, Thriller",6.9,Average,86,Avg. Length Film
+1959,Apur Sansar,Drama,8.5,Excellent,105,Avg. Length Film
+1959,"Archimède, le clochard","Drama, Comedy",6.7,Average,76,Avg. Length Film
+1959,Arrangiatevi,Comedy,7.2,Excellent,110,Avg. Length Film
+1959,Signé: Arsène Lupin,"Comedy, Crime, Mystery",6.2,Average,100,Avg. Length Film
+1959,Aru kengo no shogai,"Action, Drama",6.8,Average,111,Avg. Length Film
+1959,Ask Any Girl,"Comedy, Romance",6.6,Average,98,Avg. Length Film
+1959,The Atomic Submarine,"Sci-Fi, Thriller",5.2,Average,72,Avg. Length Film
+1959,Audace colpo dei soliti ignoti,"Comedy, Crime",7.1,Excellent,105,Avg. Length Film
+1959,Babette s'en va-t-en guerre,"Comedy, War",6.1,Average,106,Avg. Length Film
+1959,Ballada o soldate,"Drama, Romance, War",8.2,Excellent,88,Avg. Length Film
+1959,The Bandit of Zhobe,"Action, Adventure",5.2,Average,80,Avg. Length Film
+1959,The Bat,"Horror, Mystery, Thriller",6.1,Average,80,Avg. Length Film
+1959,La battaglia di Maratona,"Action, Adventure, Drama",5.0,Average,90,Avg. Length Film
+1959,Battle of the Coral Sea,"Action, Drama, Romance",5.7,Average,86,Avg. Length Film
+1959,Baza ludzi umarlych,Drama,7.5,Excellent,104,Avg. Length Film
+1959,Beast from Haunted Cave,"Crime, Horror, Thriller",4.3,Average,72,Avg. Length Film
+1959,The Beat Generation,"Crime, Drama, Thriller",5.6,Average,95,Avg. Length Film
+1959,Behemoth the Sea Monster,"Action, Adventure, Drama",5.8,Average,80,Avg. Length Film
+1959,Beloved Infidel,"Drama, Romance",6.1,Average,123,No Data
+1959,Ben-Hur,"Adventure, Drama, History",8.1,Excellent,212,No Data
+1959,The Best of Everything,"Drama, Romance",6.6,Average,121,No Data
+1959,Beyond This Place,"Crime, Mystery, Thriller",6.2,Average,90,Avg. Length Film
+1959,The Big Circus,Drama,6.3,Average,109,Avg. Length Film
+1959,The Big Fisherman,"Drama, History",5.7,Average,180,No Data
+1959,The Big Operator,"Crime, Drama",6.6,Average,91,Avg. Length Film
+1959,Blind Date,"Mystery, Thriller, Crime",6.7,Average,95,Avg. Length Film
+1959,The Bloody Brood,"Crime, Drama",4.8,Average,80,Avg. Length Film
+1959,The Blue Angel,Drama,6.3,Average,107,Avg. Length Film
+1959,Blue Denim,"Drama, Romance",6.6,Average,89,Avg. Length Film
+1959,Le bossu,"Action, Adventure",6.9,Average,105,Avg. Length Film
+1959,Danger Within,"Drama, War",6.9,Average,101,Avg. Length Film
+1959,The Bridal Path,Comedy,6.8,Average,95,Avg. Length Film
+1959,Die Brücke,"Drama, War",8.0,Excellent,103,Avg. Length Film
+1959,A Bucket of Blood,"Comedy, Crime, Horror",6.7,Average,66,Avg. Length Film
+1959,Buddenbrooks - 1. Teil,Drama,6.6,Average,99,Avg. Length Film
+1959,Buddenbrooks - 2. Teil,Drama,6.6,Average,107,Avg. Length Film
+1959,But Not for Me,"Comedy, Romance",6.4,Average,111,Avg. Length Film
+1959,Caltiki il mostro immortale,"Adventure, Horror, Sci-Fi",6.0,Average,77,Avg. Length Film
+1959,La cambiale,Comedy,6.7,Average,109,Avg. Length Film
+1959,The Captain's Table,Comedy,5.9,Average,90,Avg. Length Film
+1959,Career,Drama,6.9,Average,105,Avg. Length Film
+1959,Carry on Teacher,Comedy,6.2,Average,86,Avg. Length Film
+1959,Cast a Long Shadow,Western,6.2,Average,82,Avg. Length Film
+1959,Charles Tante,"Comedy, Family",6.9,Average,101,Avg. Length Film
+1959,Le chemin des écoliers,Drama,6.4,Average,90,Avg. Length Film
+1959,City of Fear,"Crime, Drama, Thriller",6.4,Average,81,Avg. Length Film
+1959,Compulsion,"Biography, Crime, Drama",7.4,Excellent,103,Avg. Length Film
+1959,The Cosmic Man,"Adventure, Sci-Fi, Thrille",4.8,Average,72,Avg. Length Film
+1959,Count Your Blessings,"Comedy, Drama",5.0,Average,102,Avg. Length Film
+1959,Les cousins,Drama,7.3,Excellent,112,Avg. Length Film
+1959,Cover Girl Killer,"Crime, Thriller",5.9,Average,61,Avg. Length Film
+1959,"Crime & Punishment, USA",Drama,5.9,Average,96,Avg. Length Film
+1959,The Crimson Kimono,"Crime, Drama, Mystery",6.9,Average,82,Avg. Length Film
+1959,Cuban Rebel Girls,Adventure,3.2,Average,68,Avg. Length Film
+1959,Curse of the Undead,"Drama, Horror, Romance",6.1,Average,79,Avg. Length Film
+1959,Darby O'Gill and the Little People,"Adventure, Family, Fantasy",7.2,Excellent,93,Avg. Length Film
+1959,Day of the Outlaw,Western,7.3,Excellent,92,Avg. Length Film
+1959,Deux hommes dans Manhattan,"Crime, Drama, Thriller",6.7,Average,84,Avg. Length Film
+1959,The Devil's Disciple,"Comedy, History, Romance",7.2,Excellent,83,Avg. Length Film
+1959,Dhool Ka Phool,Drama,6.8,Average,153,No Data
+1959,The Diary of Anne Frank,"Biography, Drama, Family",7.4,Excellent,180,No Data
+1959,Dokuritsu gurentai,"Drama, War, Action",6.7,Average,109,Avg. Length Film
+1959,Don't Give Up the Ship,Comedy,6.5,Average,89,Avg. Length Film
+1959,Don't Panic Chaps,"Comedy, War",5.7,Average,85,Avg. Length Film
+1959,Les dragueurs,Drama,7.1,Excellent,78,Avg. Length Film
+1959,Drillinge an Bord,"Comedy, Crime, Romance",6.4,Average,82,Avg. Length Film
+1959,Le déjeuner sur l'herbe,"Comedy, Romance",6.9,Average,91,Avg. Length Film
+1959,Edge of Eternity,"Crime, Drama, Mystery",6.3,Average,80,Avg. Length Film
+1959,Ein Engel auf Erden,"Comedy, Fantasy, Romance",5.5,Average,87,Avg. Length Film
+1959,Upstairs and Downstairs,Comedy,6.2,Average,101,Avg. Length Film
+1959,Ercole e la regina di Lidia,"Adventure, Fantasy",4.5,Average,98,Avg. Length Film
+1959,Estate violenta,"Drama, Romance, War",7.5,Excellent,98,Avg. Length Film
+1959,The FBI Story,"Crime, Drama, History",6.6,Average,149,No Data
+1959,Face of Fire,Drama,6.9,Average,79,Avg. Length Film
+1959,Face of a Fugitive,"Drama, Western",6.6,Average,81,Avg. Length Film
+1959,Faibles femmes,Comedy,6.2,Average,75,Avg. Length Film
+1959,Far til fire på Bornholm,"Comedy, Family",5.9,Average,104,Avg. Length Film
+1959,Ferry to Hong Kong,"Action, Adventure, Drama",5.5,Average,112,Avg. Length Film
+1959,First Man Into Space,"Drama, Horror, Sci-Fi",5.5,Average,77,Avg. Length Film
+1959,Five Gates to Hell,"Adventure, Drama, War",5.4,Average,98,Avg. Length Film
+1959,The Five Pennies,"Biography, Drama, Music",7.3,Excellent,117,Avg. Length Film
+1959,La fièvre monte à El Pao,Drama,6.9,Average,97,Avg. Length Film
+1959,Follow a Star,Comedy,6.7,Average,102,Avg. Length Film
+1959,For the First Time,Musical,6.6,Average,92,Avg. Length Film
+1959,The Four Skulls of Jonathan Drake,"Horror, Mystery",5.8,Average,70,Avg. Length Film
+1959,Frontier Rangers,Adventure,4.9,Average,83,Avg. Length Film
+1959,Der Frosch mit der Maske,"Crime, Thriller",6.4,Average,89,Avg. Length Film
+1959,The Gazebo,"Comedy, Crime, Thriller",6.9,Average,100,Avg. Length Film
+1959,The Gene Krupa Story,"Biography, Drama, Music",6.8,Average,101,Avg. Length Film
+1959,Ghost of Dragstrip Hollow,"Comedy, Horror",4.8,Average,65,Avg. Length Film
+1959,The Giant Gila Monster,"Horror, Sci-Fi, Thriller",3.5,Average,74,Avg. Length Film
+1959,Gidget,Comedy,6.7,Average,95,Avg. Length Film
+1959,Girls Town,Drama,3.4,Average,90,Avg. Length Film
+1959,Le grand chef,Comedy,5.9,Average,92,Avg. Length Film
+1959,La grande guerra,"Comedy, Drama, War",8.3,Excellent,137,No Data
+1959,The St. Louis Bank Robbery,"Crime, Drama, Thriller",5.9,Average,89,Avg. Length Film
+1959,Green Mansions,"Adventure, Drama, Romance",5.5,Average,104,Avg. Length Film
+1959,Gunmen from Laredo,Western,4.7,Average,67,Avg. Length Film
+1959,Guns Girls and Gangsters,"Crime, Drama, Thriller",6.3,Average,70,Avg. Length Film
+1959,The Hanging Tree,Western,7.1,Excellent,107,Avg. Length Film
+1959,The Hangman,Western,6.6,Average,87,Avg. Length Film
+1959,Happy Anniversary,Comedy,5.9,Average,83,Avg. Length Film
+1959,Have Rocket -- Will Travel,"Comedy, Sci-Fi",5.8,Average,76,Avg. Length Film
+1959,High School Big Shot,"Crime, Drama",3.1,Average,70,Avg. Length Film
+1959,Hiroshima mon amour,"Drama, Romance",7.9,Excellent,90,Avg. Length Film
+1959,A Hole in the Head,"Comedy, Drama",6.3,Average,120,No Data
+1959,Holiday for Lovers,Comedy,5.8,Average,103,Avg. Length Film
+1959,Horrors of the Black Museum,Horror,6.0,Average,93,Avg. Length Film
+1959,The Horse Soldiers,"Adventure, Romance, War",7.2,Excellent,120,No Data
+1959,The Hound of the Baskervilles,"Horror, Mystery",7.0,Excellent,87,Avg. Length Film
+1959,The House of the Seven Hawks,Mystery,5.8,Average,92,Avg. Length Film
+1959,I'm All Right Jack,Comedy,7.2,Excellent,105,Avg. Length Film
+1959,Idol on Parade,Comedy,5.7,Average,88,Avg. Length Film
+1959,Imitation of Life,Drama,7.9,Excellent,125,No Data
+1959,The Immoral Mr. Teas,Comedy,4.7,Average,63,Avg. Length Film
+1959,Das indische Grabmal,"Adventure, Romance",6.7,Average,102,Avg. Length Film
+1959,Inside the Mafia,"Crime, Drama",5.7,Average,72,Avg. Length Film
+1959,Invisible Invaders,"Sci-Fi, Horror",5.0,Average,67,Avg. Length Film
+1959,Island of Lost Women,Adventure,5.1,Average,71,Avg. Length Film
+1959,It Happened to Jane,Comedy,6.6,Average,97,Avg. Length Film
+1959,It Started with a Kiss,"Comedy, Romance",6.1,Average,104,Avg. Length Film
+1959,J'irai cracher sur vos tombes,"Crime, Drama, Romance",5.4,Average,110,Avg. Length Film
+1959,Jakten,"Drama, Romance, Thriller",7.3,Excellent,94,Avg. Length Film
+1959,The Jayhawkers!,"Romance, Western",6.4,Average,100,Avg. Length Film
+1959,Jet Over the Atlantic,"Crime, Drama, Thriller",5.9,Average,95,Avg. Length Film
+1959,Jet Storm,Thriller,6.4,Average,99,Avg. Length Film
+1959,John Paul Jones,"Action, Biography, History",6.5,Average,126,No Data
+1959,Journey to the Center of the Earth,"Adventure, Family, Fantasy",7.0,Excellent,129,No Data
+1959,The Journey,"Drama, Romance, War",6.9,Average,126,No Data
+1959,La jument verte,"Comedy, Drama, History",5.4,Average,94,Avg. Length Film
+1959,Kaagaz Ke Phool,"Musical, Romance",8.0,Excellent,148,No Data
+1959,Kagi,Drama,6.9,Average,96,Avg. Length Film
+1959,Katia,Drama,5.9,Average,91,Avg. Length Film
+1959,Kazabana,Drama,7.0,Excellent,78,Avg. Length Film
+1959,The Killer Shrews,"Horror, Sci-Fi",4.0,Average,69,Avg. Length Film
+1959,Killers of Kilimanjaro,Adventure,5.5,Average,91,Avg. Length Film
+1959,Kiss Her Goodbye,Drama,5.5,Average,94,Avg. Length Film
+1959,Král Sumavy,"Crime, Drama",6.5,Average,90,Avg. Length Film
+1959,I ladri,Comedy,5.6,Average,95,Avg. Length Film
+1959,The Last Angry Man,Drama,7.0,Excellent,100,Avg. Length Film
+1959,The Last Mile,"Drama, Thriller",6.7,Average,81,Avg. Length Film
+1959,Last Train from Gun Hill,"Romance, Western",7.4,Excellent,95,Avg. Length Film
+1959,El Lazarillo de Tormes,"Comedy, Drama",6.4,Average,114,Avg. Length Film
+1959,The Legend of Tom Dooley,"Drama, Western",6.2,Average,79,Avg. Length Film
+1959,Le legioni di Cleopatra,"Adventure, Drama, Romance",5.6,Average,90,Avg. Length Film
+1959,Li'l Abner,"Comedy, Musical, Family",6.7,Average,114,Avg. Length Film
+1959,Les liaisons dangereuses,"Drama, Romance",6.9,Average,106,Avg. Length Film
+1959,Libel,"Drama, Mystery",7.1,Excellent,100,Avg. Length Film
+1959,Life in Danger,"Crime, Drama",6.4,Average,63,Avg. Length Film
+1959,Lotna,"Drama, War",6.1,Average,90,Avg. Length Film
+1959,I magliari,"Drama, Romance",6.8,Average,116,Avg. Length Film
+1959,Maigret et l'affaire Saint-Fiacre,"Crime, Drama, Thriller",7.1,Excellent,101,Avg. Length Film
+1959,Un maledetto imbroglio,"Crime, Drama, Mystery",7.5,Excellent,115,Avg. Length Film
+1959,The Man Who Could Cheat Death,"Drama, Horror, Sci-Fi",6.3,Average,83,Avg. Length Film
+1959,The Man Who Understood Women,Comedy,4.6,Average,105,Avg. Length Film
+1959,Carlton-Browne of the F.O.,Comedy,6.3,Average,88,Avg. Length Film
+1959,The Man in the Net,"Crime, Mystery",6.2,Average,98,Avg. Length Film
+1959,Ein Mann geht durch die Wand,"Comedy, Fantasy, Romance",6.9,Average,99,Avg. Length Film
+1959,Marie-Octobre,"Drama, Mystery",7.4,Excellent,90,Avg. Length Film
+1959,The Mating Game,"Comedy, Romance",7.0,Excellent,96,Avg. Length Film
+1959,Middle of the Night,Drama,7.2,Excellent,118,Avg. Length Film
+1959,The Miracle,Drama,6.0,Average,121,No Data
+1959,Il moralista,Comedy,6.8,Average,120,No Data
+1959,The Mouse That Roared,Comedy,7.0,Excellent,83,Avg. Length Film
+1959,The Mummy,"Adventure, Horror",6.8,Average,86,Avg. Length Film
+1959,Die Nackte und der Satan,"Horror, Sci-Fi",5.3,Average,97,Avg. Length Film
+1959,Natürlich die Autofahrer,Comedy,6.4,Average,82,Avg. Length Film
+1959,Nebo zovyot,"Adventure, Sci-Fi",4.4,Average,77,Avg. Length Film
+1959,Neel Akasher Neechey,Drama,7.1,Excellent,133,No Data
+1959,Never So Few,"Drama, War",5.9,Average,125,No Data
+1959,Never Steal Anything Small,"Comedy, Drama, Musical",6.2,Average,94,Avg. Length Film
+1959,Nianchan,Drama,6.9,Average,101,Avg. Length Film
+1959,The Night We Dropped a Clanger,"Comedy, Thriller",5.6,Average,86,Avg. Length Film
+1959,Ningen no jôken,"Drama, War",8.5,Excellent,208,No Data
+1959,Ningen no jôken,"Drama, History, War",8.5,Excellent,181,No Data
+1959,Nippon tanjô,"Adventure, Comedy, Drama",6.6,Average,182,No Data
+1959,Nobi,"Drama, War",8.0,Excellent,108,Avg. Length Film
+1959,North by Northwest,"Adventure, Mystery, Thrill",8.3,Excellent,136,No Data
+1959,North West Frontier,"Adventure, Drama",7.2,Excellent,129,No Data
+1959,The Nun's Story,Drama,7.6,Excellent,149,No Data
+1959,Odds Against Tomorrow,"Crime, Drama, Thriller",7.4,Excellent,96,Avg. Length Film
+1959,Ohayô,"Comedy, Drama, Family",7.9,Excellent,94,Avg. Length Film
+1959,On the Beach,"Drama, Romance, Sci-Fi",7.2,Excellent,134,No Data
+1959,Onkel Bill fra New York,"Comedy, Romance",5.8,Average,90,Avg. Length Film
+1959,Operation Amsterdam,"Drama, History, War",6.4,Average,104,Avg. Length Film
+1959,Operation Petticoat,"Comedy, Romance, War",7.3,Excellent,124,No Data
+1959,The Oregon Trail,Western,5.3,Average,86,Avg. Length Film
+1959,Orfeu Negro,"Drama, Fantasy, Music",7.5,Excellent,100,Avg. Length Film
+1959,Orzel,"Drama, War",7.1,Excellent,104,Avg. Length Film
+1959,Paratroop Command,"Drama, War",5.4,Average,71,Avg. Length Film
+1959,Pickpocket,"Crime, Drama",7.7,Excellent,76,Avg. Length Film
+1959,"Pier 5, Havana","Action, Adventure, Crime",5.6,Average,67,Avg. Length Film
+1959,Pillow Talk,"Comedy, Romance",7.4,Excellent,102,Avg. Length Film
+1959,Please Turn Over,Comedy,6.3,Average,87,Avg. Length Film
+1959,Pociag,"Drama, Mystery, Thriller",7.8,Excellent,99,Avg. Length Film
+1959,Poeten og Lillemor,"Comedy, Family",5.8,Average,95,Avg. Length Film
+1959,Porgy and Bess,"Drama, Musical, Romance",7.2,Excellent,138,No Data
+1959,Pork Chop Hill,"Action, Drama, War",7.1,Excellent,97,Avg. Length Film
+1959,Poveri milionari,Comedy,6.2,Average,95,Avg. Length Film
+1959,Punainen viiva,"Drama, History",6.7,Average,97,Avg. Length Film
+1959,Les quatre cents coups,"Crime, Drama",8.1,Excellent,99,Avg. Length Film
+1959,The Rabbit Trap,Drama,6.5,Average,72,Avg. Length Film
+1959,Raggare!,"Adventure, Drama",5.3,Average,88,Avg. Length Film
+1959,The Rebel Set,"Crime, Drama",2.6,Poor,72,Avg. Length Film
+1959,The Remarkable Mr. Pennypacker,Comedy,6.5,Average,87,Avg. Length Film
+1959,Return of the Fly,"Drama, Fantasy, Horror",5.8,Average,80,Avg. Length Film
+1959,Ride Lonesome,"Drama, Western",7.2,Excellent,73,Avg. Length Film
+1959,Rio Bravo,"Action, Drama, Western",8.0,Excellent,141,No Data
+1959,Room at the Top,"Drama, Romance",7.5,Excellent,117,Avg. Length Film
+1959,Rosen für den Staatsanwalt,"Comedy, Drama",7.3,Excellent,97,Avg. Length Film
+1959,The Rough and the Smooth,Drama,6.2,Average,96,Avg. Length Film
+1959,Rue des Prairies,Drama,6.8,Average,87,Avg. Length Film
+1959,Invasion of the Animal People,"Horror, Sci-Fi",3.9,Average,55,Short Film
+1959,Ryttare i blått,"Mystery, Thriller",5.5,Average,110,Avg. Length Film
+1959,SOS Pacific,"Adventure, Drama, Thriller",6.2,Average,90,Avg. Length Film
+1959,Sampo,"Adventure, Fantasy",3.8,Average,90,Avg. Length Film
+1959,Santa Claus,"Comedy, Family, Fantasy",2.6,Poor,94,Avg. Length Film
+1959,Sapphire,"Crime, Drama, Mystery",7.1,Excellent,92,Avg. Length Film
+1959,Say One for Me,"Comedy, Musical, Romance",5.4,Average,120,No Data
+1959,The Scapegoat,"Crime, Mystery, Thriller",6.9,Average,91,Avg. Length Film
+1959,Segodnya uvolneniya ne budet,"Drama, Thriller",6.5,Average,45,Short Film
+1959,Sen noci svatojánské,"Animation, Comedy, Fantasy",7.1,Excellent,76,Avg. Length Film
+1959,Serious Charge,Drama,6.2,Average,87,Avg. Length Film
+1959,The Shaggy Dog,"Family, Comedy, Fantasy",6.5,Average,104,Avg. Length Film
+1959,Shake Hands with the Devil,"Action, Drama, History",7.0,Excellent,111,Avg. Length Film
+1959,Shinel,Drama,7.5,Excellent,75,Avg. Length Film
+1959,Shônen Sarutobi Sasuke,"Animation, Family, Adventu",7.0,Excellent,83,Avg. Length Film
+1959,The Siege of Pinchgut,"Action, Crime, Drama",6.3,Average,100,Avg. Length Film
+1959,Sleeping Beauty,"Animation, Family, Fantasy",7.2,Excellent,75,Avg. Length Film
+1959,Solomon and Sheba,"Drama, History, Romance",6.2,Average,141,No Data
+1959,Some Like It Hot,"Comedy, Music, Romance",8.2,Excellent,121,No Data
+1959,The Sound and the Fury,Drama,6.3,Average,110,Avg. Length Film
+1959,Sterne,"War, Drama",7.5,Excellent,91,Avg. Length Film
+1959,The Story on Page One,Drama,6.8,Average,123,No Data
+1959,Støv på hjernen,Comedy,6.7,Average,94,Avg. Length Film
+1959,Sudba cheloveka,"Drama, War",8.0,Excellent,103,Avg. Length Film
+1959,"Suddenly, Last Summer","Drama, Mystery, Thriller",7.6,Excellent,114,Avg. Length Film
+1959,A Summer Place,"Drama, Romance",6.9,Average,130,No Data
+1959,Summer of the Seventeenth Doll,"Comedy, Drama",5.9,Average,93,Avg. Length Film
+1959,Take a Giant Step,Drama,7.2,Excellent,100,Avg. Length Film
+1959,I tartassati,Comedy,7.1,Excellent,105,Avg. Length Film
+1959,Tarzan's Greatest Adventure,"Action, Adventure",6.5,Average,88,Avg. Length Film
+1959,"Tarzan, the Ape Man","Action, Adventure, Romance",4.0,Average,82,Avg. Length Film
+1959,Teenagers from Outer Space,"Sci-Fi, Thriller",3.8,Average,86,Avg. Length Film
+1959,Tempi duri per i vampiri,"Comedy, Horror",5.0,Average,85,Avg. Length Film
+1959,Ten Seconds to Hell,"Action, Drama, Romance",6.5,Average,93,Avg. Length Film
+1959,Tenemos 18 años,Comedy,5.7,Average,78,Avg. Length Film
+1959,Terror Is a Man,"Horror, Romance, Sci-Fi",5.5,Average,90,Avg. Length Film
+1959,Il terrore dei barbari,Adventure,5.9,Average,100,Avg. Length Film
+1959,That Kind of Woman,"Drama, Romance, War",6.3,Average,92,Avg. Length Film
+1959,These Thousand Hills,"Drama, Western",6.4,Average,96,Avg. Length Film
+1959,They Came to Cordura,"Adventure, Drama, History",6.4,Average,123,No Data
+1959,Third Man on the Mountain,"Adventure, Drama, Family",7.2,Excellent,107,Avg. Length Film
+1959,The 39 Steps,"Comedy, Crime, Drama",6.6,Average,93,Avg. Length Film
+1959,This Earth Is Mine,Drama,6.5,Average,124,No Data
+1959,Thunder in the Sun,"Action, Adventure, History",5.5,Average,81,Avg. Length Film
+1959,Tiger Bay,"Crime, Drama, Thriller",7.5,Excellent,105,Avg. Length Film
+1959,Timbuktu,"Action, Adventure, Romance",5.7,Average,91,Avg. Length Film
+1959,The Tingler,Horror,6.7,Average,82,Avg. Length Film
+1959,Das Totenschiff,"Adventure, Drama",6.7,Average,97,Avg. Length Film
+1959,"Totò, Eva e il pennello proibito",Comedy,6.1,Average,99,Avg. Length Film
+1959,Los tramposos,Comedy,6.4,Average,88,Avg. Length Film
+1959,The Trap,"Action, Crime, Drama",6.6,Average,84,Avg. Length Film
+1959,Uchû sai sensô,Sci-Fi,5.7,Average,90,Avg. Length Film
+1959,Ugler i mosen,"Adventure, Family, Mystery",6.9,Average,94,Avg. Length Film
+1959,Ukikusa,Drama,8.0,Excellent,119,Avg. Length Film
+1959,Und ewig singen die Wälder,Drama,6.7,Average,105,Avg. Length Film
+1959,Up Periscope,"Action, Drama, Romance",6.5,Average,112,Avg. Length Film
+1959,La vache et le prisonnier,Comedy,7.1,Excellent,118,Avg. Length Film
+1959,Vi er allesammen tossede,Comedy,6.7,Average,83,Avg. Length Film
+1959,Vice Raid,"Crime, Drama",5.4,Average,71,Avg. Length Film
+1959,Voulez-vous danser avec moi,"Crime, Drama, Mystery",6.3,Average,91,Avg. Length Film
+1959,Warlock,"Drama, Western",7.2,Excellent,121,No Data
+1959,Watusi,Adventure,5.6,Average,85,Avg. Length Film
+1959,Ung flukt,Drama,6.5,Average,95,Avg. Length Film
+1959,Westbound,"Action, Romance, War",6.6,Average,72,Avg. Length Film
+1959,The Wild and the Innocent,"Action, Adventure, Romance",6.5,Average,84,Avg. Length Film
+1959,Witness in the Dark,Thriller,6.5,Average,62,Avg. Length Film
+1959,Woman Obsessed,"Drama, Romance",6.1,Average,103,Avg. Length Film
+1959,The Wonderful Country,"Romance, Western",6.2,Average,98,Avg. Length Film
+1959,"The World, The Flesh and The Devil","Drama, Romance, Sci-Fi",6.9,Average,95,Avg. Length Film
+1959,The Wreck of the Mary Deare,"Adventure, Crime, Drama",6.8,Average,105,Avg. Length Film
+1959,Yellowstone Kelly,Western,6.6,Average,91,Avg. Length Film
+1959,Yesterday's Enemy,"Drama, War",7.1,Excellent,95,Avg. Length Film
+1959,The Young Land,"Adventure, Drama, History",5.5,Average,89,Avg. Length Film
+1959,The Young Philadelphians,Drama,7.4,Excellent,136,No Data
+1959,Yûsei ôji,"Action, Adventure, Sci-Fi",2.2,Poor,121,No Data
+1959,Zamach,"Drama, War",6.9,Average,83,Avg. Length Film
+1959,À double tour,"Crime, Drama",6.7,Average,110,Avg. Length Film
+1959,Attack of the Giant Leeches,"Horror, Sci-Fi",3.7,Average,62,Avg. Length Film
+1959,Bobbikins,Comedy,5.1,Average,89,Avg. Length Film
+1959,Expresso Bongo,"Drama, Music",6.2,Average,111,Avg. Length Film
+1959,Gangster Story,"Crime, Drama, Thriller",4.8,Average,65,Avg. Length Film
+1959,Il generale Della Rovere,"Drama, War",7.8,Excellent,132,No Data
+1959,Annibale,"Action, Adventure, Biograp",5.2,Average,100,Avg. Length Film
+1959,The Headless Ghost,"Comedy, Horror",4.3,Average,62,Avg. Length Film
+1959,The Incredible Petrified World,"Action, Adventure, Sci-Fi",3.1,Average,70,Avg. Length Film
+1959,Jack the Ripper,"Crime, Horror, Mystery",6.2,Average,84,Avg. Length Film
+1959,Our Man in Havana,"Comedy, Crime, Drama",7.2,Excellent,103,Avg. Length Film
+1959,Pekka ja Pätkä mestarimaalareina,Comedy,5.3,Average,79,Avg. Length Film
+1959,The Purple Gang,"Crime, Drama",6.4,Average,85,Avg. Length Film
+1959,The Stranglers of Bombay,"Action, Adventure, History",6.3,Average,80,Avg. Length Film
+1959,Tommy the Toreador,"Comedy, Musical",4.8,Average,90,Avg. Length Film
+1959,Gli ultimi giorni di Pompei,"Action, Adventure, History",5.7,Average,93,Avg. Length Film
+1959,The Wasp Woman,"Horror, Sci-Fi",4.7,Average,63,Avg. Length Film
+1959,Left Right and Centre,"Comedy, Romance",6.2,Average,95,Avg. Length Film
+1959,The Manster,"Horror, Sci-Fi",5.4,Average,73,Avg. Length Film
+1959,Soldaterkammerater rykker ud,Comedy,6.1,Average,100,Avg. Length Film
+1959,Il vedovo,Comedy,7.2,Excellent,87,Avg. Length Film
+1959,Vallatud kurvid,"Comedy, Sport",7.0,Excellent,89,Avg. Length Film
+1959,The Naked Venus,Drama,5.1,Average,75,Avg. Length Film
+1959,Nepoddayushchiyesya,"Comedy, Romance",7.3,Excellent,80,Avg. Length Film
+1959,The Princess with the Golden Star,"Family, Fantasy, Romance",7.2,Excellent,80,Avg. Length Film
+1959,Tôkaidô Yotsuya kaidan,Horror,7.0,Excellent,76,Avg. Length Film
+1959,T-Bird Gang,"Drama, Thriller",4.7,Average,65,Avg. Length Film
+1959,Posledniy dyuym,"Adventure, Drama",7.2,Excellent,88,Avg. Length Film
+1959,Astero,"Drama, Romance",5.5,Average,73,Avg. Length Film
+1959,To xylo vgike apo ton Paradeiso,"Comedy, Romance",7.0,Excellent,98,Avg. Length Film
+1959,Revenge of the Virgins,Western,3.7,Average,61,Avg. Length Film
+1959,O Ilias tou 16ou,Comedy,8.0,Excellent,88,Avg. Length Film
+1959,I mousitsa,"Comedy, Romance",4.5,Average,83,Avg. Length Film
+1959,O Homem do Sputnik,Comedy,6.9,Average,98,Avg. Length Film
+1959,Jiang shan mei ren,"Drama, Family, Musical",6.7,Average,100,Avg. Length Film
+1959,Enas vlakas kai misos,Comedy,6.6,Average,69,Avg. Length Film
+1959,Hakuôki,"Drama, Action",6.6,Average,109,Avg. Length Film
+1959,Stournara 288,Comedy,7.0,Excellent,83,Avg. Length Film
+1959,Onna kyûketsuki,Horror,5.7,Average,78,Avg. Length Film
+1959,Laos kai Kolonaki,"Comedy, Romance",5.7,Average,77,Avg. Length Film
+1959,O thisavros tou makariti,Comedy,7.5,Excellent,89,Avg. Length Film
+1959,Dil Deke Dekho,"Musical, Romance",7.0,Excellent,187,No Data
+1959,Doa al karawan,"Drama, Romance",8.1,Excellent,109,Avg. Length Film
+1959,Eglima sto Kolonaki,"Crime, Mystery, Thriller",7.1,Excellent,115,Avg. Length Film
+1959,Veerapandiya Kattabomman,"Biography, Drama, History",7.5,Excellent,201,No Data
+1959,HD-Soldat Läppli,Comedy,6.9,Average,115,Avg. Length Film
+1959,Gitaa o motta wataridori,Crime,6.3,Average,77,Avg. Length Film
+1959,Pendekar bujang lapok,Comedy,7.3,Excellent,104,Avg. Length Film
+1959,Hinter den sieben Gleisen,"Comedy, Drama, Romance",6.6,Average,103,Avg. Length Film
+1959,Navrang,"Drama, Musical, Romance",6.4,Average,157,No Data
+1959,Deep Jweley Jai,"Drama, Romance",7.7,Excellent,132,No Data
+1959,Une simple histoire,Drama,7.0,Excellent,68,Avg. Length Film
+1959,Ismail Yassine fil tayyaran,"Comedy, Drama",6.1,Average,87,Avg. Length Film
+1959,Seraa fil Nil,Drama,7.0,Excellent,125,No Data
+1959,Sirr taqiyyat al ikhfa,Comedy,7.0,Excellent,96,Avg. Length Film
+1959,El rajul el thani,"Crime, Drama, Thriller",7.1,Excellent,170,No Data
+1959,Bir qalanin sirri,"Adventure, Family, Fantasy",7.1,Excellent,79,Avg. Length Film

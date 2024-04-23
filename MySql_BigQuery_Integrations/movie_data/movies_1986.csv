@@ -1,0 +1,762 @@
+year,title,genre,avg_vote,movie_category,duration,length_category
+1986,7 xiao fu,"Action, Comedy",6.5,Average,80,Avg. Length Film
+1986,Proverka na dorogakh,"Drama, War",7.9,Excellent,96,Avg. Length Film
+1986,Ninja Champion,Action,3.2,Average,87,Avg. Length Film
+1986,Bad Girls Dormitory,"Action, Drama, Horror",4.0,Average,95,Avg. Length Film
+1986,Odd Jobs,Comedy,4.7,Average,88,Avg. Length Film
+1986,The Princess and the Call Girl,"Comedy, Drama, Romance",4.7,Average,80,Avg. Length Film
+1986,Prison Ship,"Action, Comedy, Sci-Fi",3.4,Average,86,Avg. Length Film
+1986,As Sete Vampiras,"Comedy, Horror, Mystery",4.6,Average,100,Avg. Length Film
+1986,Um Adeus Português,Drama,6.1,Average,85,Avg. Length Film
+1986,Alien Warrior,"Action, Crime, Sci-Fi",4.3,Average,100,Avg. Length Film
+1986,L'assassino è ancora tra noi,"Horror, Mystery, Thriller",5.0,Average,83,Avg. Length Film
+1986,Il Bi e il Ba,Comedy,6.2,Average,90,Avg. Length Film
+1986,Baykot,Drama,5.9,Average,114,Avg. Length Film
+1986,Il camorrista,"Crime, Drama",7.2,Excellent,171,No Data
+1986,Car Trouble,Comedy,5.3,Average,93,Avg. Length Film
+1986,Club Life,"Action, Drama, Thriller",4.7,Average,93,Avg. Length Film
+1986,Colierul de turcoaze,"Action, Adventure, History",7.3,Excellent,92,Avg. Length Film
+1986,Crystal Heart,"Drama, Music, Romance",5.1,Average,103,Avg. Length Film
+1986,Desiderando Giulia,Drama,5.2,Average,104,Avg. Length Film
+1986,Detective School Dropouts,Comedy,5.9,Average,92,Avg. Length Film
+1986,The Devastator,"Action, War",4.8,Average,79,Avg. Length Film
+1986,Dressage,"Comedy, Drama",5.0,Average,98,Avg. Length Film
+1986,Egészséges erotika,Comedy,7.6,Excellent,94,Avg. Length Film
+1986,Az elvarázsolt dollár,"Comedy, Crime",7.1,Excellent,90,Avg. Length Film
+1986,F/X,"Action, Thriller",6.7,Average,109,Avg. Length Film
+1986,Fair Game,"Action, Thriller",6.0,Average,86,Avg. Length Film
+1986,Falfúró,"Comedy, Drama",6.7,Average,98,Avg. Length Film
+1986,Heavenly Pursuits,"Comedy, Drama",5.9,Average,92,Avg. Length Film
+1986,Gros dégueulasse,Comedy,4.2,Average,88,Avg. Length Film
+1986,Hell Squad,Action,3.8,Average,87,Avg. Length Film
+1986,Jako jed,Comedy,6.9,Average,76,Avg. Length Film
+1986,Khamosh,"Mystery, Thriller",7.5,Excellent,101,Avg. Length Film
+1986,Killing Cars,"Action, Thriller",4.1,Average,104,Avg. Length Film
+1986,Lola,"Drama, Thriller",5.5,Average,106,Avg. Length Film
+1986,Mala Noche,Drama,6.6,Average,78,Avg. Length Film
+1986,The Malibu Bikini Shop,"Comedy, Romance",4.8,Average,99,Avg. Length Film
+1986,Mambrú se fue a la guerra,Drama,6.5,Average,99,Avg. Length Film
+1986,Nattseilere,"Adventure, Drama",6.8,Average,113,Avg. Length Film
+1986,New Delhi Times,"Drama, Mystery",7.5,Excellent,123,No Data
+1986,"No Retreat, No Surrender","Action, Comedy, Crime",5.7,Average,85,Avg. Length Film
+1986,Odinochnoe plavanie,"Action, Drama",5.7,Average,96,Avg. Length Film
+1986,La película del rey,"Comedy, Drama",7.0,Excellent,107,Avg. Length Film
+1986,Pohádka o Malíckovi,"Family, Fantasy",6.9,Average,80,Avg. Length Film
+1986,"Posle dozhdichka, v chetverg","Adventure, Comedy, Family",7.2,Excellent,78,Avg. Length Film
+1986,Qi yuan,"Action, Horror",5.3,Average,89,Avg. Length Film
+1986,Revenge of the Stolen Stars,"Adventure, Comedy, Fantasy",2.1,Poor,76,Avg. Length Film
+1986,Roller Blade,"Action, Comedy, Sci-Fi",2.9,Poor,88,Avg. Length Film
+1986,"Rosa la rose, fille publique",Drama,6.6,Average,92,Avg. Length Film
+1986,La signora della notte,Drama,5.0,Average,90,Avg. Length Film
+1986,Speriamo che sia femmina,"Comedy, Drama",6.7,Average,120,No Data
+1986,Spookies,"Comedy, Horror",5.1,Average,85,Avg. Length Film
+1986,Super Fantozzi,Comedy,6.4,Average,92,Avg. Length Film
+1986,Swathi Muthyam,"Drama, Family, Romance",8.3,Excellent,160,No Data
+1986,Szerelem elsö vérig,"Comedy, Drama, Romance",7.1,Excellent,94,Avg. Length Film
+1986,Thunder Run,"Action, Sci-Fi, Thriller",5.1,Average,90,Avg. Length Film
+1986,Toby McTeague,"Action, Drama",5.9,Average,96,Avg. Length Film
+1986,The Tomb,"Horror, Fantasy",3.4,Average,84,Avg. Length Film
+1986,Tras el cristal,"Drama, Horror",6.8,Average,110,Avg. Length Film
+1986,Uphill All the Way,Comedy,4.2,Average,86,Avg. Length Film
+1986,El viaje a ninguna parte,"Comedy, Drama",7.6,Excellent,134,No Data
+1986,Ein Virus kennt keine Moral,"Comedy, Drama, Sci-Fi",5.6,Average,84,Avg. Length Film
+1986,When the Wind Blows,"Animation, Comedy, Drama",7.7,Excellent,84,Avg. Length Film
+1986,Witchboard,"Horror, Mystery, Thriller",5.7,Average,98,Avg. Length Film
+1986,Wohin und zurück - Teil 3: Welcome in Vienna,Drama,7.1,Excellent,127,No Data
+1986,'38,Drama,6.4,Average,97,Avg. Length Film
+1986,Crocodile Dundee,"Action, Adventure, Comedy",6.6,Average,97,Avg. Length Film
+1986,"'night, Mother",Drama,7.6,Excellent,96,Avg. Length Film
+1986,'Round Midnight,"Drama, Music",7.4,Excellent,133,No Data
+1986,27 horas,Drama,6.4,Average,81,Avg. Length Film
+1986,37°2 le matin,"Drama, Romance",7.4,Excellent,120,No Data
+1986,3:15,"Crime, Drama, Thriller",5.6,Average,86,Avg. Length Film
+1986,40 Quadratmeter Deutschland,Drama,7.1,Excellent,80,Avg. Length Film
+1986,52 Pick-Up,"Crime, Drama, Thriller",6.4,Average,110,Avg. Length Film
+1986,8 Million Ways to Die,"Action, Crime, Drama",5.8,Average,115,Avg. Length Film
+1986,Aakhree Raasta,"Action, Crime, Drama",7.0,Excellent,164,No Data
+1986,De aanslag,"Drama, History, Romance",7.3,Excellent,155,No Data
+1986,Abducted,"Drama, Thriller",5.1,Average,90,Avg. Length Film
+1986,Abel,Comedy,7.5,Excellent,100,Avg. Length Film
+1986,The Abomination,Horror,4.3,Average,100,Avg. Length Film
+1986,About Last Night...,"Comedy, Drama, Romance",6.2,Average,113,Avg. Length Film
+1986,Absolute Beginners,"Drama, Musical, Romance",5.5,Average,108,Avg. Length Film
+1986,Superfantagenio,"Adventure, Fantasy",5.3,Average,95,Avg. Length Film
+1986,Aliens,"Action, Adventure, Sci-Fi",8.4,Excellent,137,No Data
+1986,Alla vi barn i Bullerbyn,Family,6.7,Average,87,Avg. Length Film
+1986,Allah-Rakha,"Action, Drama",5.5,Average,160,No Data
+1986,Amazons,"Action, Fantasy, Adventure",4.5,Average,87,Avg. Length Film
+1986,America,Comedy,4.6,Average,83,Avg. Length Film
+1986,America 3000,"Action, Adventure, Sci-Fi",4.4,Average,92,Avg. Length Film
+1986,American Anthem,"Drama, Sport",4.7,Average,102,Avg. Length Film
+1986,An American Tail,"Animation, Adventure, Come",6.9,Average,80,Avg. Length Film
+1986,Amma Ariyan,Drama,6.8,Average,115,Avg. Length Film
+1986,El amor brujo,"Music, Drama",7.0,Excellent,100,Avg. Length Film
+1986,Amorosa,"Biography, Drama",5.9,Average,117,Avg. Length Film
+1986,Anne Trister,Drama,7.2,Excellent,103,Avg. Length Film
+1986,April Fool's Day,"Horror, Mystery",6.2,Average,89,Avg. Length Film
+1986,Arion,"Animation, Action, Adventu",6.5,Average,118,Avg. Length Film
+1986,Armed Response,"Action, Crime, Thriller",5.1,Average,86,Avg. Length Film
+1986,Armed and Dangerous,"Action, Comedy, Crime",5.7,Average,88,Avg. Length Film
+1986,Astérix chez les Bretons,"Animation, Adventure, Come",7.1,Excellent,79,Avg. Length Film
+1986,At Close Range,"Crime, Drama",7.0,Excellent,111,Avg. Length Film
+1986,Attention bandits!,Drama,6.4,Average,111,Avg. Length Film
+1986,The Aurora Encounter,"Biography, Comedy, Drama",4.4,Average,90,Avg. Length Film
+1986,Avanti popolo,"Drama, War",7.6,Excellent,84,Avg. Length Film
+1986,Avenging Force,"Action, Drama, Thriller",5.9,Average,104,Avg. Length Film
+1986,El año de las luces,"Comedy, Drama, History",6.9,Average,105,Avg. Length Film
+1986,Bach et Bottine,"Comedy, Drama, Family",6.6,Average,96,Avg. Length Film
+1986,Back to School,"Comedy, Romance, Sport",6.6,Average,96,Avg. Length Film
+1986,Band of the Hand,"Action, Crime, Drama",6.3,Average,109,Avg. Length Film
+1986,Barndommens gade,Drama,6.2,Average,90,Avg. Length Film
+1986,Belizaire the Cajun,"Drama, History, Romance",6.6,Average,103,Avg. Length Film
+1986,The Best of Times,"Comedy, Drama, Sport",6.0,Average,104,Avg. Length Film
+1986,Al-Bidaya,"Comedy, Drama, Fantasy",7.4,Excellent,123,No Data
+1986,Big Trouble,Comedy,5.2,Average,93,Avg. Length Film
+1986,Big Trouble in Little China,"Action, Adventure, Comedy",7.3,Excellent,99,Avg. Length Film
+1986,Biggles,"Adventure, Family, Sci-Fi",5.7,Average,108,Avg. Length Film
+1986,Black Mic Mac,Comedy,5.4,Average,93,Avg. Length Film
+1986,Black Moon Rising,"Action, Thriller",5.5,Average,100,Avg. Length Film
+1986,Bleu comme l'enfer,"Crime, Action",4.9,Average,103,Avg. Length Film
+1986,Blood Hook,"Comedy, Horror",4.2,Average,92,Avg. Length Film
+1986,Blue City,"Action, Crime, Drama",4.4,Average,83,Avg. Length Film
+1986,Blue Velvet,"Drama, Mystery, Thriller",7.8,Excellent,120,No Data
+1986,La bonne,"Drama, Romance",5.6,Average,82,Avg. Length Film
+1986,The Boss' Wife,Comedy,4.9,Average,83,Avg. Length Film
+1986,The Boy Who Could Fly,"Drama, Fantasy, Romance",6.5,Average,114,Avg. Length Film
+1986,The Boy in Blue,"Biography, Drama, Sport",5.3,Average,100,Avg. Length Film
+1986,Breeders,"Horror, Sci-Fi",3.7,Average,77,Avg. Length Film
+1986,Un ponte per l'inferno,War,4.2,Average,88,Avg. Length Film
+1986,Bridge to Nowhere,"Drama, Horror, Thriller",5.2,Average,86,Avg. Length Film
+1986,Brighton Beach Memoirs,Comedy,6.8,Average,108,Avg. Length Film
+1986,Bröderna Mozart,"Comedy, Drama, Music",5.9,Average,109,Avg. Length Film
+1986,Bullies,"Action, Thriller, Drama",5.3,Average,96,Avg. Length Film
+1986,Cactus,"Drama, Romance",6.2,Average,93,Avg. Length Film
+1986,Camping del terrore,"Horror, Mystery",4.7,Average,87,Avg. Length Film
+1986,Captive,"Crime, Thriller",4.5,Average,98,Avg. Length Film
+1986,Caravaggio,"Biography, Drama, History",6.6,Average,93,Avg. Length Film
+1986,Care Bears Movie II: A New Generation,"Animation, Adventure, Come",5.5,Average,76,Avg. Length Film
+1986,Il caso Moro,"Crime, Drama, History",7.1,Excellent,110,Avg. Length Film
+1986,Chameli Ki Shaadi,"Comedy, Drama, Romance",7.5,Excellent,136,No Data
+1986,Charlotte for Ever,"Comedy, Drama",5.5,Average,94,Avg. Length Film
+1986,The Check Is in the Mail...,Comedy,4.6,Average,91,Avg. Length Film
+1986,Children of a Lesser God,"Drama, Romance",7.2,Excellent,119,Avg. Length Film
+1986,Choke Canyon,"Action, Sci-Fi",5.4,Average,94,Avg. Length Film
+1986,Chopping Mall,"Comedy, Horror, Sci-Fi",5.6,Average,77,Avg. Length Film
+1986,The Christmas Star,"Drama, Family",6.5,Average,94,Avg. Length Film
+1986,Chuzhaya belaya i ryaboy,Drama,7.0,Excellent,100,Avg. Length Film
+1986,The Clan of the Cave Bear,"Adventure, Drama, Fantasy",5.4,Average,98,Avg. Length Film
+1986,Class of Nuke 'Em High,"Comedy, Horror, Sci-Fi",5.7,Average,85,Avg. Length Film
+1986,Clockwise,Comedy,6.6,Average,96,Avg. Length Film
+1986,Club Paradise,Comedy,5.1,Average,96,Avg. Length Film
+1986,Cobra,"Action, Crime, Thriller",5.8,Average,87,Avg. Length Film
+1986,The Color of Money,"Drama, Sport",7.0,Excellent,119,Avg. Length Film
+1986,Conseil de famille,Comedy,5.1,Average,120,No Data
+1986,Cours privé,Drama,5.6,Average,95,Avg. Length Film
+1986,Crawlspace,"Horror, Thriller",5.3,Average,80,Avg. Length Film
+1986,Crimes of the Heart,"Comedy, Drama",6.4,Average,105,Avg. Length Film
+1986,Critters,"Comedy, Horror, Sci-Fi",6.1,Average,86,Avg. Length Film
+1986,Crossroads,"Drama, Music, Mystery",7.1,Excellent,99,Avg. Length Film
+1986,Da yue bing,Drama,6.2,Average,103,Avg. Length Film
+1986,Il miele del diavolo,Thriller,5.4,Average,78,Avg. Length Film
+1986,Dangerously Close,"Action, Crime, Thriller",5.6,Average,95,Avg. Length Film
+1986,Dao ma zei,Drama,7.0,Excellent,88,Avg. Length Film
+1986,Dead End Drive-In,"Action, Drama, Horror",6.0,Average,88,Avg. Length Film
+1986,Deadly Friend,"Drama, Horror, Sci-Fi",5.6,Average,91,Avg. Length Film
+1986,Dei ha ching,"Drama, Mystery, Romance",6.8,Average,96,Avg. Length Film
+1986,The Delta Force,"Action, Adventure, Drama",5.6,Average,125,No Data
+1986,Demoner,Drama,5.7,Average,127,No Data
+1986,Dèmoni 2... l'incubo ritorna,Horror,6.0,Average,88,Avg. Length Film
+1986,To dendro pou pligoname,Drama,6.9,Average,75,Avg. Length Film
+1986,Descente aux enfers,"Thriller, Crime, Drama",5.4,Average,88,Avg. Length Film
+1986,Desert Bloom,"Drama, Family, Romance",6.7,Average,105,Avg. Length Film
+1986,Din lo zing zyun,"Drama, Thriller",7.2,Excellent,87,Avg. Length Film
+1986,Diavolo in corpo,"Drama, Romance",5.8,Average,114,Avg. Length Film
+1986,Didi auf vollen Touren,Comedy,5.7,Average,92,Avg. Length Film
+1986,El disputado voto del señor Cayo,Drama,6.5,Average,94,Avg. Length Film
+1986,Do ma daan,"Comedy, Action",7.3,Excellent,104,Avg. Length Film
+1986,Dot and the Whale,"Animation, Adventure, Fami",6.6,Average,75,Avg. Length Film
+1986,Double messieurs,"Drama, Comedy",6.7,Average,90,Avg. Length Film
+1986,Down and Out in Beverly Hills,Comedy,6.2,Average,103,Avg. Length Film
+1986,Down by Law,"Comedy, Crime, Drama",7.8,Excellent,107,Avg. Length Film
+1986,Dragón Rapide,"Drama, History",6.3,Average,100,Avg. Length Film
+1986,Dream Lover,"Crime, Drama, Thriller",4.8,Average,104,Avg. Length Film
+1986,Le déclin de l'empire américain,"Comedy, Drama",7.3,Excellent,101,Avg. Length Film
+1986,Désordre,"Drama, Music",6.6,Average,88,Avg. Length Film
+1986,Eat the Peach,Comedy,6.2,Average,97,Avg. Length Film
+1986,Egomania - Insel ohne Hoffnung,Drama,6.3,Average,84,Avg. Length Film
+1986,Eliminators,"Action, Adventure, Fantasy",4.7,Average,96,Avg. Length Film
+1986,Elämän vonkamies,Drama,6.9,Average,142,No Data
+1986,Every Time We Say Goodbye,"Drama, Romance, War",5.9,Average,95,Avg. Length Film
+1986,Extremities,"Drama, Thriller",6.3,Average,89,Avg. Length Film
+1986,L'exécutrice,"Action, Crime, Drama",4.1,Average,86,Avg. Length Film
+1986,Eye of the Tiger,"Action, Drama",5.7,Average,92,Avg. Length Film
+1986,The Fantasist,Thriller,5.3,Average,98,Avg. Length Film
+1986,Fatherland,"Drama, Music",6.3,Average,111,Avg. Length Film
+1986,La femme de ma vie,"Drama, Romance",6.1,Average,102,Avg. Length Film
+1986,Ferris Bueller's Day Off,Comedy,7.8,Excellent,103,Avg. Length Film
+1986,Field of Honor,"Drama, War",5.2,Average,95,Avg. Length Film
+1986,Filme Demência,"Drama, Fantasy",7.2,Excellent,92,Avg. Length Film
+1986,A Fine Mess,"Action, Comedy, Crime",4.8,Average,90,Avg. Length Film
+1986,Fire with Fire,"Drama, Romance",6.5,Average,103,Avg. Length Film
+1986,Firewalker,"Action, Adventure, Comedy",5.1,Average,105,Avg. Length Film
+1986,Flight of the Navigator,"Adventure, Comedy, Family",6.9,Average,90,Avg. Length Film
+1986,Flodder,"Action, Comedy, Family",6.6,Average,111,Avg. Length Film
+1986,The Fly,"Drama, Horror, Sci-Fi",7.5,Excellent,96,Avg. Length Film
+1986,Flying,"Drama, Romance, Sport",5.2,Average,90,Avg. Length Film
+1986,For Love Alone,"History, Romance",5.5,Average,102,Avg. Length Film
+1986,Foreign Body,Comedy,6.1,Average,111,Avg. Length Film
+1986,Foxtrap,"Action, Drama",4.6,Average,88,Avg. Length Film
+1986,Free Ride,Comedy,5.2,Average,92,Avg. Length Film
+1986,Friday the 13th Part VI: Jason Lives,"Horror, Thriller",6.0,Average,86,Avg. Length Film
+1986,The Fringe Dwellers,Drama,6.8,Average,98,Avg. Length Film
+1986,From Beyond,"Horror, Sci-Fi",6.7,Average,85,Avg. Length Film
+1986,Les frères Pétard,"Comedy, Crime",5.2,Average,90,Avg. Length Film
+1986,Foo gwai lit che,"Action, Comedy, Western",7.0,Excellent,98,Avg. Length Film
+1986,The Fugitives,"Comedy, Crime, Drama",7.1,Excellent,95,Avg. Length Film
+1986,"Ga, Ga - Chwala bohaterom","Comedy, Horror, Sci-Fi",7.0,Excellent,84,Avg. Length Film
+1986,Geld oder Leber!,Comedy,4.3,Average,85,Avg. Length Film
+1986,Genesis,Drama,7.1,Excellent,105,Avg. Length Film
+1986,Getting Even,"Action, Adventure, Romance",4.2,Average,90,Avg. Length Film
+1986,Ginger e Fred,"Comedy, Drama",7.3,Excellent,125,No Data
+1986,Yuppies - I giovani di successo,Comedy,5.3,Average,90,Avg. Length Film
+1986,Girls School Screamers,Horror,3.7,Average,80,Avg. Length Film
+1986,La gitane,Comedy,4.4,Average,95,Avg. Length Film
+1986,GoBots: Battle of the Rock Lords,"Animation, Action, Adventu",5.8,Average,75,Avg. Length Film
+1986,God's Outlaw,"Biography, Drama, History",6.8,Average,93,Avg. Length Film
+1986,The Golden Child,"Action, Adventure, Comedy",6.0,Average,94,Avg. Length Film
+1986,Golden Ninja Warrior,Action,3.1,Average,85,Avg. Length Film
+1986,Yari no Gonza,Drama,7.0,Excellent,126,No Data
+1986,Gothic,Horror,5.7,Average,87,Avg. Length Film
+1986,Grandi magazzini,Comedy,5.6,Average,110,Avg. Length Film
+1986,The Great Mouse Detective,"Animation, Adventure, Fami",7.2,Excellent,74,Avg. Length Film
+1986,A Great Wall,"Comedy, Drama",6.7,Average,97,Avg. Length Film
+1986,Gröna gubbar från Y.R.,Sci-Fi,3.6,Average,85,Avg. Length Film
+1986,Gung Ho,"Comedy, Drama",6.3,Average,112,Avg. Length Film
+1986,Half Moon Street,"Drama, Thriller",5.4,Average,90,Avg. Length Film
+1986,Hamburger: The Motion Picture,Comedy,5.0,Average,90,Avg. Length Film
+1986,Vendetta dal futuro,"Action, Sci-Fi",5.4,Average,94,Avg. Length Film
+1986,Hannah and Her Sisters,"Comedy, Drama",7.9,Excellent,107,Avg. Length Film
+1986,Happy Hour,Comedy,4.1,Average,88,Avg. Length Film
+1986,Hardbodies 2,Comedy,3.2,Average,88,Avg. Length Film
+1986,Haunted Honeymoon,Comedy,5.7,Average,82,Avg. Length Film
+1986,Heartbreak Ridge,"Drama, War",6.9,Average,130,No Data
+1986,Heartburn,"Comedy, Drama",6.1,Average,108,Avg. Length Film
+1986,Highlander,"Action, Adventure, Fantasy",7.1,Excellent,116,Avg. Length Film
+1986,The Hitcher,"Action, Thriller",7.3,Excellent,97,Avg. Length Film
+1986,Hollywood Vice Squad,"Action, Comedy, Crime",4.7,Average,101,Avg. Length Film
+1986,Hombre mirando al sudeste,"Drama, Mystery, Sci-Fi",7.7,Excellent,105,Avg. Length Film
+1986,Hoosiers,"Drama, Sport",7.5,Excellent,114,Avg. Length Film
+1986,Hotshot,"Drama, Sport",5.5,Average,99,Avg. Length Film
+1986,Howard the Duck,"Action, Adventure, Comedy",4.7,Average,110,Avg. Length Film
+1986,Wong ga jin si,"Action, Drama",6.8,Average,96,Avg. Length Film
+1986,Hud,"Crime, Drama",3.2,Average,115,Avg. Length Film
+1986,Hyper Sapien: People from Another Star,"Family, Sci-Fi",4.7,Average,92,Avg. Length Film
+1986,I Love You,"Drama, Fantasy, Romance",5.8,Average,101,Avg. Length Film
+1986,I lagens namn,"Crime, Thriller",6.2,Average,87,Avg. Length Film
+1986,Idö van,"Comedy, Drama",6.7,Average,112,Avg. Length Film
+1986,El imperio de la fortuna,Drama,7.2,Excellent,130,No Data
+1986,In de schaduw van de overwinning,"Drama, War",6.4,Average,103,Avg. Length Film
+1986,In the Shadow of Kilimanjaro,"Action, Adventure, Drama",5.2,Average,97,Avg. Length Film
+1986,Inside Out,"Drama, Romance",6.3,Average,87,Avg. Length Film
+1986,Inspecteur Lavardin,"Crime, Drama, Mystery",6.6,Average,100,Avg. Length Film
+1986,Invaders from Mars,"Horror, Sci-Fi",5.5,Average,100,Avg. Length Film
+1986,Iron Eagle,"Action, Thriller, War",5.5,Average,117,Avg. Length Film
+1986,Jackals,"Action, Crime, Drama",5.5,Average,97,Avg. Length Film
+1986,Jake Speed,"Action, Adventure, Comedy",5.4,Average,105,Avg. Length Film
+1986,Janbaaz,"Action, Drama",6.1,Average,175,No Data
+1986,Je hais les acteurs,"Comedy, Crime, Drama",5.9,Average,90,Avg. Length Film
+1986,Jean de Florette,Drama,8.0,Excellent,120,No Data
+1986,Geung see ga zuk,"Action, Comedy, Horror",5.8,Average,89,Avg. Length Film
+1986,"Jo Jo Dancer, Your Life Is Calling","Biography, Comedy, Drama",6.4,Average,97,Avg. Length Film
+1986,Johnny Flash,Comedy,6.8,Average,77,Avg. Length Film
+1986,A Judgment in Stone,"Horror, Thriller",5.7,Average,102,Avg. Length Film
+1986,Jumpin' Jack Flash,"Comedy, Romance, Thriller",5.9,Average,105,Avg. Length Film
+1986,Jûichi-nin iru!,"Animation, Action, Adventu",7.1,Excellent,91,Avg. Length Film
+1986,Just Between Friends,Drama,5.9,Average,110,Avg. Length Film
+1986,Born American,"Action, Drama, Thriller",4.1,Average,97,Avg. Length Film
+1986,Jönssonligan dyker upp igen,"Comedy, Crime",6.1,Average,88,Avg. Length Film
+1986,Kai xin gui zhuang gui,"Comedy, Crime, Fantasy",6.1,Average,89,Avg. Length Film
+1986,Kamikaze,"Sci-Fi, Thriller",5.7,Average,90,Avg. Length Film
+1986,Kangaroo,Drama,6.6,Average,108,Avg. Length Film
+1986,The Karate Kid Part II,"Action, Family, Romance",6.0,Average,113,Avg. Length Film
+1986,Karma,"Action, Adventure, Comedy",7.4,Excellent,193,No Data
+1986,"Khrani menya, moy talisman",Drama,7.1,Excellent,74,Avg. Length Film
+1986,Killer Party,"Comedy, Horror",5.1,Average,91,Avg. Length Film
+1986,Kin-dza-dza!,"Comedy, Drama, Sci-Fi",8.1,Excellent,135,No Data
+1986,King Kong Lives,"Action, Adventure",3.9,Average,105,Avg. Length Film
+1986,Knights of the City,"Action, Music",5.2,Average,87,Avg. Length Film
+1986,Kochankowie mojej mamy,Drama,7.0,Excellent,93,Avg. Length Film
+1986,Komikku zasshi nanka iranai!,Comedy,6.8,Average,120,No Data
+1986,Kong bu fen zi,"Crime, Drama",7.8,Excellent,109,Avg. Length Film
+1986,Kronika wypadków milosnych,Drama,6.9,Average,120,No Data
+1986,Hao xiao zi,Comedy,7.1,Excellent,86,Avg. Length Film
+1986,Kuryer,"Comedy, Drama, Romance",8.0,Excellent,88,Avg. Length Film
+1986,Labyrinth,"Adventure, Family, Fantasy",7.4,Excellent,101,Avg. Length Film
+1986,The Ladies Club,Drama,5.4,Average,85,Avg. Length Film
+1986,Lady Jane,"Biography, Drama, History",7.1,Excellent,136,No Data
+1986,Laputa,Drama,6.5,Average,92,Avg. Length Film
+1986,Las Vegas Serial Killer,"Horror, Drama, Thriller",2.7,Poor,87,Avg. Length Film
+1986,Last Resort,Comedy,4.1,Average,84,Avg. Length Film
+1986,Legal Eagles,"Comedy, Crime, Romance",6.0,Average,116,Avg. Length Film
+1986,Lepota poroka,Drama,7.9,Excellent,105,Avg. Length Film
+1986,Let's Get Harry,"Action, Adventure",5.3,Average,102,Avg. Length Film
+1986,Liàn liàn fengchén,"Drama, Romance",7.7,Excellent,109,Avg. Length Film
+1986,Le lieu du crime,"Crime, Drama, Romance",6.7,Average,90,Avg. Length Film
+1986,"Lightning, the White Stallion","Drama, Family",4.6,Average,95,Avg. Length Film
+1986,Liian iso keikka,"Comedy, Crime",6.1,Average,95,Avg. Length Film
+1986,Link,Horror,5.9,Average,103,Avg. Length Film
+1986,Little Shop of Horrors,"Comedy, Horror, Musical",7.0,Excellent,94,Avg. Length Film
+1986,Lone Runner,"Action, Adventure, Drama",3.6,Average,84,Avg. Length Film
+1986,Long zai jiang hu,Action,6.1,Average,87,Avg. Length Film
+1986,Les longs manteaux,"Action, Adventure",5.1,Average,106,Avg. Length Film
+1986,The Longshot,Comedy,5.5,Average,89,Avg. Length Film
+1986,Lung hing foo dai,"Action, Adventure, Comedy",7.1,Excellent,88,Avg. Length Film
+1986,Low Blow,Action,3.7,Average,90,Avg. Length Film
+1986,Lucas,"Comedy, Drama, Romance",6.9,Average,100,Avg. Length Film
+1986,Lucker,"Horror, Thriller",3.7,Average,74,Avg. Length Film
+1986,Zui jia fu xing,"Action, Comedy",5.5,Average,95,Avg. Length Film
+1986,Lumikuningatar,"Family, Fantasy",6.6,Average,89,Avg. Length Film
+1986,Lussuria,Drama,4.7,Average,83,Avg. Length Film
+1986,La machine à découdre,"Comedy, Thriller",4.9,Average,88,Avg. Length Film
+1986,Maine Ocean,Comedy,6.8,Average,130,No Data
+1986,Malcolm,"Comedy, Crime, Sci-Fi",7.2,Excellent,90,Avg. Length Film
+1986,Mama is boos!,Comedy,5.5,Average,110,Avg. Length Film
+1986,Rih essed,Drama,6.3,Average,109,Avg. Length Film
+1986,The Manhattan Project,"Sci-Fi, Thriller",6.2,Average,117,Avg. Length Film
+1986,Manhunter,"Crime, Horror, Mystery",7.2,Excellent,120,No Data
+1986,Manon des sources,Drama,8.0,Excellent,113,Avg. Length Film
+1986,La mansión de Araucaima,Drama,6.9,Average,85,Avg. Length Film
+1986,Matador,"Drama, Thriller",6.9,Average,110,Avg. Length Film
+1986,Mauvais sang,"Crime, Drama, Romance",7.3,Excellent,116,Avg. Length Film
+1986,Max mon amour,Comedy,6.1,Average,92,Avg. Length Film
+1986,Maximum Overdrive,"Action, Comedy, Horror",5.5,Average,98,Avg. Length Film
+1986,O melissokomos,Drama,7.3,Excellent,122,No Data
+1986,Mélo,"Drama, Romance",7.0,Excellent,112,Avg. Length Film
+1986,The Men's Club,Drama,4.7,Average,101,Avg. Length Film
+1986,Mung chung yan,Drama,6.5,Average,95,Avg. Length Film
+1986,Menu total,"Comedy, Horror, Thriller",5.6,Average,81,Avg. Length Film
+1986,Miracles,Comedy,5.3,Average,87,Avg. Length Film
+1986,Miss Mary,Drama,6.6,Average,100,Avg. Length Film
+1986,The Mission,"Adventure, Drama, History",7.4,Excellent,125,No Data
+1986,La mitad del cielo,Drama,6.8,Average,127,No Data
+1986,Mo fei cui,"Action, Adventure, Comedy",6.1,Average,95,Avg. Length Film
+1986,Modern Girls,Comedy,5.9,Average,84,Avg. Length Film
+1986,Momo,"Comedy, Family, Fantasy",6.6,Average,101,Avg. Length Film
+1986,Mona Lisa,"Crime, Drama, Romance",7.3,Excellent,104,Avg. Length Film
+1986,La monaca del peccato,Drama,4.9,Average,88,Avg. Length Film
+1986,The Money Pit,Comedy,6.4,Average,91,Avg. Length Film
+1986,Monster in the Closet,"Comedy, Horror, Sci-Fi",4.9,Average,90,Avg. Length Film
+1986,Mord i mørket,Crime,5.8,Average,98,Avg. Length Film
+1986,Morirai a mezzanotte,"Horror, Mystery, Thriller",5.7,Average,88,Avg. Length Film
+1986,The Morning After,"Crime, Mystery, Romance",5.9,Average,103,Avg. Length Film
+1986,Morrhår & ärtor,Comedy,5.9,Average,101,Avg. Length Film
+1986,Mort un dimanche de pluie,"Horror, Thriller",6.7,Average,109,Avg. Length Film
+1986,The Mosquito Coast,"Adventure, Drama, Thriller",6.6,Average,117,Avg. Length Film
+1986,Mouna Ragam,"Drama, Romance",8.5,Excellent,146,No Data
+1986,Murphy's Law,"Action, Crime, Drama",6.0,Average,100,Avg. Length Film
+1986,My Chauffeur,Comedy,5.7,Average,97,Avg. Length Film
+1986,My Little Girl,Drama,4.6,Average,118,Avg. Length Film
+1986,My Little Pony: The Movie,"Animation, Family, Fantasy",6.0,Average,86,Avg. Length Film
+1986,Müllers Büro,"Comedy, Crime, Musical",6.9,Average,104,Avg. Length Film
+1986,Naam,"Crime, Drama, Thriller",7.5,Excellent,177,No Data
+1986,Nagina,"Fantasy, Romance",6.6,Average,137,No Data
+1986,The Naked Cage,"Action, Crime, Drama",5.4,Average,97,Avg. Length Film
+1986,Der Name der Rose,"Crime, Drama, Mystery",7.7,Excellent,130,No Data
+1986,Nan bei Shao Lin,"Action, Drama",6.6,Average,99,Avg. Length Film
+1986,Nanou,"Drama, Romance",5.9,Average,110,Avg. Length Film
+1986,Native Son,"Drama, Romance",5.8,Average,111,Avg. Length Film
+1986,Necropolis,Horror,3.9,Average,77,Avg. Length Film
+1986,Never Too Young to Die,"Action, Adventure, Comedy",4.9,Average,97,Avg. Length Film
+1986,Night of the Creeps,"Comedy, Horror, Sci-Fi",6.8,Average,88,Avg. Length Film
+1986,Nightmare Weekend,"Horror, Sci-Fi",3.0,Poor,85,Avg. Length Film
+1986,Nine 1/2 Weeks,"Drama, Romance",6.0,Average,117,Avg. Length Film
+1986,Ren zhe da,"Action, Crime",6.0,Average,90,Avg. Length Film
+1986,No Mercy,"Crime, Drama, Romance",5.7,Average,106,Avg. Length Film
+1986,Nobody's Fool,"Comedy, Drama, Romance",5.4,Average,107,Avg. Length Film
+1986,Noir et blanc,Drama,6.6,Average,80,Avg. Length Film
+1986,Nomads,"Horror, Mystery, Thriller",5.4,Average,91,Avg. Length Film
+1986,Nothing in Common,"Comedy, Drama, Romance",5.9,Average,118,Avg. Length Film
+1986,Nui ji za pai jun,"Comedy, Action",5.9,Average,100,Avg. Length Film
+1986,Nuit d'ivresse,Comedy,5.8,Average,87,Avg. Length Film
+1986,Nutcracker,"Family, Fantasy, Music",7.1,Excellent,89,Avg. Length Film
+1986,Off Beat,"Comedy, Crime, Romance",5.0,Average,92,Avg. Length Film
+1986,Sacrifice,Drama,8.1,Excellent,149,No Data
+1986,On Valentine's Day,Drama,5.9,Average,106,Avg. Length Film
+1986,On the Edge,"Drama, Sport",7.1,Excellent,95,Avg. Length Film
+1986,One Crazy Summer,"Comedy, Romance",6.5,Average,93,Avg. Length Film
+1986,One More Saturday Night,Comedy,6.0,Average,95,Avg. Length Film
+1986,One Night Only,Comedy,4.8,Average,87,Avg. Length Film
+1986,Op hoop van zegen,"Drama, Romance",6.2,Average,93,Avg. Length Film
+1986,Ópera do Malandro,"Comedy, Musical",6.6,Average,105,Avg. Length Film
+1986,Opposing Force,"Action, Drama, Thriller",5.2,Average,100,Avg. Length Film
+1986,Ormens väg på hälleberget,Drama,6.2,Average,111,Avg. Length Film
+1986,Osobisty pamietnik grzesznika przez niego samego sp,Drama,7.0,Excellent,114,Avg. Length Film
+1986,Otello,"Drama, Music",6.9,Average,118,Avg. Length Film
+1986,Otra historia de amor,"Drama, Romance",6.7,Average,88,Avg. Length Film
+1986,Out of Bounds,"Action, Crime, Thriller",5.4,Average,93,Avg. Length Film
+1986,Oviri,"Biography, Drama",6.2,Average,100,Avg. Length Film
+1986,Behind Enemy Lines,"Action, Adventure, Drama",5.0,Average,90,Avg. Length Film
+1986,Le paltoquet,"Crime, Drama",6.2,Average,92,Avg. Length Film
+1986,Parting Glances,"Drama, Music, Romance",7.2,Excellent,90,Avg. Length Film
+1986,Le passage,"Adventure, Drama, Fantasy",4.8,Average,100,Avg. Length Film
+1986,The Patriot,Action,2.8,Poor,88,Avg. Length Film
+1986,Peggy Sue Got Married,"Comedy, Drama, Fantasy",6.3,Average,103,Avg. Length Film
+1986,Pikkupojat,Comedy,6.8,Average,80,Avg. Length Film
+1986,Pirates,"Adventure, Comedy, Family",6.1,Average,121,No Data
+1986,Pisma myortvogo cheloveka,"Drama, Sci-Fi",7.6,Excellent,87,Avg. Length Film
+1986,Plastposen,"Action, Comedy, Crime",5.5,Average,88,Avg. Length Film
+1986,Platoon,"Drama, War",8.1,Excellent,120,No Data
+1986,Playing Beatie Bow,"Family, Fantasy, Mystery",5.8,Average,93,Avg. Length Film
+1986,Playing for Keeps,Comedy,4.3,Average,102,Avg. Length Film
+1986,Podróze pana Kleksa,"Family, Adventure, Fantasy",6.7,Average,164,No Data
+1986,Police Academy 3: Back in Training,Comedy,5.4,Average,83,Avg. Length Film
+1986,Poltergeist II: The Other Side,Horror,5.7,Average,91,Avg. Length Film
+1986,Pouvoir intime,"Crime, Drama, Thriller",6.8,Average,86,Avg. Length Film
+1986,Power,Drama,5.7,Average,111,Avg. Length Film
+1986,Pretty in Pink,"Comedy, Drama, Romance",6.8,Average,97,Avg. Length Film
+1986,Purojekuto A-ko,"Animation, Action, Adventu",7.0,Excellent,86,Avg. Length Film
+1986,Proryv,Drama,6.1,Average,99,Avg. Length Film
+1986,Psycho III,"Horror, Mystery, Thriller",5.4,Average,93,Avg. Length Film
+1986,Quicksilver,"Crime, Drama, Thriller",5.7,Average,105,Avg. Length Film
+1986,Quiet Cool,Action,5.7,Average,80,Avg. Length Film
+1986,Rad,"Drama, Sport",7.0,Excellent,91,Avg. Length Film
+1986,Il ragazzo del pony express,Comedy,5.4,Average,87,Avg. Length Film
+1986,Rakuyôju,Drama,7.8,Excellent,105,Avg. Length Film
+1986,Ratboy,"Comedy, Crime, Drama",3.6,Average,104,Avg. Length Film
+1986,Raw Deal,"Action, Crime, Thriller",5.6,Average,106,Avg. Length Film
+1986,Rawhead Rex,"Fantasy, Horror, Mystery",5.3,Average,89,Avg. Length Film
+1986,Le rayon vert,"Drama, Romance",7.7,Excellent,99,Avg. Length Film
+1986,Recruits,Comedy,4.5,Average,90,Avg. Length Film
+1986,Red Headed Stranger,Western,6.5,Average,105,Avg. Length Film
+1986,Reform School Girls,"Crime, Drama, Thriller",5.3,Average,94,Avg. Length Film
+1986,Regalo di Natale,Drama,7.7,Excellent,101,Avg. Length Film
+1986,The American Way,"Comedy, Sci-Fi",5.7,Average,92,Avg. Length Film
+1986,River's Edge,"Crime, Drama",7.0,Excellent,99,Avg. Length Film
+1986,Robotech: The Movie,"Animation, Action, Music",6.4,Average,87,Avg. Length Film
+1986,Rosa Luxemburg,"Biography, Drama, History",6.9,Average,123,No Data
+1986,Der Rosenkönig,"Drama, Musical",6.6,Average,106,Avg. Length Film
+1986,Running Scared,"Action, Comedy, Crime",6.6,Average,107,Avg. Length Film
+1986,Rus iznachalnaya,"Drama, History, War",6.6,Average,149,No Data
+1986,Ruthless People,"Comedy, Crime",6.9,Average,93,Avg. Length Film
+1986,Ryder P.I.,Comedy,2.1,Poor,92,Avg. Length Film
+1986,Salvador,"Drama, History, Thriller",7.4,Excellent,122,No Data
+1986,San o ruzi,Drama,6.7,Average,87,Avg. Length Film
+1986,Sarraounia,"Drama, History, War",7.0,Excellent,120,No Data
+1986,Saving Grace,"Comedy, Drama",7.1,Excellent,112,Avg. Length Film
+1986,Say Yes,Comedy,4.5,Average,91,Avg. Length Film
+1986,Scuola di ladri,Comedy,5.7,Average,96,Avg. Length Film
+1986,Seize the Day,Drama,6.0,Average,93,Avg. Length Film
+1986,Sensi,Thriller,5.3,Average,89,Avg. Length Film
+1986,Separate Vacations,Comedy,4.7,Average,91,Avg. Length Film
+1986,7 chili in 7 giorni,Comedy,5.9,Average,105,Avg. Length Film
+1986,Sex Appeal,Comedy,4.9,Average,81,Avg. Length Film
+1986,Shanghai Surprise,"Adventure, Comedy, Crime",3.2,Average,97,Avg. Length Film
+1986,Sha qi er ren zu,"Comedy, Romance",5.8,Average,92,Avg. Length Film
+1986,She's Gotta Have It,"Comedy, Romance",6.7,Average,84,Avg. Length Film
+1986,Shen tan zhu gu li,"Comedy, Crime",6.0,Average,101,Avg. Length Film
+1986,Shen yong shuang xiang pao xu ji,"Action, Comedy",6.3,Average,92,Avg. Length Film
+1986,Short Circuit,"Comedy, Family, Sci-Fi",6.7,Average,98,Avg. Length Film
+1986,Sid and Nancy,"Biography, Drama, Music",7.0,Excellent,112,Avg. Length Film
+1986,Silk,"Action, Crime, Drama",3.9,Average,84,Avg. Length Film
+1986,Al-yawm al-Sadis,"Comedy, Drama",7.2,Excellent,105,Avg. Length Film
+1986,Sky Bandits,"Action, Adventure, War",4.6,Average,105,Avg. Length Film
+1986,Sky Pirates,"Adventure, Sci-Fi",4.2,Average,89,Avg. Length Film
+1986,Slaughter High,"Horror, Thriller",5.3,Average,90,Avg. Length Film
+1986,Sleepwalk,"Drama, Fantasy",6.1,Average,78,Avg. Length Film
+1986,Solarbabies,"Action, Adventure, Drama",4.8,Average,94,Avg. Length Film
+1986,Something Wild,"Comedy, Crime, Romance",6.9,Average,114,Avg. Length Film
+1986,Sorority House Massacre,Horror,4.5,Average,74,Avg. Length Film
+1986,SpaceCamp,"Adventure, Family, Sci-Fi",5.7,Average,107,Avg. Length Film
+1986,St. John in Exile,Drama,7.2,Excellent,92,Avg. Length Film
+1986,Stammheim - Die Baader-Meinhof-Gruppe vor Gericht,"Crime, Drama",7.0,Excellent,107,Avg. Length Film
+1986,Stand by Me,"Adventure, Drama",8.1,Excellent,89,Avg. Length Film
+1986,Star Crystal,"Horror, Sci-Fi, Thriller",3.5,Average,91,Avg. Length Film
+1986,Star Trek IV: The Voyage Home,"Adventure, Comedy, Sci-Fi",7.3,Excellent,119,Avg. Length Film
+1986,Streets of Gold,"Drama, Sport",6.1,Average,95,Avg. Length Film
+1986,Sultanat,"Action, Drama, Romance",6.0,Average,153,No Data
+1986,The Supernaturals,"Horror, Mystery, Sci-Fi",4.2,Average,91,Avg. Length Film
+1986,Sweet Liberty,Comedy,5.8,Average,106,Avg. Length Film
+1986,Tai-Pan,Adventure,5.6,Average,127,No Data
+1986,Tata mía,Drama,6.4,Average,100,Avg. Length Film
+1986,Tenkû no shiro Rapyuta,"Animation, Adventure, Dram",8.0,Excellent,125,No Data
+1986,Tenue de soirée,"Comedy, Crime, Drama",7.0,Excellent,84,Avg. Length Film
+1986,Terror at Tenkiller,"Horror, Thriller",2.8,Poor,87,Avg. Length Film
+1986,TerrorVision,"Comedy, Horror, Sci-Fi",5.7,Average,83,Avg. Length Film
+1986,The Texas Chainsaw Massacre 2,"Comedy, Horror",5.6,Average,101,Avg. Length Film
+1986,That's Life!,"Comedy, Drama",6.0,Average,102,Avg. Length Film
+1986,Thrashin',"Action, Drama, Romance",6.7,Average,93,Avg. Length Film
+1986,¡Three Amigos!,"Comedy, Western",6.5,Average,104,Avg. Length Film
+1986,Thérèse,Drama,7.3,Excellent,94,Avg. Length Film
+1986,Tiempo de silencio,Drama,6.5,Average,111,Avg. Length Film
+1986,Top Gun,"Action, Drama",6.9,Average,110,Avg. Length Film
+1986,Touch and Go,"Comedy, Drama, Romance",5.8,Average,101,Avg. Length Film
+1986,Tough Guys,"Comedy, Crime",6.2,Average,104,Avg. Length Film
+1986,The Transformers: The Movie,"Animation, Action, Adventu",7.3,Excellent,84,Avg. Length Film
+1986,Trick or Treat,"Comedy, Horror, Music",5.8,Average,98,Avg. Length Film
+1986,Troll,"Comedy, Fantasy, Horror",4.5,Average,82,Avg. Length Film
+1986,Troppo forte,Comedy,6.5,Average,110,Avg. Length Film
+1986,True Stories,"Musical, Comedy",7.2,Excellent,89,Avg. Length Film
+1986,Truth or Dare?: A Critical Madness,Horror,5.3,Average,90,Avg. Length Film
+1986,Twist again à Moscou,Comedy,5.6,Average,89,Avg. Length Film
+1986,Twisted,"Horror, Thriller",4.7,Average,85,Avg. Length Film
+1986,Umi to dokuyaku,Drama,7.3,Excellent,123,No Data
+1986,"Un homme et une femme, 20 ans déjà","Drama, Romance",5.8,Average,112,Avg. Length Film
+1986,Under the Cherry Moon,"Comedy, Drama, Music",5.1,Average,100,Avg. Length Film
+1986,Urusei Yatsura 4: Ramu za fôebâ,"Animation, Comedy, Fantasy",6.6,Average,95,Avg. Length Film
+1986,Uuno Turhapuro muuttaa maalle,Comedy,6.0,Average,105,Avg. Length Film
+1986,Vamp,"Comedy, Fantasy, Horror",5.9,Average,93,Avg. Length Film
+1986,Varjoja paratiisissa,"Comedy, Drama, Romance",7.5,Excellent,74,Avg. Length Film
+1986,Vecernja zvona,"Drama, War",6.9,Average,120,No Data
+1986,Vendetta,"Action, Drama",5.4,Average,89,Avg. Length Film
+1986,La venexiana,"Drama, Romance",5.1,Average,102,Avg. Length Film
+1986,Venner for altid,Drama,6.5,Average,90,Avg. Length Film
+1986,The Vindicator,"Action, Sci-Fi, Thriller",5.0,Average,93,Avg. Length Film
+1986,Violets Are Blue...,"Drama, Romance",6.0,Average,88,Avg. Length Film
+1986,Voglia di guardare,Drama,4.0,Average,89,Avg. Length Film
+1986,Weekend Warriors,"Action, Comedy, Music",4.8,Average,89,Avg. Length Film
+1986,Welcome to 18,"Comedy, Drama",6.2,Average,91,Avg. Length Film
+1986,Where Are the Children?,"Drama, Mystery, Thriller",5.8,Average,97,Avg. Length Film
+1986,Where the River Runs Black,Adventure,6.6,Average,100,Avg. Length Film
+1986,The Whistle Blower,Thriller,6.2,Average,100,Avg. Length Film
+1986,The Whoopee Boys,"Comedy, Romance",6.2,Average,88,Avg. Length Film
+1986,Whoops Apocalypse,Comedy,6.0,Average,93,Avg. Length Film
+1986,Wildcats,"Comedy, Sport",6.0,Average,106,Avg. Length Film
+1986,Willy/Milly,"Comedy, Fantasy",5.5,Average,86,Avg. Length Film
+1986,Dôwa meita senshi Windaria,Animation,7.1,Excellent,100,Avg. Length Film
+1986,Golden Eighties,"Comedy, Musical",6.7,Average,96,Avg. Length Film
+1986,Windrider,"Drama, Romance",5.1,Average,92,Avg. Length Film
+1986,Wired to Kill,"Action, Sci-Fi",4.2,Average,86,Avg. Length Film
+1986,Wisdom,"Crime, Drama",5.8,Average,109,Avg. Length Film
+1986,Wise Guys,"Comedy, Crime",5.7,Average,100,Avg. Length Film
+1986,De wisselwachter,Drama,7.2,Excellent,96,Avg. Length Film
+1986,Working Girls,Drama,6.4,Average,93,Avg. Length Film
+1986,The Wraith,"Action, Horror, Romance",6.0,Average,93,Avg. Length Film
+1986,X,Drama,6.6,Average,94,Avg. Length Film
+1986,Xaver,"Comedy, Sci-Fi",6.5,Average,90,Avg. Length Film
+1986,Yi gai yun tian,"Action, Comedy, Crime",6.0,Average,89,Avg. Length Film
+1986,Ying hung boon sik,"Action, Crime, Drama",7.5,Excellent,95,Avg. Length Film
+1986,Ying xiong wu lei,"Action, Drama, War",6.3,Average,93,Avg. Length Film
+1986,You Must Be Joking!,Comedy,5.9,Average,91,Avg. Length Film
+1986,Zui jia pai dang 4: Qian li jiu chai po,"Action, Comedy",5.8,Average,86,Avg. Length Film
+1986,Youngblood,"Drama, Romance, Sport",6.2,Average,110,Avg. Length Film
+1986,Yuen Chun Hap yu Wai See Lee,"Action, Horror",6.3,Average,78,Avg. Length Film
+1986,Yumemiru yôni nemuritai,Fantasy,6.7,Average,81,Avg. Length Film
+1986,Yuppies 2,Comedy,4.7,Average,96,Avg. Length Film
+1986,Zeisters,Comedy,2.1,Poor,78,Avg. Length Film
+1986,The Zero Boys,"Action, Thriller, Horror",5.1,Average,89,Avg. Length Film
+1986,À Flor do Mar,"Drama, Romance",7.2,Excellent,143,No Data
+1986,Alien Predator,"Drama, Horror, Sci-Fi",3.6,Average,90,Avg. Length Film
+1986,Allan Quatermain and the Lost City of Gold,"Action, Adventure, Comedy",4.6,Average,99,Avg. Length Film
+1986,The Big Easy,"Comedy, Crime, Drama",6.6,Average,102,Avg. Length Film
+1986,Body Slam,"Comedy, Music, Sport",5.3,Average,89,Avg. Length Film
+1986,Boris Godunov,"Drama, History",6.8,Average,141,No Data
+1986,Il burbero,Comedy,6.4,Average,113,Avg. Length Film
+1986,C.K. dezerterzy,"Adventure, Comedy, War",7.3,Excellent,155,No Data
+1986,Castaway,"Adventure, Drama",5.8,Average,117,Avg. Length Film
+1986,Il commissario Lo Gatto,Comedy,6.2,Average,91,Avg. Length Film
+1986,Comrades,"Drama, History",7.3,Excellent,183,No Data
+1986,Deadtime Stories,"Comedy, Horror",4.7,Average,93,Avg. Length Film
+1986,Death of a Soldier,"Crime, Drama, War",5.5,Average,93,Avg. Length Film
+1986,Dogs in Space,Drama,6.6,Average,103,Avg. Length Film
+1986,Duet for One,Drama,6.9,Average,107,Avg. Length Film
+1986,L'iniziazione,Comedy,5.7,Average,95,Avg. Length Film
+1986,Feuer und Eis,"Action, Adventure, Comedy",4.6,Average,83,Avg. Length Film
+1986,Flamberede hjerter,Comedy,6.0,Average,114,Avg. Length Film
+1986,Het gezin van Paemel,"Drama, History",6.8,Average,90,Avg. Length Film
+1986,Ghost Fever,"Comedy, Horror",3.6,Average,86,Avg. Length Film
+1986,The Great Land of Small,"Family, Fantasy",5.3,Average,93,Avg. Length Film
+1986,Grey: Dijitaru tâgetto,"Animation, Action, Drama",6.5,Average,80,Avg. Length Film
+1986,Heat,"Action, Crime, Drama",5.5,Average,101,Avg. Length Film
+1986,Hunter's Blood,"Adventure, Horror, Thrille",5.9,Average,101,Avg. Length Film
+1986,Instant Justice,"Action, Drama",4.3,Average,101,Avg. Length Film
+1986,Jocks,"Comedy, Sport",3.8,Average,91,Avg. Length Film
+1986,Kinema no tenchi,Drama,6.7,Average,135,No Data
+1986,Meatballs III: Summer Job,"Comedy, Fantasy, Romance",3.5,Average,96,Avg. Length Film
+1986,Mon cas,"Drama, Fantasy",6.9,Average,92,Avg. Length Film
+1986,Mission Kill,"Action, Adventure, Crime",4.4,Average,97,Avg. Length Film
+1986,The Night Stalker,"Crime, Drama, Horror",5.2,Average,93,Avg. Length Film
+1986,No Dead Heroes,Action,3.5,Average,86,Avg. Length Film
+1986,"Notte d'estate con profilo greco, occhi a mandorla ",Comedy,5.8,Average,94,Avg. Length Film
+1986,Odinokaya zhenshchina zhelayet poznakomitsya,"Comedy, Drama",6.7,Average,90,Avg. Length Film
+1986,Omega Syndrome,"Action, Drama",4.5,Average,90,Avg. Length Film
+1986,I fotografia,Drama,7.4,Excellent,102,Avg. Length Film
+1986,Positive I.D.,"Crime, Drama, Thriller",6.0,Average,95,Avg. Length Film
+1986,Prazdnik Neptuna,Comedy,7.0,Excellent,89,Avg. Length Film
+1986,Riisuminen,Drama,4.7,Average,87,Avg. Length Film
+1986,Scorpion,Action,4.2,Average,98,Avg. Length Film
+1986,Siekierezada,Drama,7.1,Excellent,82,Avg. Length Film
+1986,Stewardess School,"Action, Comedy",4.2,Average,89,Avg. Length Film
+1986,Stregati,"Comedy, Drama",6.0,Average,100,Avg. Length Film
+1986,Valhalla,"Animation, Adventure, Fami",7.3,Excellent,76,Avg. Length Film
+1986,Vera,Drama,6.3,Average,88,Avg. Length Film
+1986,La vie dissolue de Gérard Floque,Comedy,4.5,Average,85,Avg. Length Film
+1986,The Visitants,"Comedy, Sci-Fi",3.1,Average,92,Avg. Length Film
+1986,Wanted: Dead or Alive,"Action, Crime, Drama",5.9,Average,106,Avg. Length Film
+1986,Zhi fa xian feng,"Action, Comedy, Crime",7.0,Excellent,102,Avg. Length Film
+1986,Evil Laugh,"Comedy, Horror",5.0,Average,87,Avg. Length Film
+1986,A Killing Affair,"Crime, Drama",5.7,Average,100,Avg. Length Film
+1986,Pi li da la ba,"Action, Comedy, Fantasy",6.1,Average,88,Avg. Length Film
+1986,Zhong hua ying xiong,"Action, War",5.7,Average,92,Avg. Length Film
+1986,Koneko monogatari,"Adventure, Drama, Family",7.0,Excellent,90,Avg. Length Film
+1986,Henry: Portrait of a Serial Killer,"Biography, Crime, Drama",7.0,Excellent,83,Avg. Length Film
+1986,Zone rouge,"Crime, Thriller, Action",5.9,Average,110,Avg. Length Film
+1986,Il sapore del grano,Drama,7.0,Excellent,93,Avg. Length Film
+1986,Heathcliff: The Movie,"Family, Animation, Comedy",5.3,Average,73,Avg. Length Film
+1986,Dolce pelle di Angela,"Adventure, Romance",4.5,Average,85,Avg. Length Film
+1986,Eu Sei Que Vou Te Amar,Drama,6.6,Average,110,Avg. Length Film
+1986,The Secrets of Love,Drama,6.0,Average,93,Avg. Length Film
+1986,Cucoana Chirita,Comedy,7.0,Excellent,86,Avg. Length Film
+1986,Dreamaniac,Horror,3.7,Average,82,Avg. Length Film
+1986,"Walter og Carlo - yes, det er far",Comedy,4.6,Average,81,Avg. Length Film
+1986,Neon Maniacs,"Horror, Sci-Fi, Thriller",5.1,Average,91,Avg. Length Film
+1986,Footrot Flats: The Dog's Tale,"Animation, Comedy",7.1,Excellent,71,Avg. Length Film
+1986,Alex Holeh Ahavah,"Comedy, Drama, Romance",7.1,Excellent,88,Avg. Length Film
+1986,Liceenii,"Comedy, Romance",7.9,Excellent,95,Avg. Length Film
+1986,Veneno para las hadas,"Fantasy, Horror",7.4,Excellent,90,Avg. Length Film
+1986,Raiders of the Living Dead,Horror,2.4,Poor,86,Avg. Length Film
+1986,Os Trapalhões e o Rei do Futebol,"Comedy, Family, Sport",4.8,Average,74,Avg. Length Film
+1986,Os Trapalhões no Rabo do Cometa,"Animation, Family, Comedy",4.5,Average,81,Avg. Length Film
+1986,"Com Licença, Eu Vou à Luta","Biography, Drama",6.5,Average,81,Avg. Length Film
+1986,Dragon Ball - Doragon bôru: Shenron no densetsu,"Animation, Action, Adventu",6.9,Average,50,Short Film
+1986,Hokuto no Ken,"Animation, Action, Drama",7.3,Excellent,110,Avg. Length Film
+1986,"Goremet, Zombie Chef from Hell","Comedy, Horror",2.4,Poor,67,Avg. Length Film
+1986,Ozone: The Attack of the Redneck Mutants,Horror,3.2,Average,93,Avg. Length Film
+1986,Paniekzaaiers,Comedy,6.0,Average,95,Avg. Length Film
+1986,Punnagai Mannan,"Comedy, Drama, Romance",7.8,Excellent,153,No Data
+1986,Ankush,Drama,7.6,Excellent,149,No Data
+1986,Gall Force: Eternal Story,"Action, Animation, Sci-Fi",6.8,Average,86,Avg. Length Film
+1986,Mutilations,"Horror, Sci-Fi",5.2,Average,70,Avg. Length Film
+1986,Il tenente dei carabinieri,"Comedy, Crime",5.8,Average,108,Avg. Length Film
+1986,Vicious Lips,"Horror, Music, Sci-Fi",4.6,Average,84,Avg. Length Film
+1986,Jittemai,Action,6.1,Average,115,Avg. Length Film
+1986,Les amazones du temple d'or,Adventure,3.8,Average,86,Avg. Length Film
+1986,The Adventures of the American Rabbit,"Animation, Family, Fantasy",5.8,Average,85,Avg. Length Film
+1986,"Dzhek Vosmyorkin, amerikanets","Comedy, Musical",6.7,Average,158,No Data
+1986,Ningen no yakusoku,Drama,7.3,Excellent,123,No Data
+1986,Dobrovoljci,"Comedy, War",5.4,Average,77,Avg. Length Film
+1986,Hadashi no Gen 2,"Animation, Biography, Dram",7.3,Excellent,85,Avg. Length Film
+1986,Razvod na odredjeno vreme,Comedy,6.9,Average,95,Avg. Length Film
+1986,The Eleventh Commandment,"Drama, Horror, Thriller",2.6,Poor,94,Avg. Length Film
+1986,The Pied Piper,"Animation, Fantasy, Horror",7.9,Excellent,53,Short Film
+1986,Le couteau sous la gorge,"Crime, Horror",4.3,Average,77,Avg. Length Film
+1986,Italian Fast Food,Comedy,4.1,Average,89,Avg. Length Film
+1986,Macskafogó,"Animation, Adventure, Come",8.4,Excellent,96,Avg. Length Film
+1986,Majstor i Sampita,Comedy,5.3,Average,85,Avg. Length Film
+1986,Druga Zikina dinastija,Comedy,7.4,Excellent,90,Avg. Length Film
+1986,Drømmeslottet,Drama,5.4,Average,92,Avg. Length Film
+1986,Sekula i njegove zene,Comedy,6.1,Average,97,Avg. Length Film
+1986,Smeker,Drama,6.9,Average,99,Avg. Length Film
+1986,Los colimbas se divierten,Comedy,5.9,Average,85,Avg. Length Film
+1986,Mingo y Aníbal en la mansión embrujada,"Adventure, Comedy, Family",5.8,Average,85,Avg. Length Film
+1986,Rambito y Rambón primera misión,Comedy,5.6,Average,90,Avg. Length Film
+1986,Brigada explosiva,Comedy,6.2,Average,85,Avg. Length Film
+1986,The Messenger,"Action, Drama",4.6,Average,95,Avg. Length Film
+1986,Bhagwaan Dada,"Drama, Thriller",4.3,Average,147,No Data
+1986,Il mostro di Firenze,"Crime, Mystery, Thriller",5.1,Average,92,Avg. Length Film
+1986,Srecna nova '49,"Action, Comedy, Crime",7.6,Excellent,125,No Data
+1986,Crna Marija,"Drama, Music, Romance",6.3,Average,95,Avg. Length Film
+1986,Land of Doom,"Adventure, Sci-Fi, Thrille",3.7,Average,87,Avg. Length Film
+1986,Cobra Mission,"Action, War",5.2,Average,90,Avg. Length Film
+1986,La noche de los lápices,"Crime, Drama, History",7.3,Excellent,105,Avg. Length Film
+1986,Maison Ikkoku,"Comedy, Drama, Romance",5.6,Average,97,Avg. Length Film
+1986,O kavalaris ton F.M. Stereo,Comedy,4.8,Average,90,Avg. Length Film
+1986,Kleftroni kai gentleman,Comedy,5.9,Average,84,Avg. Length Film
+1986,Ninja Kids,"Action, Adventure, Comedy",6.9,Average,100,Avg. Length Film
+1986,The Ninja Squad,Action,3.8,Average,86,Avg. Length Film
+1986,Ninja Terminator,"Action, Adventure",4.6,Average,88,Avg. Length Film
+1986,Ninja the Protector,"Action, Crime",3.7,Average,92,Avg. Length Film
+1986,Las colegialas,Comedy,3.5,Average,85,Avg. Length Film
+1986,The Ultimate Ninja,Action,4.1,Average,84,Avg. Length Film
+1986,Unmasking the Idol,"Action, Adventure",5.1,Average,90,Avg. Length Film
+1986,Hao xiao zi di er ji,Action,6.5,Average,91,Avg. Length Film
+1986,Camarero nocturno en Mar del Plata,Comedy,6.1,Average,90,Avg. Length Film
+1986,Epangelma: Gynaika,"Comedy, Drama",5.2,Average,87,Avg. Length Film
+1986,Las minas de Salomón Rey,Comedy,5.5,Average,92,Avg. Length Film
+1986,Da obichash na inat,Drama,8.6,Excellent,92,Avg. Length Film
+1986,Fontána pre Zuzanu,"Comedy, Drama, Musical",6.0,Average,81,Avg. Length Film
+1986,Gandhinagar 2nd Street,"Comedy, Family, Romance",7.6,Excellent,137,No Data
+1986,Panchagni,"Crime, Drama, Romance",7.1,Excellent,141,No Data
+1986,Terror y encajes negros,"Drama, Horror, Thriller",6.2,Average,97,Avg. Length Film
+1986,Knock Out,"Comedy, Drama",7.1,Excellent,102,Avg. Length Film
+1986,Shojo no harawata,"Horror, Sci-Fi",4.2,Average,72,Avg. Length Film
+1986,Desu pawuda,"Sci-Fi, Horror",5.8,Average,63,Avg. Length Film
+1986,Bijo no harawata,"Fantasy, Horror, Thriller",5.0,Average,68,Avg. Length Film
+1986,Gokudô no onna-tachi,Crime,6.4,Average,120,No Data
+1986,Nakhashathangal,"Action, Drama",7.0,Excellent,140,No Data
+1986,Peraste... filiste... teleiosate!,"Comedy, Musical, Romance",3.6,Average,88,Avg. Length Film
+1986,Il était une fois le diable,Horror,3.5,Average,72,Avg. Length Film
+1986,Amrit,"Drama, Family",7.0,Excellent,137,No Data
+1986,Chantabbai,"Comedy, Family, Mystery",8.1,Excellent,134,No Data
+1986,Kondaveeti Raja,"Action, Drama",5.9,Average,140,No Data
+1986,Veta,"Action, Adventure, Thrille",6.9,Average,148,No Data
+1986,Arappatta Kettiya Graamathil,Drama,7.1,Excellent,109,Avg. Length Film
+1986,Kariyila Kattu Pole,"Crime, Mystery, Thriller",7.6,Excellent,137,No Data
+1986,Namukku Parkkan Munthiri Thoppukal,Romance,8.4,Excellent,137,No Data
+1986,Sirivennela,"Family, Musical",7.4,Excellent,181,No Data
+1986,Davaci,"Comedy, Drama",7.2,Excellent,79,Avg. Length Film
+1986,Deli Deli Küpeli,"Comedy, Drama",7.3,Excellent,87,Avg. Length Film
+1986,Garip,"Comedy, Drama",7.1,Excellent,96,Avg. Length Film
+1986,Tarzan Rifki,"Comedy, Crime",6.6,Average,83,Avg. Length Film
+1986,Yoksul,"Comedy, Drama",7.3,Excellent,77,Avg. Length Film
+1986,Hong Kil-dong,"Action, Adventure, Fantasy",6.8,Average,108,Avg. Length Film
+1986,Myung ryoung-027 ho,"Drama, War",4.9,Average,77,Avg. Length Film
+1986,Shahr-e mooshha,"Adventure, Comedy, Family",7.3,Excellent,92,Avg. Length Film
+1986,Mazha Peyyunnu Maddalam Kottunnu,Comedy,7.3,Excellent,131,No Data
+1986,Thalavattam,"Comedy, Drama, Romance",7.9,Excellent,147,No Data
+1986,Naseeb Apna Apna,"Comedy, Drama",5.8,Average,140,No Data
+1986,Tahkhana,"Action, Drama, Horror",5.2,Average,117,Avg. Length Film
+1986,Degirmen,"Comedy, Drama, History",7.5,Excellent,99,Avg. Length Film
+1986,Milyarder,"Comedy, Drama",7.6,Excellent,96,Avg. Length Film
+1986,Konets operatsii Rezident,"Action, Adventure",6.6,Average,145,No Data
+1986,Samundar,"Action, Crime, Drama",5.3,Average,144,No Data
+1986,Cudesna suma,"Animation, Adventure, Fami",8.2,Excellent,83,Avg. Length Film
+1986,Baat Ban Jaye,Comedy,6.3,Average,148,No Data
+1986,Aavanazhi,"Action, Crime, Thriller",7.2,Excellent,156,No Data
+1986,Deux enfoirés à Saint-Tropez,Comedy,3.3,Average,87,Avg. Length Film
+1986,Aaahh Belinda,"Comedy, Fantasy",7.7,Excellent,100,Avg. Length Film
+1986,Final Score,"Action, Adventure, Crime",7.1,Excellent,88,Avg. Length Film
+1986,Pappan Priyappetta Pappan,"Comedy, Fantasy",6.8,Average,137,No Data
+1986,Rajavinte Makan,"Action, Crime, Drama",7.6,Excellent,132,No Data
+1986,T.P. Balagopalan M.A.,"Drama, Comedy",7.7,Excellent,126,No Data
+1986,Teyzem,"Drama, Thriller",7.7,Excellent,105,Avg. Length Film
+1986,Kinbaku · SM · 18-sai,Comedy,6.4,Average,61,Avg. Length Film
+1986,Oi pontioi,Comedy,4.8,Average,95,Avg. Length Film
+1986,Tile-kannivaloi,Comedy,5.1,Average,91,Avg. Length Film
+1986,Brigada explosiva contra los ninjas,"Adventure, Family, Action",5.5,Average,70,Avg. Length Film
+1986,Onnu Muthal Poojyam Vare,Drama,7.0,Excellent,105,Avg. Length Film
+1986,Sanmanassullavarkku Samadhanam,"Comedy, Drama",7.9,Excellent,133,No Data
+1986,Ryôjoku mesu ichiba - Kankin,Horror,4.6,Average,71,Avg. Length Film
+1986,City in Panic,"Crime, Horror, Thriller",4.5,Average,85,Avg. Length Film
+1986,Clash of the Ninjas,"Action, Crime",4.3,Average,90,Avg. Length Film
+1986,Qatl,"Mystery, Thriller",7.0,Excellent,141,No Data
+1986,Asilacak kadin,"Crime, Drama",6.4,Average,86,Avg. Length Film
+1986,Oomai Vizhigal,"Action, Crime, Mystery",7.2,Excellent,176,No Data
+1986,Samsaram Athu Minsaram,Drama,7.1,Excellent,145,No Data
+1986,Pembalasan rambu,"Action, Crime, Thriller",5.7,Average,88,Avg. Length Film
+1986,Ninja Dragon,"Action, Crime",4.3,Average,85,Avg. Length Film
+1986,The Stabilizer,Action,6.3,Average,87,Avg. Length Film
+1986,Vikram,"Action, Adventure, Sci-Fi",7.2,Excellent,136,No Data
+1986,Xue zhan Taierzhuang,War,6.6,Average,120,No Data
+1986,Marauders,Horror,4.8,Average,74,Avg. Length Film
+1986,Dilwaala,"Action, Comedy, Drama",3.8,Average,160,No Data
+1986,Stella í orlofi,"Comedy, Family",6.9,Average,84,Avg. Length Film
+1986,Peechha Karro,"Comedy, Thriller",6.4,Average,114,Avg. Length Film
+1986,Ek Chadar Maili Si,Drama,7.1,Excellent,133,No Data
+1986,Velká sýrová loupez,"Animation, Comedy, Family",7.1,Excellent,55,Short Film
+1986,Fatmagül'ün suçu ne,Drama,5.1,Average,85,Avg. Length Film
+1986,Amon Saga,"Animation, Adventure, Fant",5.6,Average,80,Avg. Length Film
+1986,Ses,Drama,6.0,Average,81,Avg. Length Film
+1986,Sûpâ Mario burazâzu: Pîchi-hime kyushutsu dai sakus,"Animation, Adventure, Come",5.7,Average,60,Avg. Length Film
+1986,War Bus,"Action, War",5.0,Average,92,Avg. Length Film
+1986,Al-gough,Drama,6.7,Average,111,Avg. Length Film
+1986,Shader al-samak,"Action, Drama, Thriller",6.1,Average,120,No Data
+1986,Doraemon: Nobita to tetsujin heidan,"Animation, Adventure, Fami",7.0,Excellent,97,Avg. Length Film
+1986,Vasif Öngören: Asiye nasil kurtulur,"Comedy, Drama, Musical",7.1,Excellent,81,Avg. Length Film
+1986,Maanavudu Daanavudu,Family,1.5,Poor,140,No Data
+1986,Korkusuz,"Action, Adventure",3.6,Average,73,Avg. Length Film
+1986,Ostrov sokrovishch. Karta kapitana Flinta,"Animation, Adventure, Come",8.5,Excellent,48,Short Film
+1986,Salam Ya Sahby,"Action, Comedy, Crime",6.6,Average,128,No Data
+1986,Ayrilamam,Drama,3.5,Average,91,Avg. Length Film
+1986,Namus düsmani,"Comedy, Romance",5.2,Average,78,Avg. Length Film
+1986,Al Baree',"Drama, Thriller",8.0,Excellent,110,Avg. Length Film
+1986,Pallati 176,Comedy,8.3,Excellent,115,Avg. Length Film

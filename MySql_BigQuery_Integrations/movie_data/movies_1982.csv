@@ -1,0 +1,629 @@
+year,title,genre,avg_vote,movie_category,duration,length_category
+1982,Double Exposure,"Comedy, Crime, Drama",4.9,Average,100,Avg. Length Film
+1982,Bakterion,"Horror, Sci-Fi",3.2,Average,90,Avg. Length Film
+1982,Tai ji ba jiao,Action,5.5,Average,89,Avg. Length Film
+1982,Messo comunale praticamente spione,Comedy,4.0,Average,90,Avg. Length Film
+1982,Shao Lin si,"Action, Drama",7.0,Excellent,95,Avg. Length Film
+1982,Shen diao xia lü,"Action, Romance",5.4,Average,100,Avg. Length Film
+1982,Attila flagello di Dio,"Comedy, History",6.5,Average,91,Avg. Length Film
+1982,La bimba di Satana,Horror,4.1,Average,75,Avg. Length Film
+1982,Cecilia,Drama,6.0,Average,127,No Data
+1982,Colegas,Drama,6.4,Average,117,Avg. Length Film
+1982,Forbidden Zone,"Comedy, Fantasy, Musical",6.7,Average,74,Avg. Length Film
+1982,The Ghost Dance,"Horror, Thriller",4.6,Average,96,Avg. Length Film
+1982,Highpoint,"Action, Comedy, Thriller",4.7,Average,88,Avg. Length Film
+1982,Murder by Phone,"Horror, Thriller, Mystery",5.6,Average,95,Avg. Length Film
+1982,Los ritos sexuales del diablo,"Drama, Horror, Mystery",4.7,Average,84,Avg. Length Film
+1982,Banana Joe,"Action, Comedy",6.4,Average,96,Avg. Length Film
+1982,El barrendero,"Comedy, Drama",6.5,Average,113,Avg. Length Film
+1982,Le beau mariage,"Comedy, Drama, Romance",7.1,Excellent,93,Avg. Length Film
+1982,Xiong zhong,"Action, Drama",5.0,Average,81,Avg. Length Film
+1982,Burned at the Stake,Horror,4.8,Average,88,Avg. Length Film
+1982,Butterfly,"Crime, Drama",4.7,Average,108,Avg. Length Film
+1982,Le cadeau,Comedy,6.1,Average,100,Avg. Length Film
+1982,Chong xiao lou,"Action, Adventure",6.4,Average,95,Avg. Length Film
+1982,Conan the Barbarian,"Action, Adventure, Fantasy",6.9,Average,129,No Data
+1982,A Dangerous Summer,"Drama, Thriller",2.9,Poor,88,Avg. Length Film
+1982,"De ce trag clopotele, Mitica?","Comedy, Drama",7.9,Excellent,119,Avg. Length Film
+1982,Death Wish II,"Action, Crime, Drama",6.1,Average,89,Avg. Length Film
+1982,La villa delle anime maledette,"Horror, Mystery",3.4,Average,90,Avg. Length Film
+1982,The Dorm That Dripped Blood,"Horror, Thriller",5.0,Average,88,Avg. Length Film
+1982,Elippathayam,Drama,7.5,Excellent,121,No Data
+1982,Elle voit des nains partout!,Comedy,4.2,Average,85,Avg. Length Film
+1982,The Emperor of Peru,Adventure,5.4,Average,81,Avg. Length Film
+1982,The Entity,"Drama, Horror",6.6,Average,125,No Data
+1982,Turkey Shoot,"Drama, Horror, Sci-Fi",5.9,Average,93,Avg. Length Film
+1982,"Espion, lève-toi","Drama, Thriller",6.6,Average,98,Avg. Length Film
+1982,Der Fan,"Drama, Horror, Music",6.6,Average,92,Avg. Length Film
+1982,Le grand pardon,Drama,5.7,Average,130,No Data
+1982,Hécate,"Drama, Romance",6.0,Average,105,Avg. Length Film
+1982,How Sleep the Brave,"Action, Drama",5.8,Average,88,Avg. Length Film
+1982,Humongous,"Horror, Mystery, Romance",4.8,Average,94,Avg. Length Film
+1982,Jak svet prichází o básníky,Comedy,7.1,Excellent,90,Avg. Length Film
+1982,Kalamita,Comedy,6.8,Average,96,Avg. Length Film
+1982,Kamata kôshinkyoku,"Comedy, Romance",7.0,Excellent,109,Avg. Length Film
+1982,Karnaval,"Comedy, Drama, Music",7.4,Excellent,151,No Data
+1982,Kill Squad,"Action, Drama",5.4,Average,85,Avg. Length Film
+1982,"Ladies and Gentlemen, the Fabulous Stains","Comedy, Drama, Music",6.8,Average,87,Avg. Length Film
+1982,The Loch Ness Horror,"Adventure, Horror",2.9,Poor,89,Avg. Length Film
+1982,Ma femme s'appelle reviens,Comedy,5.3,Average,85,Avg. Length Film
+1982,Megáll az idö,Drama,7.7,Excellent,103,Avg. Length Film
+1982,Midnight,Horror,4.8,Average,94,Avg. Length Film
+1982,Mil gritos tiene la noche,"Horror, Mystery, Thriller",6.2,Average,85,Avg. Length Film
+1982,Mille milliards de dollars,"Drama, Crime, Thriller",7.1,Excellent,132,No Data
+1982,Mo deng tian shi,"Comedy, Fantasy, Horror",5.3,Average,88,Avg. Length Film
+1982,Movie Madness,Comedy,3.0,Poor,89,Avg. Length Film
+1982,Night Crossing,"Drama, Family, History",6.4,Average,105,Avg. Length Film
+1982,Piratensender Power Play,Comedy,5.2,Average,90,Avg. Length Film
+1982,La plaça del Diamant,Drama,6.5,Average,111,Avg. Length Film
+1982,"Pozor, vizita!",Drama,7.1,Excellent,88,Avg. Length Film
+1982,Remembrance,Drama,5.3,Average,117,Avg. Length Film
+1982,Requiem,Drama,6.8,Average,103,Avg. Length Film
+1982,Rodnya,"Comedy, Drama",7.5,Excellent,98,Avg. Length Film
+1982,Rys,"Drama, War",5.3,Average,84,Avg. Length Film
+1982,Satan's Mistress,"Horror, Romance",3.3,Average,98,Avg. Length Film
+1982,Sero hiki no Gôshu,"Animation, Fantasy, Music",7.0,Excellent,60,Avg. Length Film
+1982,Some Kind of Hero,"Comedy, Crime, Drama",5.8,Average,97,Avg. Length Film
+1982,Les sous-doués en vacances,"Comedy, Music, Romance",4.8,Average,95,Avg. Length Film
+1982,T'empêches tout le monde de dormir,Comedy,5.0,Average,86,Avg. Length Film
+1982,Fuga dall'arcipelago maledetto,"Action, War",5.3,Average,96,Avg. Length Film
+1982,Todos al suelo,Comedy,5.0,Average,87,Avg. Length Film
+1982,Tout feu tout flamme,"Action, Comedy, Drama",6.2,Average,108,Avg. Length Film
+1982,La tía de Carlos,Comedy,4.8,Average,99,Avg. Length Film
+1982,An Unsuitable Job for a Woman,"Crime, Drama, Mystery",6.0,Average,94,Avg. Length Film
+1982,Upír z Feratu,"Crime, Horror, Mystery",5.8,Average,90,Avg. Length Film
+1982,Variola vera,"Drama, History, Horror",8.1,Excellent,110,Avg. Length Film
+1982,Visiting Hours,"Horror, Thriller",5.7,Average,105,Avg. Length Film
+1982,Wacko,"Comedy, Horror",4.8,Average,90,Avg. Length Film
+1982,Xun cheng ma,"Action, Adventure, Drama",5.7,Average,87,Avg. Length Film
+1982,The Missionary,Comedy,6.2,Average,90,Avg. Length Film
+1982,Ten Violent Women,"Action, Crime, Drama",3.1,Average,97,Avg. Length Film
+1982,48 Hrs.,"Action, Comedy, Crime",6.9,Average,96,Avg. Length Film
+1982,The Aftermath,"Sci-Fi, Thriller",4.2,Average,95,Avg. Length Film
+1982,Airplane II: The Sequel,"Comedy, Sci-Fi",6.2,Average,85,Avg. Length Film
+1982,Alone in the Dark,"Horror, Thriller",6.1,Average,92,Avg. Length Film
+1982,Alsino y el cóndor,"Drama, War",6.6,Average,89,Avg. Length Film
+1982,Amici miei - Atto II°,"Comedy, Drama",7.7,Excellent,127,No Data
+1982,Amityville II: The Possession,Horror,5.5,Average,104,Avg. Length Film
+1982,Amor Estranho Amor,Drama,5.9,Average,97,Avg. Length Film
+1982,Ana,Drama,7.2,Excellent,115,Avg. Length Film
+1982,Android,Sci-Fi,5.8,Average,80,Avg. Length Film
+1982,L'ange,"Animation, Fantasy",7.3,Excellent,64,Avg. Length Film
+1982,Angel,"Drama, Music",6.4,Average,90,Avg. Length Film
+1982,Annie,"Comedy, Drama, Family",6.6,Average,126,No Data
+1982,Anno 2020 - I gladiatori del futuro,"Action, Sci-Fi",4.6,Average,91,Avg. Length Film
+1982,Antonieta,"Biography, Drama, War",5.7,Average,108,Avg. Length Film
+1982,Aphrodite,Drama,4.4,Average,88,Avg. Length Film
+1982,Arpa Colla,Comedy,6.8,Average,104,Avg. Length Film
+1982,Arth,"Drama, Romance",8.0,Excellent,138,No Data
+1982,Arvottomat,"Crime, Drama",7.4,Excellent,105,Avg. Length Film
+1982,L'as des as,"Adventure, Comedy, Sport",6.6,Average,100,Avg. Length Film
+1982,Ashes and Embers,Drama,6.2,Average,120,No Data
+1982,Assassinio al cimitero etrusco,"Crime, Horror, Mystery",4.4,Average,94,Avg. Length Film
+1982,Author! Author!,"Comedy, Drama, Family",6.2,Average,110,Avg. Length Film
+1982,Bakuretsu toshi,"Action, Music, Sci-Fi",6.2,Average,115,Avg. Length Film
+1982,La balance,"Crime, Drama, Romance",6.6,Average,103,Avg. Length Film
+1982,Barbarosa,Western,6.4,Average,90,Avg. Length Film
+1982,Basket Case,"Comedy, Horror",6.2,Average,91,Avg. Length Film
+1982,The Beach Girls,Comedy,5.0,Average,91,Avg. Length Film
+1982,The Beast Within,Horror,5.6,Average,98,Avg. Length Film
+1982,The Beastmaster,"Action, Adventure, Fantasy",6.2,Average,118,Avg. Length Film
+1982,Befrielsesbilleder,"Drama, War",5.3,Average,57,Short Film
+1982,Bemisal,"Drama, Family",7.1,Excellent,142,No Data
+1982,Best Friends,"Comedy, Drama, Romance",5.4,Average,116,Avg. Length Film
+1982,The Best Little Whorehouse in Texas,"Comedy, Musical",5.9,Average,114,Avg. Length Film
+1982,Oltre la porta,Drama,4.7,Average,110,Avg. Length Film
+1982,Bingo Bongo,"Comedy, Family",6.1,Average,102,Avg. Length Film
+1982,Blade Runner,"Action, Sci-Fi, Thriller",8.1,Excellent,117,Avg. Length Film
+1982,Blood Link,"Crime, Horror",5.5,Average,98,Avg. Length Film
+1982,Blood Song,"Horror, Thriller",4.9,Average,89,Avg. Length Film
+1982,Blood Tide,"Adventure, Horror",3.7,Average,97,Avg. Length Film
+1982,Boardinghouse,"Comedy, Horror",3.9,Average,98,Avg. Length Film
+1982,De boezemvriend,Comedy,5.6,Average,100,Avg. Length Film
+1982,Bomber,"Comedy, Action, Crime",6.4,Average,101,Avg. Length Film
+1982,The Border,"Crime, Drama, Western",6.4,Average,108,Avg. Length Film
+1982,Borotalco,Comedy,6.9,Average,107,Avg. Length Film
+1982,La boum 2,"Comedy, Drama, Family",6.2,Average,109,Avg. Length Film
+1982,BrainWaves,"Sci-Fi, Thriller",4.7,Average,77,Avg. Length Film
+1982,Brimstone & Treacle,"Drama, Thriller",6.4,Average,87,Avg. Length Film
+1982,Britannia Hospital,"Comedy, Sci-Fi",6.3,Average,116,Avg. Length Film
+1982,Ru lai shen zhang,"Action, Fantasy",6.8,Average,93,Avg. Length Film
+1982,"Buenas noches, señor monstruo","Comedy, Family, Fantasy",4.2,Average,82,Avg. Length Film
+1982,Bugs Bunny's 3rd Movie: 1001 Rabbit Tales,"Animation, Adventure, Come",7.1,Excellent,74,Avg. Length Film
+1982,Sawak al-utubis,Drama,7.5,Excellent,107,Avg. Length Film
+1982,Cannery Row,"Comedy, Drama, Romance",6.7,Average,120,No Data
+1982,Cat People,"Fantasy, Horror, Thriller",6.1,Average,118,Avg. Length Film
+1982,Cercasi Gesù,Comedy,5.9,Average,105,Avg. Length Film
+1982,The Challenge,"Action, Drama",6.3,Average,113,Avg. Length Film
+1982,Chan Is Missing,"Drama, Mystery",7.1,Excellent,80,Avg. Length Film
+1982,Chasing Dreams,Drama,3.3,Average,94,Avg. Length Film
+1982,Chastnaya zhizn,Drama,7.0,Excellent,102,Avg. Length Film
+1982,Le choc,"Action, Crime, Romance",5.8,Average,100,Avg. Length Film
+1982,Class of 1984,"Action, Crime, Drama",6.6,Average,98,Avg. Length Film
+1982,Cold River,Adventure,5.8,Average,94,Avg. Length Film
+1982,La colmena,Drama,7.2,Excellent,112,Avg. Length Film
+1982,Colpire al cuore,Drama,7.1,Excellent,105,Avg. Length Film
+1982,"Come Back to the 5 & Dime Jimmy Dean, Jimmy Dean","Comedy, Drama",7.2,Excellent,109,Avg. Length Film
+1982,The Concrete Jungle,"Crime, Drama, Thriller",4.6,Average,99,Avg. Length Film
+1982,Concurs,Drama,7.3,Excellent,96,Avg. Length Film
+1982,Countryman,Drama,6.8,Average,102,Avg. Length Film
+1982,Creepshow,"Comedy, Fantasy, Horror",6.9,Average,120,No Data
+1982,"Cristóbal Colón, de oficio... descubridor","Comedy, Musical",3.9,Average,85,Avg. Length Film
+1982,Csak semmi pánik...,"Comedy, Crime",7.3,Excellent,87,Avg. Length Film
+1982,Het dak van de Walvis,Fantasy,6.9,Average,90,Avg. Length Film
+1982,The Dark Crystal,"Adventure, Family, Fantasy",7.2,Excellent,93,Avg. Length Film
+1982,Dark Sanity,"Drama, Horror",3.4,Average,88,Avg. Length Film
+1982,Dead Men Don't Wear Plaid,"Comedy, Crime, Mystery",6.9,Average,88,Avg. Length Film
+1982,Deadly Eyes,"Horror, Sci-Fi, Thriller",4.8,Average,87,Avg. Length Film
+1982,Deadly Games,"Horror, Mystery",3.7,Average,92,Avg. Length Film
+1982,Dear Mr. Wonderful,"Crime, Drama, Comedy",4.4,Average,116,Avg. Length Film
+1982,Death Valley,"Crime, Horror, Thriller",5.5,Average,87,Avg. Length Film
+1982,Deathtrap,"Comedy, Crime, Mystery",7.0,Excellent,116,Avg. Length Film
+1982,Delitto sull'autostrada,"Comedy, Crime, Drama",6.2,Average,91,Avg. Length Film
+1982,Demonios en el jardín,Drama,6.5,Average,97,Avg. Length Film
+1982,Desh Premee,"Action, Comedy, Drama",6.0,Average,165,No Data
+1982,Deux heures moins le quart avant Jésus-Christ,Comedy,5.9,Average,110,Avg. Length Film
+1982,Tai fong siu sau,"Action, Comedy, Drama",6.7,Average,102,Avg. Length Film
+1982,Diner,"Comedy, Drama",7.1,Excellent,110,Avg. Length Film
+1982,"Don't Cry, It's Only Thunder","Drama, War",6.9,Average,108,Avg. Length Film
+1982,The Draughtsman's Contract,"Comedy, Drama, History",7.3,Excellent,108,Avg. Length Film
+1982,Dulces horas,Drama,6.2,Average,106,Avg. Length Film
+1982,Dögkeselyü,"Crime, Drama",8.0,Excellent,115,Avg. Length Film
+1982,E.T. the Extra-Terrestrial,"Family, Sci-Fi",7.8,Excellent,115,Avg. Length Film
+1982,Eating Raoul,"Comedy, Crime",6.8,Average,90,Avg. Length Film
+1982,Eccezzziunale... veramente,"Comedy, Sport",6.5,Average,95,Avg. Length Film
+1982,Egymásra nézve,"Biography, Drama, History",7.2,Excellent,102,Avg. Length Film
+1982,Endangered Species,"Drama, Mystery, Thriller",6.0,Average,97,Avg. Length Film
+1982,Den enfaldige mördaren,Drama,7.7,Excellent,108,Avg. Length Film
+1982,Enigma,"Drama, Thriller",5.9,Average,122,No Data
+1982,The Escape Artist,"Comedy, Crime, Drama",6.2,Average,94,Avg. Length Film
+1982,Evil Under the Sun,"Drama, Mystery",7.1,Excellent,117,Avg. Length Film
+1982,Experience Preferred... But Not Essential,Drama,7.0,Excellent,80,Avg. Length Film
+1982,Fake-Out,"Action, Comedy, Crime",4.7,Average,96,Avg. Length Film
+1982,Fanny och Alexander,Drama,8.1,Excellent,188,No Data
+1982,Les fantômes du chapelier,"Crime, Mystery, Thriller",7.2,Excellent,120,No Data
+1982,Fast Times at Ridgemont High,"Comedy, Drama",7.2,Excellent,90,Avg. Length Film
+1982,Fast-Walking,Drama,6.5,Average,115,Avg. Length Film
+1982,Ferocious Female Freedom Fighters,"Action, Comedy",5.1,Average,93,Avg. Length Film
+1982,Fighting Back,"Action, Crime, Drama",6.1,Average,98,Avg. Length Film
+1982,Who Dares Wins,"Action, Thriller",6.3,Average,125,No Data
+1982,Finye,Drama,6.7,Average,100,Avg. Length Film
+1982,Firefox,"Action, Adventure, Thrille",5.9,Average,136,No Data
+1982,First Blood,"Action, Adventure",7.7,Excellent,93,Avg. Length Film
+1982,Fitzcarraldo,"Adventure, Drama",8.1,Excellent,158,No Data
+1982,Five Days One Summer,Drama,6.1,Average,96,Avg. Length Film
+1982,Forbidden World,"Horror, Sci-Fi",5.2,Average,77,Avg. Length Film
+1982,Forced Vengeance,"Action, Adventure, Crime",5.7,Average,90,Avg. Length Film
+1982,Forty Deuce,Drama,5.5,Average,89,Avg. Length Film
+1982,Foxfire Light,"Drama, Romance",4.9,Average,102,Avg. Length Film
+1982,Frances,"Biography, Drama, Romance",7.4,Excellent,140,No Data
+1982,Friday the 13th: Part III,"Horror, Thriller",5.7,Average,95,Avg. Length Film
+1982,Gandhi,"Biography, Drama, History",8.0,Excellent,191,No Data
+1982,The Troops & Troop-ettes,"Adventure, Comedy, Crime",6.2,Average,102,Avg. Length Film
+1982,Giggi il bullo,Comedy,4.6,Average,88,Avg. Length Film
+1982,Ginger Meggs,"Comedy, History",6.3,Average,100,Avg. Length Film
+1982,Golos,Drama,6.4,Average,87,Avg. Length Film
+1982,Grand Hotel Excelsior,Comedy,5.9,Average,115,Avg. Length Film
+1982,Le grand frère,Crime,5.4,Average,115,Avg. Length Film
+1982,Grease 2,"Comedy, Drama, Musical",4.4,Average,115,Avg. Length Film
+1982,Gräsänklingar,Comedy,5.2,Average,99,Avg. Length Film
+1982,Hadduta misrija,Drama,7.3,Excellent,115,Avg. Length Film
+1982,Eine Saison in Hakkari,Drama,7.3,Excellent,110,Avg. Length Film
+1982,Hanky Panky,"Action, Comedy, Crime",5.7,Average,110,Avg. Length Film
+1982,"Harry Tracy, Desperado","Drama, Western",6.3,Average,107,Avg. Length Film
+1982,Heatwave,Drama,6.4,Average,91,Avg. Length Film
+1982,Heidi's Song,"Animation, Family, Musical",6.4,Average,94,Avg. Length Film
+1982,Hey Good Lookin',"Animation, Comedy, Drama",6.3,Average,76,Avg. Length Film
+1982,The Highest Honor,"War, Drama",6.3,Average,144,No Data
+1982,O Homem do Pau-Brasil,Comedy,6.1,Average,106,Avg. Length Film
+1982,Homework,"Comedy, Drama",3.3,Average,90,Avg. Length Film
+1982,Honkytonk Man,"Comedy, Drama, Music",6.6,Average,122,No Data
+1982,L'honneur d'un capitaine,War,6.5,Average,117,Avg. Length Film
+1982,At,Drama,6.8,Average,116,Avg. Length Film
+1982,The House Where Evil Dwells,Horror,4.5,Average,88,Avg. Length Film
+1982,Human Highway,"Comedy, Drama, Sci-Fi",5.9,Average,88,Avg. Length Film
+1982,I cacciatori del cobra d'oro,"Action, Adventure, Crime",5.1,Average,95,Avg. Length Film
+1982,Huo Yuan-Jia,"Action, History",7.3,Excellent,89,Avg. Length Film
+1982,I Ought to Be in Pictures,"Comedy, Drama",6.2,Average,108,Avg. Length Film
+1982,I'm Dancing as Fast as I Can,"Biography, Drama",6.4,Average,107,Avg. Length Film
+1982,"I, the Jury","Crime, Drama, Mystery",6.0,Average,111,Avg. Length Film
+1982,Idemo dalje,"Comedy, Drama, Family",7.6,Excellent,98,Avg. Length Film
+1982,Identificazione di una donna,"Drama, Romance",6.7,Average,130,No Data
+1982,If You Could See What I Hear,"Biography, Comedy, Drama",6.8,Average,103,Avg. Length Film
+1982,Im Dschungel ist der Teufel los,"Adventure, Comedy",2.7,Poor,90,Avg. Length Film
+1982,In viaggio con papà,Comedy,6.4,Average,118,Avg. Length Film
+1982,Ingenjör Andrées luftfärd,"Adventure, Biography, Dram",7.0,Excellent,140,No Data
+1982,Invitation au voyage,"Musical, Drama, Fantasy",6.2,Average,93,Avg. Length Film
+1982,Io so che tu sai che io so,"Comedy, Drama",6.9,Average,112,Avg. Length Film
+1982,Irezumi,Drama,7.2,Excellent,109,Avg. Length Film
+1982,Jekyll and Hyde... Together Again,"Sci-Fi, Comedy, Music",6.3,Average,87,Avg. Length Film
+1982,Jinxed!,Comedy,4.7,Average,103,Avg. Length Film
+1982,The Junkman,"Action, Comedy, Crime",5.5,Average,96,Avg. Length Film
+1982,Jönssonligan & DynamitHarry,"Comedy, Crime, Thriller",6.0,Average,106,Avg. Length Film
+1982,Kamikaze 1989,"Sci-Fi, Thriller",5.8,Average,106,Avg. Length Film
+1982,Kharij,Drama,7.1,Excellent,99,Avg. Length Film
+1982,Khud-Daar,"Action, Drama",6.9,Average,169,No Data
+1982,Kidnapning,Family,5.4,Average,70,Avg. Length Film
+1982,Kiklop,Drama,7.2,Excellent,138,No Data
+1982,Kiss Me Goodbye,"Comedy, Fantasy, Romance",6.1,Average,101,Avg. Length Film
+1982,"Krasnye kolokola, film pervyy - Meksika v ogne","Drama, Western",6.2,Average,135,No Data
+1982,Yin ji,"Action, Fantasy, Horror",6.0,Average,88,Avg. Length Film
+1982,Kuningas jolla ei ollut sydäntä,"Family, Fantasy",6.0,Average,92,Avg. Length Film
+1982,Laberinto de pasiones,"Comedy, Drama, Romance",6.2,Average,100,Avg. Length Film
+1982,The Last American Virgin,"Comedy, Drama, Romance",6.3,Average,92,Avg. Length Film
+1982,The Last Unicorn,"Animation, Adventure, Dram",7.5,Excellent,92,Avg. Length Film
+1982,Let's Do It!,Comedy,4.8,Average,82,Avg. Length Film
+1982,Lie huo qing chun,"Drama, Romance, Thriller",6.7,Average,96,Avg. Length Film
+1982,A Little Sex,"Comedy, Romance",5.0,Average,95,Avg. Length Film
+1982,Lonely Hearts,"Comedy, Drama, Romance",6.7,Average,106,Avg. Length Film
+1982,Lung siu yeh,"Action, Comedy, Sport",6.5,Average,102,Avg. Length Film
+1982,Long zhi ren zhe,"Action, Comedy",7.4,Excellent,95,Avg. Length Film
+1982,Lookin' to Get Out,Comedy,5.2,Average,105,Avg. Length Film
+1982,Losing Ground,"Comedy, Drama",6.3,Average,86,Avg. Length Film
+1982,Love Child,"Crime, Drama, Romance",5.8,Average,96,Avg. Length Film
+1982,Luo tuo Xiang Zi,Drama,6.9,Average,123,No Data
+1982,Légitime violence,"Action, Crime, Drama",5.3,Average,95,Avg. Length Film
+1982,Making Love,Drama,6.8,Average,113,Avg. Length Film
+1982,The Man from Snowy River,"Adventure, Drama, Romance",7.3,Excellent,102,Avg. Length Film
+1982,Manhattan Baby,Horror,4.9,Average,89,Avg. Length Film
+1982,Maratonci trce pocasni krug,"Comedy, Drama",9.0,Excellent,92,Avg. Length Film
+1982,Marg Yazdgerd,"Drama, History",8.4,Excellent,110,Avg. Length Film
+1982,Les maîtres du temps,"Animation, Adventure, Sci-",7.5,Excellent,78,Avg. Length Film
+1982,Megaforce,"Action, Sci-Fi",3.8,Average,99,Avg. Length Film
+1982,Melanie,Drama,6.9,Average,95,Avg. Length Film
+1982,A Midsummer Night's Sex Comedy,Comedy,6.6,Average,88,Avg. Length Film
+1982,Miris dunja,"Drama, Romance, War",6.9,Average,97,Avg. Length Film
+1982,Missing,"Biography, Drama, History",7.7,Excellent,122,No Data
+1982,Les misérables,Drama,7.3,Excellent,220,No Data
+1982,Mitahat La'af,Drama,6.7,Average,95,Avg. Length Film
+1982,Moj tata na odredjeno vreme,Comedy,7.1,Excellent,89,Avg. Length Film
+1982,Monkey Grip,Drama,6.3,Average,99,Avg. Length Film
+1982,Monsignor,"Crime, Drama, War",5.1,Average,121,No Data
+1982,Moonlighting,Drama,7.5,Excellent,97,Avg. Length Film
+1982,La morte vivante,Horror,5.8,Average,86,Avg. Length Film
+1982,Mother Lode,"Adventure, Mystery, Thrill",6.1,Average,101,Avg. Length Film
+1982,Mu Ma Ren,Drama,7.2,Excellent,106,Avg. Length Film
+1982,My Favorite Year,"Comedy, Drama",7.4,Excellent,92,Avg. Length Film
+1982,Nacional III,Comedy,6.5,Average,102,Avg. Length Film
+1982,Namak Halaal,"Action, Comedy, Drama",7.4,Excellent,171,No Data
+1982,Class Reunion,"Comedy, Horror",4.8,Average,84,Avg. Length Film
+1982,Next of Kin,"Horror, Mystery",6.4,Average,89,Avg. Length Film
+1982,Night Shift,Comedy,6.6,Average,106,Avg. Length Film
+1982,"No grazie, il caffè mi rende nervoso","Comedy, Mystery, Thriller",6.5,Average,109,Avg. Length Film
+1982,La notte di San Lorenzo,"Drama, Romance, War",7.4,Excellent,107,Avg. Length Film
+1982,La nuit de Varennes,"Drama, History",7.4,Excellent,150,No Data
+1982,O'Hara's Wife,"Comedy, Drama",5.1,Average,87,Avg. Length Film
+1982,"Gli occhi, la bocca",Drama,6.2,Average,93,Avg. Length Film
+1982,An Officer and a Gentleman,"Drama, Romance",7.0,Excellent,124,No Data
+1982,Las orgías inconfesables de Emmanuelle,Drama,3.8,Average,85,Avg. Length Film
+1982,Ostanovilsya poezd,Drama,7.3,Excellent,96,Avg. Length Film
+1982,Out,Drama,2.5,Poor,83,Avg. Length Film
+1982,Ozu no mahôtsukai,"Animation, Family, Adventu",6.8,Average,78,Avg. Length Film
+1982,Pandemonium,"Comedy, Horror, Mystery",5.4,Average,82,Avg. Length Film
+1982,Panelkapcsolat,Drama,7.2,Excellent,102,Avg. Length Film
+1982,Paradis pour tous,"Comedy, Drama, Sci-Fi",6.7,Average,110,Avg. Length Film
+1982,Paradise,"Adventure, Romance",4.9,Average,100,Avg. Length Film
+1982,Parasite,"Horror, Sci-Fi",3.8,Average,85,Avg. Length Film
+1982,Parsifal,"Drama, Music",7.4,Excellent,255,No Data
+1982,Partners,"Comedy, Crime",5.3,Average,93,Avg. Length Film
+1982,La passante du Sans-Souci,Drama,6.6,Average,110,Avg. Length Film
+1982,Passion,"Comedy, Drama",6.2,Average,88,Avg. Length Film
+1982,Penitentiary II,"Crime, Drama, Sport",4.1,Average,108,Avg. Length Film
+1982,Personal Best,"Drama, Sport",6.3,Average,124,No Data
+1982,Pierino colpisce ancora,Comedy,5.1,Average,90,Avg. Length Film
+1982,Pink Floyd: The Wall,"Animation, Drama, Fantasy",8.1,Excellent,95,Avg. Length Film
+1982,The Pirate Movie,"Adventure, Comedy, Musical",5.3,Average,105,Avg. Length Film
+1982,"Ricchi, ricchissimi... praticamente in mutande",Comedy,5.6,Average,120,No Data
+1982,The Plague Dogs,"Animation, Adventure, Dram",7.8,Excellent,103,Avg. Length Film
+1982,Plata dulce,"Comedy, Drama",7.2,Excellent,97,Avg. Length Film
+1982,Poltergeist,"Horror, Thriller",7.3,Excellent,114,Avg. Length Film
+1982,Pour cent briques t'as plus rien,Comedy,5.9,Average,85,Avg. Length Film
+1982,"Pra Frente, Brasil",Drama,7.2,Excellent,105,Avg. Length Film
+1982,Prem Rog,"Drama, Musical, Romance",7.2,Excellent,183,No Data
+1982,Purple Haze,Drama,7.1,Excellent,97,Avg. Length Film
+1982,Le père Noël est une ordure,Comedy,7.6,Excellent,88,Avg. Length Film
+1982,Q,"Crime, Horror, Mystery",6.0,Average,93,Avg. Length Film
+1982,Kei moon duen gap,"Action, Comedy, Fantasy",6.9,Average,95,Avg. Length Film
+1982,Que les gros salaires lèvent le doigt!,"Comedy, Drama",5.7,Average,98,Avg. Length Film
+1982,Sen-nen joô,"Animation, Action, Adventu",7.1,Excellent,121,No Data
+1982,Querelle,Drama,6.8,Average,108,Avg. Length Film
+1982,Raw Force,"Adventure, Horror, Action",5.4,Average,86,Avg. Length Film
+1982,Ren pi deng long,"Horror, Action",6.6,Average,95,Avg. Length Film
+1982,Ren xia ren,"Action, Comedy, Horror",6.4,Average,97,Avg. Length Film
+1982,Le retour de Martin Guerre,"Biography, Crime, Drama",7.4,Excellent,122,No Data
+1982,The Return of the Soldier,Drama,6.8,Average,99,Avg. Length Film
+1982,Hoero tekken,"Action, Comedy, Crime",6.6,Average,95,Avg. Length Film
+1982,Rocky III,"Drama, Sport",6.8,Average,99,Avg. Length Film
+1982,Running on Empty,"Action, Drama, Sport",5.9,Average,83,Avg. Length Film
+1982,Sapiches,"Comedy, Drama, Romance",5.5,Average,107,Avg. Length Film
+1982,Satte Pe Satta,"Action, Comedy, Drama",7.2,Excellent,160,No Data
+1982,Savannah Smiles,"Comedy, Family",7.2,Excellent,105,Avg. Length Film
+1982,"Sballato, gasato, completamente fuso","Comedy, Crime",5.4,Average,96,Avg. Length Film
+1982,The Scarecrow,"Horror, Mystery, Thriller",5.5,Average,88,Avg. Length Film
+1982,Scusa se è poco,Comedy,5.7,Average,91,Avg. Length Film
+1982,The Secret of NIMH,"Animation, Adventure, Dram",7.6,Excellent,82,Avg. Length Film
+1982,O Segredo da Múmia,"Comedy, Horror",5.1,Average,85,Avg. Length Film
+1982,The Seduction,Thriller,4.9,Average,104,Avg. Length Film
+1982,Die Sehnsucht der Veronika Voss,Drama,7.8,Excellent,104,Avg. Length Film
+1982,"Sei zärtlich, Pinguin","Romance, Comedy",5.6,Average,94,Avg. Length Film
+1982,The Sender,"Drama, Horror, Sci-Fi",6.1,Average,91,Avg. Length Film
+1982,Servantes iz Malog Mista,Comedy,6.4,Average,106,Avg. Length Film
+1982,Shakti,"Action, Crime, Drama",7.7,Excellent,166,No Data
+1982,Shi ba ban wu yi,"Action, Comedy, Drama",7.0,Excellent,109,Avg. Length Film
+1982,Shoot the Moon,Drama,6.9,Average,124,No Data
+1982,Silent Rage,"Action, Crime, Horror",5.5,Average,103,Avg. Length Film
+1982,Six Pack,"Comedy, Drama, Sport",5.9,Average,108,Avg. Length Film
+1982,Six Weeks,Drama,5.7,Average,107,Avg. Length Film
+1982,The Slayer,"Horror, Mystery",5.2,Average,80,Avg. Length Film
+1982,The Slumber Party Massacre,Horror,5.7,Average,77,Avg. Length Film
+1982,De smaak van water,Drama,7.0,Excellent,90,Avg. Length Film
+1982,Smithereens,"Drama, Music",6.8,Average,93,Avg. Length Film
+1982,Smrt gospodina Goluze,Drama,7.0,Excellent,89,Avg. Length Film
+1982,The Soldier,"Action, Adventure, Thrille",5.3,Average,87,Avg. Length Film
+1982,Sophie's Choice,"Drama, Romance",7.6,Excellent,150,No Data
+1982,Soup for One,Comedy,5.6,Average,87,Avg. Length Film
+1982,Spaghetti House,Comedy,6.4,Average,103,Avg. Length Film
+1982,Split Image,"Drama, Romance",6.6,Average,110,Avg. Length Film
+1982,Sportloto-82,"Action, Adventure, Comedy",6.9,Average,95,Avg. Length Film
+1982,Spring Fever,"Comedy, Drama, Sport",4.7,Average,100,Avg. Length Film
+1982,Lo squartatore di New York,"Horror, Mystery, Thriller",6.4,Average,91,Avg. Length Film
+1982,Der Stand der Dinge,Drama,7.1,Excellent,121,No Data
+1982,Star Trek II: The Wrath of Khan,"Action, Adventure, Sci-Fi",7.7,Excellent,113,Avg. Length Film
+1982,Starstruck,"Comedy, Musical, Drama",7.0,Excellent,105,Avg. Length Film
+1982,Still of the Night,"Crime, Drama, Mystery",6.1,Average,93,Avg. Length Film
+1982,A Stranger Is Watching,"Crime, Horror, Thriller",5.2,Average,92,Avg. Length Film
+1982,Summer Lovers,"Comedy, Drama, Romance",5.7,Average,98,Avg. Length Film
+1982,Superstition,Horror,5.8,Average,86,Avg. Length Film
+1982,Swamp Thing,"Horror, Sci-Fi",5.4,Average,91,Avg. Length Film
+1982,The Sword and the Sorcerer,"Action, Adventure, Fantasy",5.6,Average,100,Avg. Length Film
+1982,Tag: The Assassination Game,"Action, Thriller",6.0,Average,90,Avg. Length Film
+1982,Tekuno porisu 21C,"Animation, Action, Crime",6.2,Average,78,Avg. Length Film
+1982,Tempest,"Comedy, Drama, Fantasy",6.5,Average,140,No Data
+1982,Tenebre,"Horror, Mystery, Thriller",7.1,Excellent,101,Avg. Length Film
+1982,Tenkôsei,Comedy,7.2,Excellent,113,Avg. Length Film
+1982,Tesna koza,Comedy,8.2,Excellent,92,Avg. Length Film
+1982,Testa o croce,Comedy,6.4,Average,104,Avg. Length Film
+1982,Tex,Drama,6.5,Average,103,Avg. Length Film
+1982,That Championship Season,Drama,6.4,Average,110,Avg. Length Film
+1982,They Call Me Bruce?,"Comedy, Action",5.7,Average,87,Avg. Length Film
+1982,The Thing,"Horror, Mystery, Sci-Fi",8.1,Excellent,109,Avg. Length Film
+1982,Things Are Tough All Over,"Action, Comedy",6.0,Average,90,Avg. Length Film
+1982,Time Walker,"Horror, Sci-Fi",3.4,Average,83,Avg. Length Film
+1982,Tir groupé,"Crime, Drama",5.6,Average,88,Avg. Length Film
+1982,Tootsie,"Comedy, Drama, Romance",7.4,Excellent,116,Avg. Length Film
+1982,Tau ban no hoi,Drama,7.6,Excellent,109,Avg. Length Film
+1982,Toute une nuit,Drama,7.0,Excellent,90,Avg. Length Film
+1982,The Toy,Comedy,5.9,Average,102,Avg. Length Film
+1982,Trail of the Pink Panther,"Comedy, Crime, Mystery",5.0,Average,96,Avg. Length Film
+1982,Trandafirul galben,"Action, History",7.3,Excellent,102,Avg. Length Film
+1982,La traviata,"Drama, Music",6.9,Average,109,Avg. Length Film
+1982,Tre engle og fem løver,"Comedy, Family",5.8,Average,68,Avg. Length Film
+1982,Trick or Treats,Horror,4.0,Average,91,Avg. Length Film
+1982,TRON,"Action, Adventure, Sci-Fi",6.8,Average,96,Avg. Length Film
+1982,La truite,"Drama, Romance",6.0,Average,103,Avg. Length Film
+1982,Ulvova mylläri,"Comedy, Drama",6.3,Average,95,Avg. Length Film
+1982,Umbartha,Drama,6.8,Average,151,No Data
+1982,Une chambre en ville,"Drama, Musical, Romance",6.9,Average,90,Avg. Length Film
+1982,Uuno Turhapuro menettää muistinsa,Comedy,5.8,Average,82,Avg. Length Film
+1982,Vado a vivere da solo,Comedy,6.0,Average,98,Avg. Length Film
+1982,Valentina,Drama,6.6,Average,92,Avg. Length Film
+1982,Van de koele meren des doods,"Drama, Thriller",6.4,Average,120,No Data
+1982,The Verdict,Drama,7.7,Excellent,129,No Data
+1982,Vice Squad,"Action, Crime, Drama",6.5,Average,97,Avg. Length Film
+1982,Victor Victoria,"Comedy, Music, Musical",7.6,Excellent,134,No Data
+1982,Vidhaata,"Action, Drama",7.1,Excellent,168,No Data
+1982,Vigilante,"Action, Crime, Thriller",6.6,Average,90,Avg. Length Film
+1982,Violenza in un carcere femminile,"Action, Crime, Drama",4.8,Average,90,Avg. Length Film
+1982,Volver a empezar,Drama,7.0,Excellent,87,Avg. Length Film
+1982,Voyager from the Unknown,"Family, Fantasy, Sci-Fi",6.7,Average,91,Avg. Length Film
+1982,W la foca,Comedy,5.5,Average,92,Avg. Length Film
+1982,Waga seishun no Arcadia,"Animation, Action, Adventu",7.2,Excellent,130,No Data
+1982,Waltz Across Texas,Drama,5.7,Average,99,Avg. Length Film
+1982,Warlords of the 21st Century,"Action, Adventure, Sci-Fi",5.1,Average,91,Avg. Length Film
+1982,We of the Never Never,"Drama, History",6.9,Average,134,No Data
+1982,Die weiße Rose,"Biography, Crime, Drama",7.1,Excellent,123,No Data
+1982,Wend Kuuni,Drama,6.9,Average,75,Avg. Length Film
+1982,White Dog,"Drama, Horror",7.1,Excellent,90,Avg. Length Film
+1982,The World According to Garp,"Comedy, Drama",7.2,Excellent,136,No Data
+1982,Wrong Is Right,"Comedy, Drama, Thriller",5.7,Average,117,Avg. Length Film
+1982,Ren zhe wu di,"Action, Drama",7.4,Excellent,107,Avg. Length Film
+1982,Wyjscie awaryjne,Comedy,6.8,Average,89,Avg. Length Film
+1982,Ye jing hun,"Comedy, Horror",6.6,Average,87,Avg. Length Film
+1982,"Yes, Giorgio","Comedy, Musical",3.8,Average,110,Avg. Length Film
+1982,Yol,Drama,8.2,Excellent,114,Avg. Length Film
+1982,Young Doctors in Love,Comedy,5.4,Average,96,Avg. Length Film
+1982,Yu mao san xi jin mao shu,"Action, Comedy",6.1,Average,97,Avg. Length Film
+1982,Zapped!,"Comedy, Fantasy, Sci-Fi",5.0,Average,98,Avg. Length Film
+1982,Der Zauberberg,Drama,6.5,Average,153,No Data
+1982,Ziveti kao sav normalan svet,Drama,6.7,Average,90,Avg. Length Film
+1982,Znachor,"Drama, Romance",7.8,Excellent,128,No Data
+1982,Jui gaai paak dong,"Action, Comedy",6.7,Average,93,Avg. Length Film
+1982,L'étoile du Nord,"Crime, Drama, Thriller",6.5,Average,124,No Data
+1982,Últimos días de la víctima,"Crime, Mystery",7.3,Excellent,90,Avg. Length Film
+1982,1990: I guerrieri del Bronx,"Action, Sci-Fi, Thriller",5.3,Average,92,Avg. Length Film
+1982,Ator l'invincibile,"Action, Adventure, Fantasy",3.2,Average,98,Avg. Length Film
+1982,Austeria,"Drama, War",6.9,Average,109,Avg. Length Film
+1982,Death Screams,Horror,4.4,Average,88,Avg. Length Film
+1982,Dolina Issy,Drama,6.2,Average,110,Avg. Length Film
+1982,Das Gespenst,Drama,5.8,Average,88,Avg. Length Film
+1982,The Grey Fox,"Biography, Drama, Romance",7.4,Excellent,110,Avg. Length Film
+1982,Guang yin de gu shi,Drama,7.0,Excellent,106,Avg. Length Film
+1982,Halloween III: Season of the Witch,"Horror, Mystery, Sci-Fi",4.9,Average,98,Avg. Length Film
+1982,Hammett,"Crime, Drama, Mystery",6.5,Average,97,Avg. Length Film
+1982,Sluchay v kvadrate '36-80',"Action, Drama",5.6,Average,93,Avg. Length Film
+1982,Gunan il guerriero,"Action, Adventure, Fantasy",3.5,Average,80,Avg. Length Film
+1982,Jimmy the Kid,Comedy,4.8,Average,85,Avg. Length Film
+1982,The King of Comedy,"Comedy, Crime, Drama",7.8,Excellent,109,Avg. Length Film
+1982,Konopielka,"Comedy, Drama",7.6,Excellent,92,Avg. Length Film
+1982,Liquid Sky,"Sci-Fi, Thriller",6.2,Average,112,Avg. Length Film
+1982,Nesto izmedju,"Drama, Romance",7.1,Excellent,105,Avg. Length Film
+1982,Nightbeast,"Horror, Sci-Fi",4.0,Average,80,Avg. Length Film
+1982,One Dark Night,Horror,5.7,Average,89,Avg. Length Film
+1982,"One Down, Two to Go","Action, Drama",4.7,Average,85,Avg. Length Film
+1982,"Oro, Plata, Mata","Drama, War",8.0,Excellent,194,No Data
+1982,Pink Motel,Comedy,4.0,Average,87,Avg. Length Film
+1982,La ragazza di Trieste,"Drama, Thriller",6.2,Average,113,Avg. Length Film
+1982,"Sangraal, la spada di fuoco","Action, Adventure, Fantasy",4.1,Average,85,Avg. Length Film
+1982,Scrubbers,Drama,5.5,Average,90,Avg. Length Film
+1982,Hong fen bing tuan,"Action, Crime, Drama",6.2,Average,90,Avg. Length Film
+1982,Sogni mostruosamente proibiti,"Comedy, Fantasy",5.6,Average,89,Avg. Length Film
+1982,Sorceress,"Action, Fantasy, Adventure",4.3,Average,83,Avg. Length Film
+1982,De stilte rond Christine M.,Drama,6.4,Average,92,Avg. Length Film
+1982,A Time to Die,"Crime, Drama",4.1,Average,91,Avg. Length Film
+1982,Timerider: The Adventure of Lyle Swann,"Action, Adventure, Sci-Fi",5.4,Average,94,Avg. Length Film
+1982,La tumba de los muertos vivientes,Horror,2.6,Poor,82,Avg. Length Film
+1982,Twilight Time,Drama,6.0,Average,102,Avg. Length Film
+1982,Vlyublyon po sobstvennomu zhelaniyu,"Comedy, Drama, Romance",7.3,Excellent,89,Avg. Length Film
+1982,Xtro,"Horror, Sci-Fi",5.6,Average,81,Avg. Length Film
+1982,The Year of Living Dangerously,"Drama, Romance, War",7.1,Excellent,115,Avg. Length Film
+1982,Zai na he pan qing cao qing,Drama,6.6,Average,91,Avg. Length Film
+1982,The Black Room,"Horror, Thriller",4.8,Average,88,Avg. Length Film
+1982,Ator 2: L'invincibile Orion,"Action, Adventure, Fantasy",2.3,Poor,92,Avg. Length Film
+1982,Girls Nite Out,"Horror, Mystery, Thriller",4.8,Average,96,Avg. Length Film
+1982,The Clairvoyant,"Horror, Mystery, Thriller",5.6,Average,97,Avg. Length Film
+1982,The Last Horror Film,"Comedy, Horror",5.6,Average,87,Avg. Length Film
+1982,Le quart d'heure américain,Comedy,5.1,Average,90,Avg. Length Film
+1982,Slapstick (Of Another Kind),"Comedy, Fantasy, Sci-Fi",2.5,Poor,82,Avg. Length Film
+1982,Splitz,"Comedy, Music",4.0,Average,86,Avg. Length Film
+1982,Stuck on You!,"Comedy, Romance",4.5,Average,88,Avg. Length Film
+1982,Curral de Mulheres,"Action, Crime, Thriller",3.7,Average,99,Avg. Length Film
+1982,Glissando,"Comedy, Drama",7.2,Excellent,165,No Data
+1982,La mansión de los muertos vivientes,Horror,4.5,Average,97,Avg. Length Film
+1982,Mikan no taikyoku,Drama,6.4,Average,123,No Data
+1982,Iga ninpôchô,"Action, Adventure, Fantasy",5.8,Average,100,Avg. Length Film
+1982,Shao Lin chuan ren,"Action, Comedy",7.0,Excellent,100,Avg. Length Film
+1982,Wu gong zhou,Horror,5.2,Average,93,Avg. Length Film
+1982,Ren she da zhan,"Action, Comedy, Fantasy",5.9,Average,86,Avg. Length Film
+1982,Buletin de Bucuresti,Comedy,7.7,Excellent,88,Avg. Length Film
+1982,The Forest,"Horror, Thriller",3.8,Average,85,Avg. Length Film
+1982,Pásla kone na betóne,"Comedy, Drama, Romance",6.8,Average,81,Avg. Length Film
+1982,Horror Safari,"Adventure, Horror, War",2.9,Poor,90,Avg. Length Film
+1982,Himala,Drama,7.9,Excellent,124,No Data
+1982,Trapped,Thriller,6.0,Average,95,Avg. Length Film
+1982,Big Meat Eater,"Comedy, Horror, Musical",5.4,Average,82,Avg. Length Film
+1982,Honeymoon Horror,"Horror, Thriller",3.8,Average,88,Avg. Length Film
+1982,Ottsy i dedy,"Comedy, Romance",6.9,Average,83,Avg. Length Film
+1982,The Curse of the Screaming Dead,Horror,2.3,Poor,91,Avg. Length Film
+1982,Secvente,Drama,6.6,Average,98,Avg. Length Film
+1982,Olsenbandens aller siste kupp,"Comedy, Crime, Family",6.4,Average,101,Avg. Length Film
+1982,Incontro nell'ultimo paradiso,"Adventure, Comedy",4.6,Average,92,Avg. Length Film
+1982,Batch '81,Drama,7.1,Excellent,100,Avg. Length Film
+1982,I Was a Zombie for the F.B.I.,"Comedy, Sci-Fi",4.7,Average,105,Avg. Length Film
+1982,Forty Days of Musa Dagh,"Drama, History, War",5.6,Average,143,No Data
+1982,Luz del Fuego,"Biography, Drama",5.6,Average,102,Avg. Length Film
+1982,Os Vagabundos Trapalhões,"Comedy, Family",5.0,Average,96,Avg. Length Film
+1982,Wilhelm Cuceritorul,"Action, History",7.1,Excellent,180,No Data
+1982,Das Tripas Coração,"Comedy, Drama",6.9,Average,100,Avg. Length Film
+1982,Ajolähtö,"Drama, Romance",6.7,Average,107,Avg. Length Film
+1982,Pi pi pil... pilleri,Comedy,3.2,Average,88,Avg. Length Film
+1982,Cha-Cha-Cha,"Comedy, Drama",7.0,Excellent,81,Avg. Length Film
+1982,Rio Babilônia,Drama,5.0,Average,115,Avg. Length Film
+1982,Sesso e volentieri,Comedy,5.3,Average,101,Avg. Length Film
+1982,Les diplômés du dernier rang,Comedy,3.9,Average,95,Avg. Length Film
+1982,Vijeta,Drama,7.2,Excellent,151,No Data
+1982,Shaukeen,Comedy,7.2,Excellent,127,No Data
+1982,Dio li fa poi li accoppia,Comedy,5.2,Average,100,Avg. Length Film
+1982,Nikaah,"Drama, Romance",6.8,Average,152,No Data
+1982,Kidô Senshi Gundam III: Meguriai Sorahen,"Animation, Action, Drama",7.7,Excellent,144,No Data
+1982,La casa stregata,Comedy,6.2,Average,95,Avg. Length Film
+1982,Space Adventure Cobra,"Animation, Action, Fantasy",7.4,Excellent,99,Avg. Length Film
+1982,Litan,Horror,6.2,Average,88,Avg. Length Film
+1982,Kiryûin Hanako no shôgai,Drama,6.9,Average,146,No Data
+1982,La belva dalla calda pelle,"Drama, Thriller",3.9,Average,94,Avg. Length Film
+1982,Sha chu chong wei,"Action, Horror",4.0,Average,87,Avg. Length Film
+1982,Injamun salsu,"Drama, Action",5.2,Average,95,Avg. Length Film
+1982,Y a-t-il un Français dans la salle?,"Comedy, Crime",5.8,Average,106,Avg. Length Film
+1982,Budte moim muzhem,"Drama, Comedy, Romance",6.8,Average,87,Avg. Length Film
+1982,Il conte Tacchia,Comedy,6.3,Average,117,Avg. Length Film
+1982,Vai avanti tu che mi vien da ridere,Comedy,5.9,Average,92,Avg. Length Film
+1982,Vieni avanti cretino,Comedy,7.1,Excellent,98,Avg. Length Film
+1982,Ne mogu skazat 'proshchay',Drama,6.6,Average,91,Avg. Length Film
+1982,Nëntori i dytë,Drama,7.5,Excellent,93,Avg. Length Film
+1982,Með allt á hreinu,"Comedy, Musical",7.1,Excellent,99,Avg. Length Film
+1982,Unhinged,Horror,5.0,Average,79,Avg. Length Film
+1982,Dünyayi Kurtaran Adam,"Action, Adventure, Sci-Fi",4.5,Average,91,Avg. Length Film
+1982,Kanije Kalesi,"Action, Adventure, History",5.8,Average,83,Avg. Length Film
+1982,Madonna che silenzio c'è stasera,Comedy,7.0,Excellent,90,Avg. Length Film
+1982,Son savasçi,Action,5.6,Average,73,Avg. Length Film
+1982,Menino do Rio,Drama,5.4,Average,85,Avg. Length Film
+1982,The Boys in Blue,"Comedy, Family",4.5,Average,91,Avg. Length Film
+1982,Moondram Pirai,"Drama, Romance",8.6,Excellent,143,No Data
+1982,Pokkiri Raja,"Drama, Musical",6.2,Average,140,No Data
+1982,Viuuulentemente mia,Comedy,5.8,Average,90,Avg. Length Film
+1982,Mighty Mouse in the Great Space Chase,"Animation, Action, Adventu",6.0,Average,86,Avg. Length Film
+1982,Shestoy,Action,6.6,Average,83,Avg. Length Film
+1982,Pura sangre,"Crime, Horror",6.9,Average,90,Avg. Length Film
+1982,Porca vacca,"Comedy, Drama, War",6.2,Average,113,Avg. Length Film
+1982,Mi quan san shi liu zhao,"Action, Drama",5.4,Average,92,Avg. Length Film
+1982,"Roda, tsanta kai kopana",Comedy,5.9,Average,96,Avg. Length Film
+1982,Os Trapalhões na Serra Pelada,"Comedy, Family",5.3,Average,88,Avg. Length Film
+1982,Arajin to maho no ranpu,"Animation, Adventure, Fami",6.2,Average,65,Avg. Length Film
+1982,Disco Dancer,"Drama, Musical, Romance",6.4,Average,135,No Data
+1982,Yavanika,Mystery,8.0,Excellent,147,No Data
+1982,Angoor,Comedy,8.4,Excellent,131,No Data
+1982,Namkeen,"Drama, Family",7.6,Excellent,112,Avg. Length Film
+1982,El chanfle II,"Comedy, Family, Fantasy",6.3,Average,90,Avg. Length Film
+1982,Mizu no nai puuru,"Crime, Drama",7.1,Excellent,103,Avg. Length Film
+1982,Island of Blood,"Horror, Mystery, Thriller",4.4,Average,82,Avg. Length Film
+1982,Fylakes anilikon,"Action, Drama, Crime",6.7,Average,100,Avg. Length Film
+1982,Vasika... kalispera sas,Comedy,7.0,Excellent,90,Avg. Length Film
+1982,Maanasa Sarovara,Drama,7.2,Excellent,140,No Data
+1982,Pater Gomenios,Comedy,5.6,Average,82,Avg. Length Film
+1982,Mon curé chez les nudistes,Comedy,3.0,Poor,83,Avg. Length Film
+1982,On n'est pas sorti de l'auberge,Comedy,3.3,Average,91,Avg. Length Film
+1982,Against All Hope,"Biography, Drama",3.6,Average,90,Avg. Length Film
+1982,Alaloum,Comedy,7.7,Excellent,116,Avg. Length Film
+1982,Devushka i Grand,"Drama, Sport",6.5,Average,94,Avg. Length Film
+1982,Kuche v chekmedzhe,Family,8.2,Excellent,80,Avg. Length Film
+1982,Vozvrashchenie rezidenta,Thriller,7.0,Excellent,137,No Data
+1982,Runaway Nightmare,"Action, Comedy, Horror",5.2,Average,105,Avg. Length Film
+1982,Subhalekha,"Family, Drama, Musical",7.3,Excellent,139,No Data
+1982,Bazaar,"Drama, Family",7.3,Excellent,120,No Data
+1982,Kombina,"Drama, Thriller",7.3,Excellent,119,Avg. Length Film
+1982,Kaamchor,"Drama, Family",6.5,Average,135,No Data
+1982,Doktor Civanim,Comedy,7.0,Excellent,83,Avg. Length Film
+1982,Angelos,"Crime, Drama, Romance",6.1,Average,126,No Data
+1982,Cucaracha,Drama,7.3,Excellent,91,Avg. Length Film
+1982,Yedi Bela Hüsnü,Comedy,7.7,Excellent,84,Avg. Length Film
+1982,O Olho Mágico do Amor,"Comedy, Drama",5.5,Average,85,Avg. Length Film
+1982,Nadiya Ke Paar,"Drama, Romance",8.0,Excellent,143,No Data
+1982,Chronopolis,"Animation, Drama, Fantasy",7.0,Excellent,52,Short Film
+1982,Gopichand Jasoos,"Comedy, Thriller",5.9,Average,150,No Data
+1982,Çiçek Abbas,"Comedy, Drama, Romance",8.1,Excellent,87,Avg. Length Film
+1982,Kai o protos matakias,Comedy,4.7,Average,90,Avg. Length Film
+1982,O kamikazi tsantakias,Comedy,5.3,Average,97,Avg. Length Film
+1982,Mine,Drama,6.9,Average,84,Avg. Length Film
+1982,Samraat,"Action, Thriller",5.9,Average,161,No Data
+1982,Invitation to Hell,Horror,3.7,Average,50,Short Film
+1982,Mysterious Planet,Sci-Fi,3.2,Average,71,Avg. Length Film
+1982,As Aventuras da Turma da Mônica,Animation,6.9,Average,85,Avg. Length Film
+1982,Lavina,"Adventure, Drama",7.2,Excellent,153,No Data
+1982,Sakalakala Vallavan,"Action, Comedy, Romance",6.6,Average,138,No Data
+1982,Shirobara gakuen: Soshite zen'in okasareta,Crime,5.6,Average,66,Avg. Length Film
+1982,I strofi,"Action, Crime, Drama",6.4,Average,102,Avg. Length Film
+1982,Görgüsüzler,Comedy,6.2,Average,90,Avg. Length Film
+1982,Mafalda,"Animation, Comedy, Family",6.4,Average,82,Avg. Length Film
+1982,Meister Eder und sein Pumuckl,Family,7.0,Excellent,84,Avg. Length Film
+1982,Ghazab,"Drama, Family",6.8,Average,162,No Data
+1982,Shriman Shrimati,"Comedy, Drama, Family",6.5,Average,145,No Data
+1982,Yeh Vaada Raha,"Romance, Musical, Drama",7.1,Excellent,138,No Data
+1982,The Impossible Kid,"Action, Comedy",5.5,Average,81,Avg. Length Film
+1982,Shao Lin nian si liu ma,"Action, Drama",5.7,Average,89,Avg. Length Film
+1982,Santa Claus Is Coming to Town!,"Comedy, Drama, Romance",7.0,Excellent,90,Avg. Length Film
+1982,Adile Teyze,Comedy,6.6,Average,69,Avg. Length Film
+1982,Arkadasim,"Drama, Romance",7.1,Excellent,100,Avg. Length Film
+1982,Bas belasi,"Adventure, Comedy, Drama",6.2,Average,91,Avg. Length Film
+1982,Dolap Beygiri,"Comedy, Drama",7.2,Excellent,90,Avg. Length Film
+1982,Faize hücum,"Comedy, Drama",6.4,Average,102,Avg. Length Film
+1982,Göl,"Drama, Romance",6.1,Average,83,Avg. Length Film
+1982,Iffet,Drama,5.6,Average,95,Avg. Length Film
+1982,Tomruk,"Adventure, Drama",6.5,Average,83,Avg. Length Film
+1982,Strike of the Tortured Angels,Action,2.7,Poor,80,Avg. Length Film
+1982,Densetsu kyojin ideon: Hatsudou-hen,"Animation, Sci-Fi",7.1,Excellent,98,Avg. Length Film
+1982,Prathigna,"Comedy, Family",1.0,Poor,136,No Data
+1982,Cha guan,Drama,7.6,Excellent,125,No Data
+1982,Gharib fi Bayti,Comedy,6.2,Average,116,Avg. Length Film
+1982,The Ballad of Gregorio Cortez,Western,6.9,Average,106,Avg. Length Film
+1982,Doraemon: Nobita no Daimakyou,"Animation, Adventure, Come",6.7,Average,91,Avg. Length Film
+1982,El Ar,Drama,7.9,Excellent,123,No Data
+1982,Wakalt Al Balah,"Drama, Thriller",5.9,Average,125,No Data

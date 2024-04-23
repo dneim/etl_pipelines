@@ -1,0 +1,970 @@
+year,title,genre,avg_vote,movie_category,duration,length_category
+1996,Almost Blue,"Drama, Thriller",5.1,Average,85,Avg. Length Film
+1996,Burakku jakku,"Animation, Drama, Thriller",6.8,Average,90,Avg. Length Film
+1996,Cries of Silence,Drama,7.0,Excellent,109,Avg. Length Film
+1996,God's Lonely Man,Drama,6.2,Average,98,Avg. Length Film
+1996,Henry & Verlin,Drama,6.3,Average,87,Avg. Length Film
+1996,The Cold Light of Day,"Drama, Thriller",6.4,Average,96,Avg. Length Film
+1996,Mao xian wang,"Action, Adventure, Comedy",5.8,Average,91,Avg. Length Film
+1996,South Beach Academy,Comedy,3.8,Average,91,Avg. Length Film
+1996,Akropol,"Musical, Drama",5.6,Average,125,No Data
+1996,Akwarium,Action,6.7,Average,145,No Data
+1996,American Job,Drama,7.1,Excellent,95,Avg. Length Film
+1996,O Judeu,Drama,6.0,Average,91,Avg. Length Film
+1996,Baby Face Nelson,"Action, Crime, Drama",5.6,Average,93,Avg. Length Film
+1996,Bandwagon,"Comedy, Music",7.1,Excellent,103,Avg. Length Film
+1996,Blondes Have More Guns,"Comedy, Thriller",4.2,Average,90,Avg. Length Film
+1996,Bloodsport 2,"Action, Sport",4.8,Average,90,Avg. Length Film
+1996,Cachito,"Adventure, Drama, Crime",5.3,Average,95,Avg. Length Film
+1996,Caged Hearts,Drama,4.1,Average,94,Avg. Length Film
+1996,Celluloide,"Drama, History",6.6,Average,110,Avg. Length Film
+1996,Il cielo è sempre più blu,Drama,5.8,Average,110,Avg. Length Film
+1996,Cilantro y perejil,"Comedy, Romance",6.4,Average,90,Avg. Length Film
+1996,Eno nakano bokuno mura,"Drama, Family, Fantasy",7.0,Excellent,112,Avg. Length Film
+1996,Electra,"Action, Sci-Fi, Thriller",3.3,Average,87,Avg. Length Film
+1996,Entre Pancho Villa y una mujer desnuda,"Comedy, Fantasy, History",6.2,Average,87,Avg. Length Film
+1996,Fast Money,"Action, Comedy",5.6,Average,95,Avg. Length Film
+1996,Cyberella: Forbidden Passions,"Drama, Fantasy, Romance",4.4,Average,87,Avg. Length Film
+1996,Galgameth,"Adventure, Family, Fantasy",6.2,Average,110,Avg. Length Film
+1996,Grizzly Mountain,"Adventure, Family, Fantasy",5.5,Average,96,Avg. Length Film
+1996,Hollow Point,"Action, Comedy, Crime",5.8,Average,102,Avg. Length Film
+1996,Hollow Reed,"Drama, Romance",7.1,Excellent,104,Avg. Length Film
+1996,The Undercover Kid,Family,4.2,Average,80,Avg. Length Film
+1996,It's My Party,"Drama, Romance",7.1,Excellent,110,Avg. Length Film
+1996,Le journal du séducteur,"Comedy, Crime, Drama",6.8,Average,95,Avg. Length Film
+1996,Libertarias,"Drama, History, War",7.1,Excellent,125,No Data
+1996,Lilian's Story,Drama,6.3,Average,94,Avg. Length Film
+1996,The Little Death,"Crime, Drama, Thriller",4.8,Average,91,Avg. Length Film
+1996,Livers Ain't Cheap,"Action, Crime",4.9,Average,89,Avg. Length Film
+1996,Loch Ness,"Adventure, Drama, Fantasy",5.5,Average,101,Avg. Length Film
+1996,Man with a Plan,Comedy,6.4,Average,89,Avg. Length Film
+1996,Marked Man,"Action, Crime, Drama",5.3,Average,94,Avg. Length Film
+1996,"Matías, juez de línea","Comedy, Sport",4.9,Average,94,Avg. Length Film
+1996,Naked Souls,"Sci-Fi, Thriller",3.2,Average,85,Avg. Length Film
+1996,Night Hunter,"Action, Drama, Horror",4.3,Average,86,Avg. Length Film
+1996,No One Could Protect Her,"Biography, Crime, Drama",5.6,Average,97,Avg. Length Film
+1996,One Tough Bastard,"Action, Thriller",5.3,Average,100,Avg. Length Film
+1996,One Good Turn,Thriller,5.2,Average,90,Avg. Length Film
+1996,Over the Wire,"Drama, Thriller",4.6,Average,88,Avg. Length Film
+1996,El perro del hortelano,"Comedy, Romance",6.9,Average,119,Avg. Length Film
+1996,Ggotip,Drama,6.9,Average,89,Avg. Length Film
+1996,The Pillow Book,Drama,6.7,Average,126,No Data
+1996,Playback,"Drama, Thriller",4.1,Average,92,Avg. Length Film
+1996,Poison Ivy II,"Drama, Thriller",4.4,Average,106,Avg. Length Film
+1996,Power 98,"Action, Mystery, Thriller",4.7,Average,89,Avg. Length Film
+1996,Red Ribbon Blues,"Comedy, Drama",2.7,Poor,97,Avg. Length Film
+1996,Savage,"Action, Sci-Fi, Thriller",4.1,Average,99,Avg. Length Film
+1996,Shootfighter II,Action,4.8,Average,95,Avg. Length Film
+1996,A hetedik szoba,"Biography, Drama, War",6.8,Average,108,Avg. Length Film
+1996,Ski Hard,"Action, Comedy, Sport",4.7,Average,90,Avg. Length Film
+1996,Small Faces,Drama,7.0,Excellent,108,Avg. Length Film
+1996,Sobrenatural,"Horror, Thriller, Fantasy",6.2,Average,100,Avg. Length Film
+1996,Storybook,"Adventure, Family, Animati",4.9,Average,88,Avg. Length Film
+1996,North Star,"Action, Adventure, Crime",4.9,Average,90,Avg. Length Film
+1996,Terminal Justice,"Action, Sci-Fi, Thriller",4.3,Average,94,Avg. Length Film
+1996,Terminal Rush,"Action, Drama, Thriller",4.0,Average,94,Avg. Length Film
+1996,Tromeo and Juliet,"Action, Comedy, Drama",6.1,Average,107,Avg. Length Film
+1996,Tøsepiger,Drama,6.0,Average,80,Avg. Length Film
+1996,Un Été à La Goulette,"Comedy, Drama",6.5,Average,89,Avg. Length Film
+1996,Victory,"Adventure, Drama, Romance",6.2,Average,99,Avg. Length Film
+1996,When Saturday Comes,"Drama, Sport",6.0,Average,98,Avg. Length Film
+1996,When the Bullet Hits the Bone,Action,4.0,Average,82,Avg. Length Film
+1996,White Wolves II: Legend of the Wild,"Adventure, Family",5.3,Average,83,Avg. Length Film
+1996,"XY, drôle de conception","Drama, Romance, Comedy",3.6,Average,100,Avg. Length Film
+1996,Yeh Majhdhaar,"Drama, Romance",3.4,Average,139,No Data
+1996,101 Dalmatians,"Adventure, Comedy, Crime",5.7,Average,103,Avg. Length Film
+1996,2 Days in the Valley,"Comedy, Crime, Thriller",6.5,Average,104,Avg. Length Film
+1996,A spasso nel tempo,"Adventure, Comedy, Sci-Fi",4.0,Average,94,Avg. Length Film
+1996,Abbuzze! Der Badesalz Film,Comedy,6.7,Average,95,Avg. Length Film
+1996,"Adeus, Pai",Drama,6.9,Average,85,Avg. Length Film
+1996,Adosados,Drama,5.7,Average,95,Avg. Length Film
+1996,Adrenalin: Fear the Rush,"Action, Sci-Fi, Thriller",3.9,Average,77,Avg. Length Film
+1996,The Adventures of Pinocchio,"Adventure, Drama, Family",5.2,Average,92,Avg. Length Film
+1996,Le affinità elettive,"Comedy, Drama, Romance",6.0,Average,98,Avg. Length Film
+1996,Agni Sakshi,"Drama, Musical, Romance",6.1,Average,142,No Data
+1996,A Jin de gu shi,"Action, Drama",6.2,Average,95,Avg. Length Film
+1996,Alaska,"Adventure, Family",5.7,Average,109,Avg. Length Film
+1996,Albino Alligator,"Crime, Drama, Thriller",6.1,Average,97,Avg. Length Film
+1996,Alien Abduction: Intimate Secrets,Sci-Fi,3.4,Average,90,Avg. Length Film
+1996,Alien Species,Sci-Fi,2.5,Poor,92,Avg. Length Film
+1996,All Dogs Go to Heaven 2,"Animation, Adventure, Fami",5.5,Average,82,Avg. Length Film
+1996,Ging bin,"Crime, Romance, Thriller",5.9,Average,97,Avg. Length Film
+1996,Alone in the Woods,"Comedy, Crime, Family",4.1,Average,92,Avg. Length Film
+1996,Amanda,"Drama, Family",5.5,Average,83,Avg. Length Film
+1996,American Buffalo,Drama,5.8,Average,88,Avg. Length Film
+1996,American Strays,"Action, Comedy",5.2,Average,97,Avg. Length Film
+1996,El amor perjudica seriamente la salud,"Comedy, Romance",6.5,Average,117,Avg. Length Film
+1996,"Angelo, Frédo et Roméo",Comedy,1.7,Poor,82,Avg. Length Film
+1996,Anna Oz,"Drama, Mystery, Thriller",5.4,Average,98,Avg. Length Film
+1996,L'appartement,"Drama, Mystery, Romance",7.5,Excellent,116,Avg. Length Film
+1996,"Aquí llega Condemor, el pecador de la pradera","Comedy, Musical, Western",2.7,Poor,90,Avg. Length Film
+1996,L'arcano incantatore,Horror,6.9,Average,96,Avg. Length Film
+1996,Army,"Action, Drama",4.3,Average,153,No Data
+1996,The Arrival,"Sci-Fi, Thriller",6.3,Average,115,Avg. Length Film
+1996,Asphalt Tango,Comedy,8.0,Excellent,100,Avg. Length Film
+1996,The Associate,Comedy,6.1,Average,114,Avg. Length Film
+1996,Att stjäla en tjuv,"Comedy, Crime, Romance",4.2,Average,93,Avg. Length Film
+1996,August,"Comedy, Drama, Romance",6.0,Average,94,Avg. Length Film
+1996,Autoportret z kochanka,"Drama, Romance",5.8,Average,83,Avg. Length Film
+1996,Azúcar amarga,"Drama, Romance",6.8,Average,105,Avg. Length Film
+1996,Babe Watch: Forbidden Parody,Comedy,2.8,Poor,93,Avg. Length Film
+1996,Bad Moon,Horror,5.8,Average,80,Avg. Length Film
+1996,Bajo la piel,"Crime, Drama, Romance",6.9,Average,112,Avg. Length Film
+1996,Balance of Power,Action,4.8,Average,92,Avg. Length Film
+1996,Barb Wire,"Action, Sci-Fi",3.3,Average,98,Avg. Length Film
+1996,Il barbiere di Rio,Comedy,6.1,Average,105,Avg. Length Film
+1996,Basquiat,"Biography, Drama",6.9,Average,107,Avg. Length Film
+1996,Bastard Out of Carolina,Drama,7.4,Excellent,98,Avg. Length Film
+1996,Beaumarchais l'insolent,"Adventure, Comedy, History",6.7,Average,100,Avg. Length Film
+1996,Beautiful Girls,"Comedy, Drama, Romance",7.1,Excellent,112,Avg. Length Film
+1996,Beautiful Thing,"Comedy, Drama, Romance",7.5,Excellent,90,Avg. Length Film
+1996,Beavis and Butt-Head Do America,"Animation, Adventure, Come",6.8,Average,81,Avg. Length Film
+1996,Bed of Roses,"Drama, Romance",6.1,Average,87,Avg. Length Film
+1996,Before and After,"Crime, Drama, Mystery",6.1,Average,108,Avg. Length Film
+1996,La belle verte,Comedy,7.3,Excellent,99,Avg. Length Film
+1996,Bernie,Comedy,7.2,Excellent,87,Avg. Length Film
+1996,Sip si 32 dou,"Action, Drama, Thriller",6.7,Average,86,Avg. Length Film
+1996,Bian Lian,Drama,7.7,Excellent,91,Avg. Length Film
+1996,Big Bully,"Comedy, Thriller",4.7,Average,90,Avg. Length Film
+1996,Big Night,"Drama, Romance",7.3,Excellent,109,Avg. Length Film
+1996,The Big Squeeze,Drama,5.1,Average,98,Avg. Length Film
+1996,Bio-Dome,Comedy,4.4,Average,88,Avg. Length Film
+1996,The Birdcage,Comedy,7.1,Excellent,117,Avg. Length Film
+1996,Hak hap,"Action, Adventure, Comedy",6.1,Average,99,Avg. Length Film
+1996,Black Scorpion II: Aftershock,"Action, Crime, Fantasy",3.8,Average,85,Avg. Length Film
+1996,Black Sheep,Comedy,6.3,Average,87,Avg. Length Film
+1996,Blind Date,Drama,6.8,Average,90,Avg. Length Film
+1996,Blood Money,"Crime, Mystery, Thriller",3.0,Poor,90,Avg. Length Film
+1996,Blood and Wine,"Crime, Drama, Thriller",6.0,Average,101,Avg. Length Film
+1996,Bloodfist VIII: Trained to Kill,Action,5.0,Average,85,Avg. Length Film
+1996,The Bloody Child,"Crime, Drama",4.6,Average,85,Avg. Length Film
+1996,Der Bockerer 2,"Comedy, Drama",6.6,Average,95,Avg. Length Film
+1996,Body of Influence 2,"Drama, Thriller",4.7,Average,87,Avg. Length Film
+1996,Bogus,"Comedy, Family, Fantasy",5.4,Average,110,Avg. Length Film
+1996,Bolse vita,Drama,6.9,Average,97,Avg. Length Film
+1996,Borj-E Minoo,"Drama, War",5.7,Average,82,Avg. Length Film
+1996,Bottle Rocket,"Comedy, Crime, Drama",7.0,Excellent,91,Avg. Length Film
+1996,La bouche de Jean-Pierre,Drama,6.8,Average,52,Short Film
+1996,Bound,"Crime, Romance, Thriller",7.3,Excellent,109,Avg. Length Film
+1996,Box of Moonlight,"Comedy, Drama",7.3,Excellent,112,Avg. Length Film
+1996,Boyfriends,Comedy,5.6,Average,81,Avg. Length Film
+1996,Boys,"Drama, Mystery, Romance",4.9,Average,86,Avg. Length Film
+1996,Brassed Off,"Comedy, Drama, Romance",7.1,Excellent,108,Avg. Length Film
+1996,Breakaway,"Action, Adventure, Thrille",4.5,Average,95,Avg. Length Film
+1996,Breaking the Waves,Drama,7.9,Excellent,159,No Data
+1996,Breathing Room,"Comedy, Romance",5.0,Average,90,Avg. Length Film
+1996,"Brigands, chapitre VII","Comedy, Drama",7.1,Excellent,129,No Data
+1996,Brilliant Lies,Drama,6.1,Average,94,Avg. Length Film
+1996,Broken Arrow,"Action, Adventure, Thrille",6.0,Average,108,Avg. Length Film
+1996,Broken English,"Drama, Romance",6.3,Average,92,Avg. Length Film
+1996,The Bruce,"Biography, Drama, History",4.9,Average,107,Avg. Length Film
+1996,Bubbles Galore,Comedy,3.3,Average,94,Avg. Length Film
+1996,La buena vida,"Comedy, Drama",6.7,Average,107,Avg. Length Film
+1996,Buenos Aires Vice Versa,"Comedy, Drama",7.0,Excellent,122,No Data
+1996,Bullet,"Action, Crime, Drama",6.5,Average,96,Avg. Length Film
+1996,Bulletproof,"Action, Comedy, Crime",5.8,Average,84,Avg. Length Film
+1996,Bwana,Drama,6.1,Average,80,Avg. Length Film
+1996,Bámbola,"Comedy, Drama",4.6,Average,92,Avg. Length Film
+1996,The Cable Guy,"Comedy, Drama, Thriller",6.1,Average,96,Avg. Length Film
+1996,Cadillac Ranch,"Action, Adventure, Comedy",5.4,Average,100,Avg. Length Film
+1996,Camping Cosmos,"Comedy, Fantasy, Romance",5.6,Average,88,Avg. Length Film
+1996,Capitaine Conan,"Drama, War",7.2,Excellent,129,No Data
+1996,Les caprices d'un fleuve,"Adventure, Drama",6.6,Average,111,Avg. Length Film
+1996,Carla's Song,"Drama, Romance, War",6.8,Average,127,No Data
+1996,Carnosaur 3: Primal Species,"Action, Horror, Sci-Fi",3.2,Average,85,Avg. Length Film
+1996,Carpool,Comedy,5.0,Average,89,Avg. Length Film
+1996,Carried Away,"Drama, Romance",6.2,Average,109,Avg. Length Film
+1996,Caught,"Drama, Thriller",6.6,Average,110,Avg. Length Film
+1996,Kavafis,"Biography, Drama",5.4,Average,85,Avg. Length Film
+1996,La Celestina,Drama,5.1,Average,92,Avg. Length Film
+1996,Celtic Pride,"Comedy, Sport",5.3,Average,91,Avg. Length Film
+1996,Chukje,Drama,7.1,Excellent,108,Avg. Length Film
+1996,Chacun cherche son chat,"Comedy, Romance",6.8,Average,91,Avg. Length Film
+1996,Chain Reaction,"Action, Drama, Sci-Fi",5.7,Average,107,Avg. Length Film
+1996,The Chain,"Action, Drama, Thriller",4.5,Average,96,Avg. Length Film
+1996,Chamane,Adventure,7.0,Excellent,100,Avg. Length Film
+1996,The Chamber,"Crime, Drama, Thriller",6.0,Average,113,Avg. Length Film
+1996,Childhood's End,"Comedy, Drama, Romance",4.5,Average,115,Avg. Length Film
+1996,Children of the Revolution,"Comedy, Drama, Romance",6.3,Average,101,Avg. Length Film
+1996,Chronicle of a Disappearance,Drama,7.1,Excellent,88,Avg. Length Film
+1996,Il ciclone,"Comedy, Romance",6.8,Average,93,Avg. Length Film
+1996,"Cinco Dias, Cinco Noites",Drama,6.7,Average,100,Avg. Length Film
+1996,Citizen Ruth,"Comedy, Drama",7.0,Excellent,106,Avg. Length Film
+1996,City Hall,"Drama, Thriller",6.2,Average,111,Avg. Length Film
+1996,Clara Hakedosha,"Drama, Fantasy, Romance",7.0,Excellent,85,Avg. Length Film
+1996,Clubhouse Detectives,"Adventure, Family, Mystery",6.6,Average,85,Avg. Length Film
+1996,Le coeur fantôme,Drama,6.9,Average,87,Avg. Length Film
+1996,Color of a Brisk and Leaping Day,Drama,6.3,Average,87,Avg. Length Film
+1996,Comment je me suis disputé... (ma vie sexuelle),"Comedy, Drama, Romance",6.8,Average,178,No Data
+1996,Como Nascem os Anjos,Drama,6.7,Average,100,Avg. Length Film
+1996,Como un relámpago,Drama,6.6,Average,105,Avg. Length Film
+1996,Compagna di viaggio,Drama,6.8,Average,104,Avg. Length Film
+1996,Conte d'été,"Comedy, Drama, Romance",7.6,Excellent,113,Avg. Length Film
+1996,Cosas que nunca te dije,"Comedy, Drama, Romance",6.9,Average,93,Avg. Length Film
+1996,Cosi,"Comedy, Drama, Music",6.6,Average,100,Avg. Length Film
+1996,Countdown,"Crime, Mystery, Thriller",4.1,Average,90,Avg. Length Film
+1996,Courage Under Fire,"Action, Drama, Mystery",6.6,Average,116,Avg. Length Film
+1996,Coyote Run,"Action, Adventure",4.3,Average,101,Avg. Length Film
+1996,Coyote Summer,"Action, Adventure",5.7,Average,93,Avg. Length Film
+1996,The Craft,"Drama, Fantasy, Horror",6.3,Average,101,Avg. Length Film
+1996,Crash,Drama,6.4,Average,100,Avg. Length Film
+1996,Cresceranno i carciofi a Mimongo,Comedy,6.7,Average,80,Avg. Length Film
+1996,Le cri de la soie,"Drama, Romance",6.9,Average,110,Avg. Length Film
+1996,Crimetime,"Horror, Thriller",4.4,Average,118,Avg. Length Film
+1996,The Crow: City of Angels,"Action, Crime, Fantasy",4.7,Average,84,Avg. Length Film
+1996,The Crucible,"Drama, History",6.8,Average,124,No Data
+1996,Curdled,"Comedy, Crime, Thriller",5.9,Average,88,Avg. Length Film
+1996,Cwal,"Comedy, Drama, History",6.6,Average,104,Avg. Length Film
+1996,Um Céu de Estrelas,Drama,6.7,Average,70,Avg. Length Film
+1996,D3: The Mighty Ducks,"Action, Comedy, Drama",5.4,Average,104,Avg. Length Film
+1996,Da san yuan,"Comedy, Romance",6.3,Average,106,Avg. Length Film
+1996,Daddy's Girl,"Drama, Horror, Thriller",4.7,Average,95,Avg. Length Film
+1996,Daijiga umule pajinnal,Drama,6.7,Average,115,Avg. Length Film
+1996,Dai lap mat taam Ling Ling Fat,"Action, Comedy, Fantasy",7.0,Excellent,89,Avg. Length Film
+1996,Dangan ranna,"Comedy, Action, Crime",6.9,Average,82,Avg. Length Film
+1996,Danger Zone,"Action, Drama",4.5,Average,92,Avg. Length Film
+1996,Daraar,"Action, Drama, Romance",5.5,Average,105,Avg. Length Film
+1996,Dark Breed,"Action, Horror, Sci-Fi",4.0,Average,104,Avg. Length Film
+1996,Dark Secrets,Drama,4.6,Average,91,Avg. Length Film
+1996,Dastak,"Drama, Romance",4.9,Average,141,No Data
+1996,Dating the Enemy,"Comedy, Fantasy, Romance",6.4,Average,97,Avg. Length Film
+1996,Davids bog,Thriller,5.6,Average,97,Avg. Length Film
+1996,Day of the Warrior,"Action, Adventure, Thrille",3.6,Average,96,Avg. Length Film
+1996,Daylight,"Action, Adventure, Drama",5.9,Average,114,Avg. Length Film
+1996,The Daytrippers,"Comedy, Drama",6.8,Average,87,Avg. Length Film
+1996,Dead Girl,Comedy,4.7,Average,104,Avg. Length Film
+1996,Dead Heart,"Drama, Mystery, Thriller",6.5,Average,104,Avg. Length Film
+1996,Dead of Night,Horror,4.8,Average,95,Avg. Length Film
+1996,Dear God,Comedy,5.5,Average,112,Avg. Length Film
+1996,"Delphine 1, Yvan 0","Comedy, Romance",5.2,Average,91,Avg. Length Film
+1996,The Delta,Drama,5.5,Average,85,Avg. Length Film
+1996,Demon in the Bottle,"Adventure, Family, Fantasy",4.8,Average,85,Avg. Length Film
+1996,The Dentist,Horror,5.3,Average,92,Avg. Length Film
+1996,Des nouvelles du bon Dieu,Comedy,7.1,Excellent,100,Avg. Length Film
+1996,Désiré,Comedy,6.0,Average,93,Avg. Length Film
+1996,Despabílate amor,"Comedy, Romance",6.8,Average,98,Avg. Length Film
+1996,Les 2 papas et la maman,Comedy,2.7,Poor,90,Avg. Length Film
+1996,Diabolique,"Drama, Horror, Mystery",5.4,Average,107,Avg. Length Film
+1996,Different for Girls,"Comedy, Drama, Romance",7.0,Excellent,97,Avg. Length Film
+1996,Dinosaur Valley Girls,"Action, Adventure, Comedy",3.2,Average,94,Avg. Length Film
+1996,The Disappearance of Kevin Johnson,Comedy,5.4,Average,105,Avg. Length Film
+1996,Djöflaeyjan,"Comedy, Drama",7.1,Excellent,99,Avg. Length Film
+1996,Don't Be a Menace to South Central While Drinking Y,"Comedy, Crime",6.6,Average,89,Avg. Length Film
+1996,Down Periscope,Comedy,6.1,Average,92,Avg. Length Film
+1996,Long zai Shaolin,"Action, Adventure, Comedy",5.5,Average,89,Avg. Length Film
+1996,DragonHeart,"Action, Adventure, Fantasy",6.5,Average,103,Avg. Length Film
+1996,Drawing Flies,Comedy,5.4,Average,76,Avg. Length Film
+1996,Dream for an Insomniac,"Romance, Comedy, Drama",6.1,Average,90,Avg. Length Film
+1996,Dreammaster: The Erotic Invader,"Sci-Fi, Thriller",4.3,Average,86,Avg. Length Film
+1996,Drömprinsen - Filmen om Em,"Drama, Romance",4.8,Average,107,Avg. Length Film
+1996,Dunston Checks In,"Comedy, Adventure, Family",5.3,Average,88,Avg. Length Film
+1996,Dushman Duniya Ka,Drama,4.1,Average,153,No Data
+1996,E=mc2,"Comedy, Romance",5.2,Average,94,Avg. Length Film
+1996,Yi boh lai beng duk,"Crime, Horror",6.6,Average,98,Avg. Length Film
+1996,Echte Kerle,"Comedy, Crime, Romance",6.8,Average,102,Avg. Length Film
+1996,Ed,"Comedy, Family, Sport",2.7,Poor,94,Avg. Length Film
+1996,Ed's Next Move,"Romance, Comedy",6.3,Average,88,Avg. Length Film
+1996,Eddie,"Comedy, Sport",5.2,Average,100,Avg. Length Film
+1996,Edie & Pen,Comedy,5.7,Average,96,Avg. Length Film
+1996,Oedipo alcalde,"Drama, War",6.0,Average,100,Avg. Length Film
+1996,Eko eko azaraku II,Horror,5.7,Average,83,Avg. Length Film
+1996,The Elevator,"Comedy, Drama",4.4,Average,90,Avg. Length Film
+1996,"Elämä lyhyt, Rytkönen pitkä",Comedy,5.4,Average,91,Avg. Length Film
+1996,Emma,"Comedy, Drama, Romance",6.6,Average,120,No Data
+1996,The Empty Mirror,"Drama, History, War",6.3,Average,118,Avg. Length Film
+1996,Encore,"Comedy, Romance, Drama",5.9,Average,96,Avg. Length Film
+1996,Enfants de salaud,"Comedy, Drama",6.1,Average,100,Avg. Length Film
+1996,Engelchen,"Drama, Romance",6.5,Average,88,Avg. Length Film
+1996,The English Patient,"Drama, Romance, War",7.4,Excellent,162,No Data
+1996,Entertaining Angels: The Dorothy Day Story,"Biography, Drama, Romance",6.2,Average,110,Avg. Length Film
+1996,Eraser,"Action, Drama, Thriller",6.1,Average,115,Avg. Length Film
+1996,Érzékek iskolája,Drama,5.8,Average,86,Avg. Length Film
+1996,Escape from L.A.,"Action, Adventure, Sci-Fi",5.7,Average,101,Avg. Length Film
+1996,L'escorte,Comedy,5.2,Average,92,Avg. Length Film
+1996,Eskiya,"Crime, Drama, Thriller",8.3,Excellent,128,No Data
+1996,Eva Perón,"Biography, Drama, History",6.6,Average,120,No Data
+1996,The Evening Star,"Comedy, Drama, Romance",5.9,Average,129,No Data
+1996,Everyone Says I Love You,"Comedy, Musical, Romance",6.7,Average,101,Avg. Length Film
+1996,Everything Relative,Drama,6.0,Average,110,Avg. Length Film
+1996,Evita,"Biography, Drama, History",6.3,Average,135,No Data
+1996,Executive Decision,"Action, Adventure, Thrille",6.4,Average,133,No Data
+1996,Exit in Red,"Thriller, Drama, Romance",4.3,Average,97,Avg. Length Film
+1996,Extreme Measures,"Crime, Drama, Mystery",6.2,Average,118,Avg. Length Film
+1996,Eye for an Eye,"Crime, Drama, Thriller",6.2,Average,101,Avg. Length Film
+1996,Faithful,"Comedy, Crime, Drama",5.9,Average,91,Avg. Length Film
+1996,Fallait pas!...,Comedy,5.2,Average,95,Avg. Length Film
+1996,Familia,"Comedy, Drama, Family",7.2,Excellent,98,Avg. Length Film
+1996,A Family Thing,"Comedy, Drama",7.0,Excellent,109,Avg. Length Film
+1996,The Fan,"Action, Drama, Sport",5.9,Average,116,Avg. Length Film
+1996,Fantozzi - Il ritorno,Comedy,5.3,Average,97,Avg. Length Film
+1996,Fantôme avec chauffeur,"Adventure, Comedy, Fantasy",4.9,Average,78,Avg. Length Film
+1996,Far Harbor,Drama,4.6,Average,99,Avg. Length Film
+1996,Fargo,"Crime, Drama, Thriller",8.1,Excellent,98,Avg. Length Film
+1996,Fatal Frames - Fotogrammi mortali,"Horror, Mystery",3.9,Average,125,No Data
+1996,Fear,"Drama, Thriller",6.2,Average,97,Avg. Length Film
+1996,Fede tider,Comedy,6.3,Average,55,Short Film
+1996,Feeling Minnesota,"Comedy, Crime, Drama",5.4,Average,99,Avg. Length Film
+1996,Female Perversions,"Drama, Fantasy, Thriller",5.4,Average,120,No Data
+1996,Femalien,"Romance, Sci-Fi",5.1,Average,89,Avg. Length Film
+1996,Feng yue,"Drama, Romance",6.8,Average,130,No Data
+1996,Ferie d'agosto,"Comedy, Drama",6.7,Average,106,Avg. Length Film
+1996,Festival,"Comedy, Drama",6.6,Average,95,Avg. Length Film
+1996,Few of Us,Drama,7.2,Excellent,105,Avg. Length Film
+1996,Final Vendetta,Thriller,5.7,Average,96,Avg. Length Film
+1996,Fire,"Drama, Romance",7.2,Excellent,108,Avg. Length Film
+1996,First Kid,"Family, Comedy",5.2,Average,101,Avg. Length Film
+1996,Fei hu,"Drama, Action",5.9,Average,90,Avg. Length Film
+1996,The First Wives Club,Comedy,6.4,Average,103,Avg. Length Film
+1996,Fistful of Flies,"Drama, Thriller",6.5,Average,85,Avg. Length Film
+1996,Fled,"Action, Adventure, Crime",5.4,Average,98,Avg. Length Film
+1996,Flipper,"Adventure, Family",5.2,Average,95,Avg. Length Film
+1996,Flipping,"Crime, Drama",4.2,Average,102,Avg. Length Film
+1996,Flirting with Disaster,Comedy,6.7,Average,92,Avg. Length Film
+1996,Fu sheng,Comedy,7.1,Excellent,96,Avg. Length Film
+1996,Fly Away Home,"Adventure, Drama, Family",6.8,Average,107,Avg. Length Film
+1996,Focus,"Crime, Drama",7.1,Excellent,73,Avg. Length Film
+1996,For Ever Mozart,"Comedy, Drama, War",6.5,Average,84,Avg. Length Film
+1996,Forest Warrior,"Action, Adventure, Comedy",3.6,Average,93,Avg. Length Film
+1996,Fotos,"Crime, Drama, Horror",5.7,Average,93,Avg. Length Film
+1996,Fourbi,Drama,6.4,Average,114,Avg. Length Film
+1996,Fox Hunt,"Action, Comedy",5.7,Average,95,Avg. Length Film
+1996,Foxfire,Drama,6.2,Average,102,Avg. Length Film
+1996,Frankenstein and Me,"Comedy, Family, Fantasy",5.4,Average,91,Avg. Length Film
+1996,Freeway,"Comedy, Crime, Drama",6.8,Average,102,Avg. Length Film
+1996,The Frighteners,"Comedy, Fantasy, Horror",7.1,Excellent,110,Avg. Length Film
+1996,From Dusk Till Dawn,"Action, Crime, Horror",7.2,Excellent,108,Avg. Length Film
+1996,The Funeral,"Crime, Drama",6.6,Average,99,Avg. Length Film
+1996,Gabbeh,"Drama, Mystery, Romance",6.9,Average,75,Avg. Length Film
+1996,Gamera 2: Region shurai,"Action, Fantasy, Sci-Fi",7.1,Excellent,99,Avg. Length Film
+1996,Get on the Bus,"Drama, History",6.7,Average,120,No Data
+1996,Getting Away with Murder,Comedy,4.7,Average,91,Avg. Length Film
+1996,Ghatak: Lethal,"Action, Drama, Thriller",7.4,Excellent,158,No Data
+1996,The Ghost and the Darkness,"Adventure, Drama, Thriller",6.8,Average,110,Avg. Length Film
+1996,Ghosts of Mississippi,"Drama, History",6.7,Average,130,No Data
+1996,Girl 6,"Comedy, Drama",5.1,Average,108,Avg. Length Film
+1996,Girls Town,"Comedy, Drama",6.2,Average,90,Avg. Length Film
+1996,The Glass Cage,"Drama, Thriller",3.9,Average,96,Avg. Length Film
+1996,The Glimmer Man,"Action, Comedy, Crime",5.4,Average,91,Avg. Length Film
+1996,Sik san,"Action, Comedy, Fantasy",7.3,Excellent,88,Avg. Length Film
+1996,Gonin 2,"Action, Crime, Thriller",6.2,Average,108,Avg. Length Film
+1996,Good Luck,"Comedy, Drama",6.3,Average,92,Avg. Length Film
+1996,Grace of My Heart,"Comedy, Drama, Music",6.7,Average,116,Avg. Length Film
+1996,Les grands ducs,Comedy,5.8,Average,85,Avg. Length Film
+1996,The Grave,"Comedy, Horror",5.8,Average,90,Avg. Length Film
+1996,Gray's Anatomy,"Comedy, Drama",6.8,Average,80,Avg. Length Film
+1996,The Great White Hype,"Comedy, Sport",5.4,Average,91,Avg. Length Film
+1996,Green Plaid Shirt,"Drama, Romance",5.7,Average,87,Avg. Length Film
+1996,Goo waak zai 3: Jek sau je tin,"Action, Drama",6.7,Average,98,Avg. Length Film
+1996,Goo waak zai: Yan joi gong woo,"Action, Crime, Thriller",7.1,Excellent,97,Avg. Length Film
+1996,O Guarani,"Drama, Romance",4.3,Average,91,Avg. Length Film
+1996,Gam chi yuk yip 2,"Comedy, Drama, Romance",6.5,Average,110,Avg. Length Film
+1996,Guy,Drama,6.3,Average,94,Avg. Length Film
+1996,Haggyállógva Vászka,Comedy,7.0,Excellent,85,Avg. Length Film
+1996,Hamlet,Drama,7.7,Excellent,242,No Data
+1996,Hamsun,"Biography, Drama, War",7.1,Excellent,159,No Data
+1996,Happy Gilmore,"Comedy, Sport",7.0,Excellent,92,Avg. Length Film
+1996,Hard Core Logo,"Comedy, Drama, Music",7.4,Excellent,92,Avg. Length Film
+1996,A három testör Afrikában,"Adventure, Comedy, Romance",5.4,Average,84,Avg. Length Film
+1996,Harriet the Spy,"Comedy, Drama, Family",5.9,Average,100,Avg. Length Film
+1996,Harry och Sonja,Comedy,5.4,Average,101,Avg. Length Film
+1996,Head Above Water,"Comedy, Thriller",6.0,Average,92,Avg. Length Film
+1996,Head of the Family,"Comedy, Horror",5.3,Average,82,Avg. Length Film
+1996,Heaven's Prisoners,"Drama, Mystery, Thriller",5.8,Average,132,No Data
+1996,Hellraiser: Bloodline,"Horror, Sci-Fi",5.2,Average,85,Avg. Length Film
+1996,Helpless,Crime,6.5,Average,80,Avg. Length Film
+1996,Henry II: Portrait of a Serial Killer,"Crime, Horror, Thriller",4.8,Average,84,Avg. Length Film
+1996,Hercule & Sherlock,"Comedy, Crime",4.3,Average,95,Avg. Length Film
+1996,Hide and Seek,Drama,7.0,Excellent,63,Avg. Length Film
+1996,High School High,"Comedy, Crime, Romance",5.5,Average,86,Avg. Length Film
+1996,Hit Me,"Crime, Drama, Thriller",5.4,Average,125,No Data
+1996,Homeward Bound II: Lost in San Francisco,"Adventure, Comedy, Family",5.9,Average,88,Avg. Length Film
+1996,L'homme idéal,"Comedy, Romance",6.5,Average,110,Avg. Length Film
+1996,"Hommes, femmes, mode d'emploi","Comedy, Drama",6.0,Average,122,No Data
+1996,Honfoglalás,History,2.6,Poor,109,Avg. Length Film
+1996,Hot Ticket,Action,3.7,Average,81,Avg. Length Film
+1996,Hotel de Love,"Comedy, Drama, Romance",6.1,Average,95,Avg. Length Film
+1996,House Arrest,"Comedy, Family",5.8,Average,108,Avg. Length Film
+1996,House of the Damned,"Action, Horror, Thriller",4.3,Average,83,Avg. Length Film
+1996,Wan choi ng fuk sing,Comedy,5.6,Average,112,Avg. Length Film
+1996,Hu Du Men,"Comedy, Drama",7.1,Excellent,87,Avg. Length Film
+1996,Le huitième jour,"Comedy, Drama",7.6,Excellent,118,Avg. Length Film
+1996,The Hunchback of Notre Dame,"Animation, Drama, Family",6.9,Average,91,Avg. Length Film
+1996,Hungry for You,"Sci-Fi, Thriller",3.7,Average,92,Avg. Length Film
+1996,Hustler White,"Drama, Romance",5.9,Average,79,Avg. Length Film
+1996,"I Love You, I Love You Not","Drama, Romance",5.5,Average,88,Avg. Length Film
+1996,I Shot Andy Warhol,"Biography, Drama",6.6,Average,103,Avg. Length Film
+1996,I'm Not Rappaport,Comedy,6.6,Average,135,No Data
+1996,Idiot Box,"Comedy, Crime, Drama",6.4,Average,85,Avg. Length Film
+1996,If Lucy Fell,"Comedy, Romance",4.9,Average,92,Avg. Length Film
+1996,Ilona llega con la lluvia,Drama,6.9,Average,111,Avg. Length Film
+1996,Yit yuk chui gik dong on: Che saat,Horror,4.4,Average,96,Avg. Length Film
+1996,Impotent,Comedy,3.6,Average,75,Avg. Length Film
+1996,In Love and War,"Biography, Drama, Romance",6.0,Average,113,Avg. Length Film
+1996,Independence Day,"Action, Adventure, Sci-Fi",7.0,Excellent,145,No Data
+1996,Indian,"Action, Drama, Thriller",8.1,Excellent,185,No Data
+1996,Indian Summer,"Comedy, Drama, Romance",6.4,Average,98,Avg. Length Film
+1996,Infinity,"Biography, Drama",6.2,Average,119,Avg. Length Film
+1996,Intimate Relations,"Comedy, Drama",6.3,Average,105,Avg. Length Film
+1996,Invader,"Sci-Fi, Thriller",4.8,Average,90,Avg. Length Film
+1996,Invasion of Privacy,"Drama, Thriller",5.0,Average,91,Avg. Length Film
+1996,Irma Vep,"Comedy, Drama",7.0,Excellent,99,Avg. Length Film
+1996,Irren ist männlich,"Comedy, Romance",6.0,Average,96,Avg. Length Film
+1996,The Island of Dr. Moreau,"Horror, Sci-Fi, Thriller",4.5,Average,96,Avg. Length Film
+1996,Jack,"Comedy, Drama, Fantasy",5.8,Average,113,Avg. Length Film
+1996,Jack Frusciante è uscito dal gruppo,"Drama, Romance",5.8,Average,100,Avg. Length Film
+1996,Le jaguar,"Adventure, Comedy",5.9,Average,100,Avg. Length Film
+1996,Jakten på nyresteinen,"Adventure, Family, Sci-Fi",5.6,Average,91,Avg. Length Film
+1996,James and the Giant Peach,"Animation, Adventure, Fami",6.7,Average,79,Avg. Length Film
+1996,Jane Eyre,"Drama, Romance",6.8,Average,112,Avg. Length Film
+1996,Jeet,"Action, Drama, Romance",5.6,Average,180,No Data
+1996,Jenseits der Stille,"Drama, Music",7.4,Excellent,109,Avg. Length Film
+1996,Jerry Maguire,"Comedy, Drama, Romance",7.3,Excellent,139,No Data
+1996,Jerusalem,Drama,6.8,Average,168,No Data
+1996,Ging chaat goo si 4: Gaan dan yam mo,"Action, Adventure, Comedy",6.6,Average,107,Avg. Length Film
+1996,Jingle All the Way,"Comedy, Family",5.6,Average,89,Avg. Length Film
+1996,Joe's Apartment,"Comedy, Fantasy, Musical",5.4,Average,80,Avg. Length Film
+1996,Joe's So Mean to Josephine,"Drama, Crime, Romance",6.2,Average,89,Avg. Length Film
+1996,Johns,"Drama, Romance",6.4,Average,96,Avg. Length Film
+1996,Joulubileet,Comedy,7.1,Excellent,84,Avg. Length Film
+1996,Joyeux Calvaire,Drama,7.1,Excellent,89,Avg. Length Film
+1996,Jude,"Drama, Romance",6.9,Average,123,No Data
+1996,Judge and Jury,"Action, Horror, Thriller",4.0,Average,98,Avg. Length Film
+1996,Juloratoriet,Drama,5.9,Average,124,No Data
+1996,Jung,"Action, Crime, Drama",3.9,Average,146,No Data
+1996,Jungledyret 2 - den store filmhelt,"Animation, Family, Musical",5.3,Average,72,Avg. Length Film
+1996,De jurk,"Comedy, Drama",7.0,Excellent,103,Avg. Length Film
+1996,The Juror,"Crime, Drama, Thriller",5.7,Average,118,Avg. Length Film
+1996,Jägarna,"Crime, Thriller",7.1,Excellent,113,Avg. Length Film
+1996,Kako je poceo rat na mom otoku,"Comedy, War",7.8,Excellent,97,Avg. Length Film
+1996,Kalle Blomkvist - Mästerdetektiven lever farligt,"Family, Adventure, Mystery",5.9,Average,81,Avg. Length Film
+1996,Der kalte Finger,Thriller,6.0,Average,94,Avg. Length Film
+1996,Kama Sutra: A Tale of Love,"Crime, Drama, History",6.0,Average,117,Avg. Length Film
+1996,Kansas City,"Crime, Drama, Music",6.4,Average,116,Avg. Length Film
+1996,Karmina,"Comedy, Horror, Romance",6.8,Average,110,Avg. Length Film
+1996,Katzendiebe,Comedy,5.5,Average,85,Avg. Length Film
+1996,Kauas pilvet karkaavat,"Comedy, Drama",7.7,Excellent,97,Avg. Length Film
+1996,Kavkazskiy plennik,"Drama, War",7.6,Excellent,99,Avg. Length Film
+1996,Kazaam,"Comedy, Family, Fantasy",3.0,Poor,93,Avg. Length Film
+1996,Khamoshi: The Musical,"Drama, Musical, Romance",7.5,Excellent,159,No Data
+1996,Kizzu ritân,"Crime, Drama, Sport",7.5,Excellent,107,Avg. Length Film
+1996,Kids in the Hall: Brain Candy,Comedy,6.9,Average,89,Avg. Length Film
+1996,Killer Barbys,Horror,3.4,Average,87,Avg. Length Film
+1996,La lengua asesina,"Comedy, Sci-Fi, Horror",4.7,Average,95,Avg. Length Film
+1996,Kingpin,"Comedy, Sport",6.9,Average,114,Avg. Length Film
+1996,Kiseye Berendj,"Drama, Family",7.0,Excellent,80,Avg. Length Film
+1996,Kissed,"Drama, Romance",6.4,Average,78,Avg. Length Film
+1996,Kolja,"Comedy, Drama, Music",7.8,Excellent,105,Avg. Length Film
+1996,Kondom des Grauens,"Comedy, Horror, Romance",5.2,Average,107,Avg. Length Film
+1996,Kotyonok,"Adventure, Family",7.0,Excellent,80,Avg. Length Film
+1996,Das Zauberbuch,"Comedy, Family, Fantasy",6.1,Average,80,Avg. Length Film
+1996,Kral Ubu,"Comedy, Drama",6.7,Average,88,Avg. Length Film
+1996,Ladykiller,Thriller,4.9,Average,83,Avg. Length Film
+1996,Lang man feng bao,"Action, Drama",6.1,Average,108,Avg. Length Film
+1996,Larger Than Life,"Comedy, Family",5.6,Average,93,Avg. Length Film
+1996,Last Dance,"Drama, Thriller",5.7,Average,103,Avg. Length Film
+1996,The Last Days of Frankie the Fly,"Comedy, Crime, Drama",5.5,Average,96,Avg. Length Film
+1996,Last Man Standing,"Action, Crime, Drama",6.4,Average,101,Avg. Length Film
+1996,The Last of the High Kings,"Comedy, Drama",6.1,Average,104,Avg. Length Film
+1996,Late Bloomers,"Comedy, Drama, Romance",5.9,Average,107,Avg. Length Film
+1996,Lawnmower Man 2: Beyond Cyberspace,"Action, Sci-Fi, Thriller",2.5,Poor,93,Avg. Length Film
+1996,Lea,"Drama, Romance",7.0,Excellent,100,Avg. Length Film
+1996,The Leading Man,"Drama, Romance, Thriller",5.7,Average,100,Avg. Length Film
+1996,The Legend of Gator Face,"Adventure, Comedy, Horror",4.6,Average,99,Avg. Length Film
+1996,Leily Ba Man Ast,"Comedy, Drama, War",7.7,Excellent,95,Avg. Length Film
+1996,Lepa sela lepo gore,"Comedy, Drama, History",8.7,Excellent,115,Avg. Length Film
+1996,Lilies - Les feluettes,"Crime, Drama, Fantasy",7.3,Excellent,95,Avg. Length Film
+1996,Lilla Jönssonligan och cornflakeskuppen,"Comedy, Family",4.6,Average,90,Avg. Length Film
+1996,Listen,"Mystery, Thriller",4.8,Average,101,Avg. Length Film
+1996,Little Witches,"Horror, Thriller",3.9,Average,90,Avg. Length Film
+1996,Loafer,"Action, Comedy, Romance",5.1,Average,160,No Data
+1996,Lone Star,"Drama, Mystery",7.4,Excellent,135,No Data
+1996,The Long Kiss Goodnight,"Action, Crime, Drama",6.8,Average,121,No Data
+1996,En loppe kan også gø,"Drama, Family",5.7,Average,97,Avg. Length Film
+1996,The Dark Mist,"Fantasy, Action, Adventure",4.3,Average,101,Avg. Length Film
+1996,Love Is All There Is,"Comedy, Romance",5.1,Average,120,No Data
+1996,Love Serenade,"Comedy, Crime, Drama",6.9,Average,101,Avg. Length Film
+1996,Love and Other Catastrophes,"Comedy, Romance",6.3,Average,76,Avg. Length Film
+1996,"Love, etc.","Comedy, Drama, Romance",6.2,Average,105,Avg. Length Film
+1996,La lupa,Drama,4.7,Average,95,Avg. Length Film
+1996,Maachis,"Action, Crime, Drama",7.8,Excellent,160,No Data
+1996,The Macabre Pair of Shorts,"Comedy, Horror",3.8,Average,76,Avg. Length Film
+1996,Mad Dog Time,"Comedy, Crime, Drama",5.5,Average,93,Avg. Length Film
+1996,Magic in the Mirror,"Adventure, Comedy, Family",5.3,Average,85,Avg. Length Film
+1996,Ma jiang,"Comedy, Drama",7.6,Excellent,121,No Data
+1996,Malena es un nombre de tango,Drama,6.1,Average,109,Avg. Length Film
+1996,Manny & Lo,"Comedy, Drama",6.6,Average,88,Avg. Length Film
+1996,Marian,Drama,6.4,Average,109,Avg. Length Film
+1996,Marquis de Sade,"Drama, History",4.0,Average,93,Avg. Length Film
+1996,Mars Attacks!,"Comedy, Sci-Fi",6.3,Average,106,Avg. Length Film
+1996,Marvin's Room,Drama,6.7,Average,98,Avg. Length Film
+1996,Mary Jane's Not a Virgin Anymore,"Drama, Romance",5.7,Average,98,Avg. Length Film
+1996,Mary Reilly,"Drama, Horror, Romance",5.8,Average,108,Avg. Length Film
+1996,Mask of Death,"Action, Crime, Thriller",4.3,Average,89,Avg. Length Film
+1996,Masseuse,Drama,3.1,Average,93,Avg. Length Film
+1996,Maternal Instincts,"Drama, Thriller",5.5,Average,92,Avg. Length Film
+1996,Matilda,"Comedy, Family, Fantasy",6.9,Average,98,Avg. Length Film
+1996,Maximum Risk,"Action, Romance, Thriller",5.5,Average,101,Avg. Length Film
+1996,My Friend Joe,"Drama, Family",6.7,Average,101,Avg. Length Film
+1996,Metalmeccanico e parrucchiera in un turbine di sess,Comedy,5.5,Average,101,Avg. Length Film
+1996,La mia generazione,Drama,6.9,Average,95,Avg. Length Film
+1996,Michael,"Comedy, Drama, Fantasy",5.7,Average,105,Avg. Length Film
+1996,Michael Collins,"Biography, Drama, Thriller",7.2,Excellent,133,No Data
+1996,A Midsummer Night's Dream,"Comedy, Romance",6.2,Average,105,Avg. Length Film
+1996,Shekvarebuli kulinaris ataserti retsepti,"Comedy, Romance",6.6,Average,100,Avg. Length Film
+1996,Mind Games,Thriller,6.3,Average,104,Avg. Length Film
+1996,The Mirror Has Two Faces,"Comedy, Drama, Romance",6.6,Average,126,No Data
+1996,Mission: Impossible,"Action, Adventure, Thrille",7.1,Excellent,110,Avg. Length Film
+1996,Mnága - Happy End,"Comedy, Music",6.8,Average,62,Avg. Length Film
+1996,Moebius,"Mystery, Sci-Fi, Thriller",6.8,Average,88,Avg. Length Film
+1996,Mojave Moon,"Comedy, Romance, Thriller",5.2,Average,95,Avg. Length Film
+1996,Moll Flanders,"Drama, Romance",6.5,Average,123,No Data
+1996,Tin joek yau ching 3: Fung foh ga yan,"Drama, Romance, War",5.7,Average,95,Avg. Length Film
+1996,Mon homme,"Comedy, Drama, Romance",6.5,Average,99,Avg. Length Film
+1996,Monopol,Comedy,6.0,Average,106,Avg. Length Film
+1996,Mortinho por Chegar a Casa,Comedy,6.8,Average,102,Avg. Length Film
+1996,Mosura,"Action, Adventure, Family",5.9,Average,106,Avg. Length Film
+1996,Mother,"Comedy, Drama",6.9,Average,104,Avg. Length Film
+1996,Mother Night,"Drama, Romance, War",7.1,Excellent,114,Avg. Length Film
+1996,Moving Target,"Action, Thriller, Drama",4.1,Average,106,Avg. Length Film
+1996,Mr. Bechara,Comedy,5.5,Average,140,No Data
+1996,Mr. Reliable,Comedy,6.6,Average,112,Avg. Length Film
+1996,Mr. Wrong,Comedy,3.9,Average,96,Avg. Length Film
+1996,Mrs. Winterbourne,"Comedy, Drama, Romance",6.2,Average,105,Avg. Length Film
+1996,The Disappearance of Garcia Lorca,"Biography, Drama, Mystery",6.2,Average,142,No Data
+1996,Mulholland Falls,"Crime, Drama, Mystery",6.3,Average,107,Avg. Length Film
+1996,Multiplicity,"Comedy, Romance, Sci-Fi",6.1,Average,117,Avg. Length Film
+1996,Muppet Treasure Island,"Action, Adventure, Comedy",7.0,Excellent,99,Avg. Length Film
+1996,My Fellow Americans,"Adventure, Comedy",6.5,Average,101,Avg. Length Film
+1996,My Uncle the Alien,"Family, Fantasy, Sci-Fi",2.5,Poor,91,Avg. Length Film
+1996,Mystery Science Theater 3000: The Movie,"Comedy, Sci-Fi",7.3,Excellent,73,Avg. Length Film
+1996,Más allá del jardín,Drama,6.2,Average,90,Avg. Length Film
+1996,"Más que amor, frenesí","Comedy, Drama, Thriller",5.2,Average,125,No Data
+1996,Männerpension,"Comedy, Crime, Drama",5.9,Average,96,Avg. Length Film
+1996,Mørkeleg,Horror,4.8,Average,90,Avg. Length Film
+1996,Naar de klote!,"Romance, Drama",5.6,Average,104,Avg. Length Film
+1996,Nacht der Gaukler,Drama,6.8,Average,90,Avg. Length Film
+1996,The Naked Detective,Comedy,4.9,Average,84,Avg. Length Film
+1996,"Nan guo zai jian, nan guo","Crime, Drama",7.3,Excellent,124,No Data
+1996,Nemuru otoko,Drama,7.0,Excellent,103,Avg. Length Film
+1996,Never Ever,Drama,4.5,Average,110,Avg. Length Film
+1996,Never Met Picasso,"Comedy, Drama, Romance",5.7,Average,101,Avg. Length Film
+1996,Ninfa plebea,"Drama, Romance",5.9,Average,110,Avg. Length Film
+1996,Nitrato d'argento,"Comedy, Drama, History",6.8,Average,87,Avg. Length Film
+1996,No Contest II,"Action, Crime, Drama",4.3,Average,86,Avg. Length Film
+1996,No Way Home,"Crime, Drama, Thriller",6.8,Average,99,Avg. Length Film
+1996,Normal Life,"Crime, Drama",6.3,Average,101,Avg. Length Film
+1996,Nu är pappa trött igen,"Comedy, Drama",3.9,Average,82,Avg. Length Film
+1996,Nun va Goldoon,"Comedy, Drama",7.9,Excellent,78,Avg. Length Film
+1996,Nur aus Liebe,"Action, Romance",5.9,Average,100,Avg. Length Film
+1996,The Nutty Professor,"Comedy, Romance, Sci-Fi",5.6,Average,95,Avg. Length Film
+1996,The Disappearance of Finbar,"Drama, Mystery",6.4,Average,105,Avg. Length Film
+1996,Nénette et Boni,Drama,7.0,Excellent,103,Avg. Length Film
+1996,Oblivion 2: Backlash,"Adventure, Comedy, Sci-Fi",5.6,Average,83,Avg. Length Film
+1996,An Occasional Hell,"Drama, Mystery, Thriller",4.8,Average,93,Avg. Length Film
+1996,Omega Doom,"Drama, Sci-Fi, Thriller",4.2,Average,84,Avg. Length Film
+1996,Wong Kok cha 'fit' yan,Action,6.6,Average,100,Avg. Length Film
+1996,Ondt blod,Drama,6.1,Average,90,Avg. Length Film
+1996,One Fine Day,"Comedy, Drama, Romance",6.5,Average,108,Avg. Length Film
+1996,Organ,"Action, Drama, Horror",5.3,Average,110,Avg. Length Film
+1996,Original Gangstas,"Action, Crime, Drama",5.7,Average,99,Avg. Length Film
+1996,Overkill,"Action, Thriller",4.7,Average,88,Avg. Length Film
+1996,The Pallbearer,"Comedy, Romance",4.9,Average,98,Avg. Length Film
+1996,Panna Nikt,Drama,5.9,Average,98,Avg. Length Film
+1996,Parfait amour!,"Drama, Romance",6.2,Average,110,Avg. Length Film
+1996,Party,"Comedy, Drama",6.5,Average,95,Avg. Length Film
+1996,Passage à l'acte,Thriller,5.8,Average,105,Avg. Length Film
+1996,Past Perfect,"Action, Drama, Sci-Fi",4.9,Average,92,Avg. Length Film
+1996,Peanuts - Die Bank zahlt alles,Comedy,5.6,Average,95,Avg. Length Film
+1996,Pedar,Drama,7.5,Excellent,91,Avg. Length Film
+1996,Pekko ja muukalainen,Comedy,3.8,Average,80,Avg. Length Film
+1996,The People vs. Larry Flynt,"Biography, Drama",7.3,Excellent,129,No Data
+1996,Persons Unknown,"Action, Thriller",5.4,Average,99,Avg. Length Film
+1996,Clubbed to Death (Lola),Drama,5.7,Average,90,Avg. Length Film
+1996,Petticoat Planet,"Comedy, Romance, Sci-Fi",2.7,Poor,78,Avg. Length Film
+1996,The Phantom,"Action, Adventure, Comedy",4.9,Average,100,Avg. Length Film
+1996,Phat Beach,Comedy,4.0,Average,89,Avg. Length Film
+1996,Phenomenon,"Drama, Fantasy, Romance",6.4,Average,123,No Data
+1996,"Pianese Nunzio, 14 anni a maggio","Crime, Drama, Romance",6.2,Average,114,Avg. Length Film
+1996,Picado fino,Drama,6.7,Average,80,Avg. Length Film
+1996,Pikunikku,"Drama, Fantasy",7.2,Excellent,68,Avg. Length Film
+1996,Pinocchio's Revenge,"Fantasy, Horror",4.0,Average,96,Avg. Length Film
+1996,Playing Dangerous 2,"Action, Comedy, Crime",4.5,Average,97,Avg. Length Film
+1996,Le plus beau métier du monde,"Comedy, Drama",5.8,Average,105,Avg. Length Film
+1996,Le polygraphe,Crime,7.1,Excellent,92,Avg. Length Film
+1996,Pon un hombre en tu vida,Comedy,5.8,Average,87,Avg. Length Film
+1996,Ponette,Drama,7.6,Excellent,97,Avg. Length Film
+1996,Portland,"Crime, Drama",6.0,Average,103,Avg. Length Film
+1996,The Portrait of a Lady,"Drama, Romance",6.2,Average,144,No Data
+1996,Portraits chinois,"Comedy, Romance",5.9,Average,111,Avg. Length Film
+1996,Portraits of a Killer,"Action, Drama, Thriller",5.1,Average,93,Avg. Length Film
+1996,The Preacher's Wife,"Comedy, Drama, Fantasy",5.6,Average,123,No Data
+1996,Precious Find,"Adventure, Sci-Fi, Western",3.7,Average,90,Avg. Length Film
+1996,PremGranth,"Drama, Musical, Romance",5.7,Average,156,No Data
+1996,Primal Fear,"Crime, Drama, Mystery",7.7,Excellent,129,No Data
+1996,"Privet, duralei!","Comedy, Romance",5.2,Average,112,Avg. Length Film
+1996,Profundo carmesí,"Crime, Drama, Romance",7.3,Excellent,110,Avg. Length Film
+1996,Orion's Key,"Action, Sci-Fi",3.1,Average,99,Avg. Length Film
+1996,La promesse,Drama,7.8,Excellent,90,Avg. Length Film
+1996,The Proprietor,Drama,5.5,Average,113,Avg. Length Film
+1996,Pusher,"Crime, Thriller",7.4,Excellent,110,Avg. Length Film
+1996,Die Putzfraueninsel,Comedy,5.5,Average,98,Avg. Length Film
+1996,Pédale douce,Comedy,5.7,Average,100,Avg. Length Film
+1996,Quem Matou Pixote?,"Biography, Drama",6.7,Average,116,Avg. Length Film
+1996,The Quest,"Action, Adventure, Drama",5.6,Average,95,Avg. Length Film
+1996,The Quiet Room,Drama,6.7,Average,93,Avg. Length Film
+1996,Race the Sun,"Adventure, Comedy, Drama",5.4,Average,100,Avg. Length Film
+1996,Raising Heroes,Drama,5.0,Average,84,Avg. Length Film
+1996,Raja Hindustani,"Action, Comedy, Drama",6.1,Average,165,No Data
+1996,Ransom,"Action, Crime, Thriller",6.6,Average,121,No Data
+1996,Ratchet,Thriller,4.8,Average,114,Avg. Length Film
+1996,Reggie's Prayer,"Drama, Sport",4.8,Average,94,Avg. Length Film
+1996,Yan pei go jang haai,"Crime, Horror",4.4,Average,97,Avg. Length Film
+1996,Revizor,Comedy,6.3,Average,100,Avg. Length Film
+1996,The Rich Man's Wife,Thriller,5.2,Average,95,Avg. Length Film
+1996,Ridicule,"Comedy, Drama, Romance",7.4,Excellent,102,Avg. Length Film
+1996,Ringer,"Drama, Thriller",4.8,Average,90,Avg. Length Film
+1996,Riot,"Action, Crime, Thriller",5.2,Average,94,Avg. Length Film
+1996,Ripe,"Drama, Romance",4.5,Average,92,Avg. Length Film
+1996,Ritorno a casa Gori,Comedy,6.7,Average,102,Avg. Length Film
+1996,Robo Warriors,"Action, Adventure, Sci-Fi",4.7,Average,93,Avg. Length Film
+1996,The Rock,"Action, Adventure, Thrille",7.4,Excellent,136,No Data
+1996,Rokovye yaytsa,"Comedy, Sci-Fi",4.7,Average,119,Avg. Length Film
+1996,Romeo + Juliet,"Drama, Romance",6.7,Average,120,No Data
+1996,Sabotage,"Action, Drama, Thriller",5.9,Average,99,Avg. Length Film
+1996,Salt Water Moose,"Drama, Family",5.5,Average,93,Avg. Length Film
+1996,Salut cousin!,Comedy,5.7,Average,98,Avg. Length Film
+1996,Same River Twice,Drama,5.8,Average,103,Avg. Length Film
+1996,Santa Claws,Horror,2.7,Poor,83,Avg. Length Film
+1996,Santa with Muscles,Comedy,2.6,Poor,97,Avg. Length Film
+1996,Schizopolis,"Comedy, Fantasy, Mystery",6.9,Average,96,Avg. Length Film
+1996,Scream,"Horror, Mystery",7.2,Excellent,111,Avg. Length Film
+1996,Sik ching nam lui,"Comedy, Drama",6.7,Average,99,Avg. Length Film
+1996,The Secret Agent Club,"Action, Comedy, Family",3.3,Average,90,Avg. Length Film
+1996,The Secret Agent,"Drama, Thriller",5.7,Average,95,Avg. Length Film
+1996,Secrets & Lies,Drama,8.0,Excellent,136,No Data
+1996,Septej,Romance,6.4,Average,82,Avg. Length Film
+1996,Set It Off,"Action, Crime, Drama",6.9,Average,123,No Data
+1996,Seven Servants,"Drama, Romance",6.0,Average,88,Avg. Length Film
+1996,Sexy Sadie,Crime,6.3,Average,92,Avg. Length Film
+1996,Sgt. Bilko,Comedy,5.9,Average,93,Avg. Length Film
+1996,Shall we dansu?,"Comedy, Drama, Music",7.7,Excellent,136,No Data
+1996,Xin Shang Hai tan,"Action, Crime, Thriller",6.6,Average,96,Avg. Length Film
+1996,She's the One,"Comedy, Drama, Romance",6.0,Average,96,Avg. Length Film
+1996,Shine,"Biography, Drama, Music",7.7,Excellent,105,Avg. Length Film
+1996,Showgirl Murders,"Action, Thriller",4.0,Average,82,Avg. Length Film
+1996,The Silencers,"Action, Sci-Fi",4.9,Average,103,Avg. Length Film
+1996,Silent Trigger,"Action, Drama, Thriller",5.5,Average,93,Avg. Length Film
+1996,La sindrome di Stendhal,"Horror, Mystery, Thriller",6.1,Average,120,No Data
+1996,The Size of Watermelons,"Comedy, Music",5.5,Average,88,Avg. Length Film
+1996,Skin and Bone,"Comedy, Drama",4.7,Average,110,Avg. Length Film
+1996,Sleepers,"Crime, Drama, Thriller",7.6,Excellent,147,No Data
+1996,Sling Blade,Drama,8.0,Excellent,135,No Data
+1996,Slodko gorzki,"Drama, Romance",5.2,Average,90,Avg. Length Film
+1996,Small Time,"Comedy, Drama",5.7,Average,60,Avg. Length Film
+1996,Sol de otoño,"Comedy, Drama, Romance",7.2,Excellent,110,Avg. Length Film
+1996,Solo,"Action, Sci-Fi, Thriller",4.0,Average,94,Avg. Length Film
+1996,Some Mother's Son,"Drama, History",7.3,Excellent,112,Avg. Length Film
+1996,Somebody Is Waiting,Drama,6.8,Average,90,Avg. Length Film
+1996,Sono pazzo di Iris Blond,"Comedy, Romance",6.2,Average,110,Avg. Length Film
+1996,Space Jam,"Animation, Adventure, Come",6.4,Average,88,Avg. Length Film
+1996,Space Marines,"Action, Sci-Fi",3.8,Average,95,Avg. Length Film
+1996,Specimen,Sci-Fi,4.3,Average,85,Avg. Length Film
+1996,Spellbreaker: Secret of the Leprechauns,"Family, Fantasy, Horror",3.6,Average,85,Avg. Length Film
+1996,Spiklenci slasti,"Comedy, Drama",7.4,Excellent,85,Avg. Length Film
+1996,Virus,"Action, Thriller",2.8,Poor,90,Avg. Length Film
+1996,Spirit Lost,"Drama, Horror",4.7,Average,90,Avg. Length Film
+1996,The Spitfire Grill,Drama,7.0,Excellent,117,Avg. Length Film
+1996,Spy Hard,"Action, Comedy",5.4,Average,81,Avg. Length Film
+1996,Star Trek: First Contact,"Action, Adventure, Drama",7.6,Excellent,111,Avg. Length Film
+1996,Starlight,Sci-Fi,2.0,Poor,100,Avg. Length Film
+1996,Stealing Beauty,"Drama, Mystery, Romance",6.6,Average,118,Avg. Length Film
+1996,Stella Does Tricks,Drama,6.4,Average,99,Avg. Length Film
+1996,A Step Toward Tomorrow,Drama,6.8,Average,93,Avg. Length Film
+1996,Sticks & Stones,Drama,6.3,Average,95,Avg. Length Film
+1996,Stormy Nights,"Drama, Thriller",4.3,Average,87,Avg. Length Film
+1996,Hung dang kui,"Action, Comedy, Crime",5.5,Average,91,Avg. Length Film
+1996,Street Corner Justice,Action,4.6,Average,102,Avg. Length Film
+1996,Street Gun,"Action, Adventure, Thrille",5.8,Average,92,Avg. Length Film
+1996,Stripshow,Drama,3.7,Average,96,Avg. Length Film
+1996,Striptease,"Comedy, Crime, Drama",4.5,Average,115,Avg. Length Film
+1996,The Stupids,"Adventure, Comedy",4.2,Average,94,Avg. Length Film
+1996,De største helte,"Comedy, Drama",6.7,Average,90,Avg. Length Film
+1996,The Substance of Fire,Drama,6.0,Average,97,Avg. Length Film
+1996,The Substitute,"Action, Crime, Drama",6.0,Average,114,Avg. Length Film
+1996,Sudden Manhattan,Comedy,6.5,Average,80,Avg. Length Film
+1996,The Sunchaser,"Crime, Drama",6.2,Average,122,No Data
+1996,Sunset Park,"Drama, Sport",6.0,Average,99,Avg. Length Film
+1996,Das Superweib,Comedy,4.1,Average,86,Avg. Length Film
+1996,Surviving Picasso,"Biography, Drama, Romance",6.4,Average,125,No Data
+1996,Suwarôteiru,"Crime, Drama",7.6,Excellent,148,No Data
+1996,Swann,"Drama, Romance",4.8,Average,96,Avg. Length Film
+1996,Sweet Angel Mine,Thriller,5.8,Average,88,Avg. Length Film
+1996,Swingers,"Comedy, Drama",7.2,Excellent,96,Avg. Length Film
+1996,Sworn to Justice,"Action, Drama",5.0,Average,97,Avg. Length Film
+1996,Szabla od komendanta,Comedy,6.7,Average,102,Avg. Length Film
+1996,Szamba,"Comedy, Drama",6.1,Average,100,Avg. Length Film
+1996,Sztracsatella,"Comedy, Drama, Romance",6.0,Average,100,Avg. Length Film
+1996,Sånt är livet,"Drama, Comedy",4.5,Average,131,No Data
+1996,Sélect Hôtel,Drama,6.6,Average,85,Avg. Length Film
+1996,Søndagsengler,"Comedy, Drama",6.9,Average,103,Avg. Length Film
+1996,Tai ji quan,"Action, Comedy, Romance",6.9,Average,96,Avg. Length Film
+1996,Bordello of Blood,"Comedy, Fantasy, Horror",5.4,Average,87,Avg. Length Film
+1996,Tales of Erotica,"Drama, Comedy",4.4,Average,170,No Data
+1996,Taxi,"Crime, Drama, Romance",6.6,Average,110,Avg. Length Film
+1996,Tenchi Muyô! In Love,"Animation, Adventure, Come",7.2,Excellent,95,Avg. Length Film
+1996,Tere Mere Sapne,"Action, Comedy, Drama",6.2,Average,146,No Data
+1996,Tesis,"Horror, Mystery, Thriller",7.4,Excellent,125,No Data
+1996,That Thing You Do!,"Comedy, Drama, Music",6.9,Average,108,Avg. Length Film
+1996,A Thin Line Between Love and Hate,"Comedy, Crime, Drama",5.7,Average,108,Avg. Length Film
+1996,Thinner,"Fantasy, Horror",5.8,Average,93,Avg. Length Film
+1996,Tin ngai hoi gok,"Drama, Romance",7.3,Excellent,109,Avg. Length Film
+1996,Tian mi mi,"Drama, Romance",8.1,Excellent,118,Avg. Length Film
+1996,Tierra,"Drama, Romance",7.3,Excellent,125,No Data
+1996,Tieta do Agreste,"Comedy, Drama, Romance",6.5,Average,115,Avg. Length Film
+1996,Tiger Heart,"Action, Adventure, Comedy",4.2,Average,90,Avg. Length Film
+1996,A Time to Kill,"Crime, Drama, Thriller",7.5,Excellent,149,No Data
+1996,Timelock,"Action, Sci-Fi",2.9,Poor,90,Avg. Length Film
+1996,Tin Cup,"Comedy, Drama, Romance",6.3,Average,135,No Data
+1996,To Gillian on Her 37th Birthday,"Drama, Fantasy, Romance",5.7,Average,93,Avg. Length Film
+1996,To Have & to Hold,"Mystery, Thriller",5.9,Average,99,Avg. Length Film
+1996,Toad Warrior,"Action, Sci-Fi",1.9,Poor,80,Avg. Length Film
+1996,Die totale Therapie,"Drama, Thriller",6.8,Average,125,No Data
+1996,Tou tou ai ni,"Comedy, Drama, Romance",6.8,Average,99,Avg. Length Film
+1996,Trainspotting,Drama,8.1,Excellent,93,Avg. Length Film
+1996,Tranvía a la Malvarrosa,Drama,5.8,Average,107,Avg. Length Film
+1996,Trees Lounge,"Comedy, Drama",7.1,Excellent,95,Avg. Length Film
+1996,The Trigger Effect,"Drama, Thriller",5.7,Average,94,Avg. Length Film
+1996,Trois vies et une seule mort,"Comedy, Crime",7.0,Excellent,123,No Data
+1996,Trojan Eddie,"Crime, Drama, Romance",6.2,Average,105,Avg. Length Film
+1996,True Blue,"Drama, Sport",6.2,Average,118,Avg. Length Film
+1996,The Truth About Cats & Dogs,"Comedy, Romance",6.2,Average,97,Avg. Length Film
+1996,Tu Chor Main Sipahi,"Action, Comedy, Drama",5.2,Average,153,No Data
+1996,Tu nombre envenena mis sueños,"Drama, Romance, Thriller",6.1,Average,118,Avg. Length Film
+1996,Twelfth Night or What You Will,"Comedy, Drama, Romance",7.2,Excellent,134,No Data
+1996,Twisted,Drama,4.3,Average,100,Avg. Length Film
+1996,Twister,"Action, Adventure, Thrille",6.4,Average,113,Avg. Length Film
+1996,Two If by Sea,"Comedy, Crime, Romance",5.3,Average,96,Avg. Length Film
+1996,Tykho Moon,Sci-Fi,6.2,Average,102,Avg. Length Film
+1996,Un air de famille,"Comedy, Drama",7.5,Excellent,110,Avg. Length Film
+1996,Un divan à New York,"Comedy, Romance",5.9,Average,108,Avg. Length Film
+1996,Un héros très discret,"Drama, Comedy",7.3,Excellent,107,Avg. Length Film
+1996,Unforgettable,"Drama, Mystery, Sci-Fi",6.0,Average,117,Avg. Length Film
+1996,Der Unhold,Drama,6.9,Average,118,Avg. Length Film
+1996,Unhook the Stars,"Drama, Romance",6.5,Average,103,Avg. Length Film
+1996,United Trash,Comedy,6.0,Average,75,Avg. Length Film
+1996,Up Close & Personal,"Drama, Romance",6.2,Average,124,No Data
+1996,Vackert väder,"Comedy, Drama, Romance",5.3,Average,105,Avg. Length Film
+1996,The Van,"Comedy, Drama",6.7,Average,100,Avg. Length Film
+1996,A Very Brady Sequel,Comedy,5.7,Average,90,Avg. Length Film
+1996,Vesna va veloce,Drama,6.2,Average,92,Avg. Length Film
+1996,Vinterviken,"Crime, Drama, Romance",4.7,Average,98,Avg. Length Film
+1996,Virtual Encounters,"Drama, Sci-Fi",4.2,Average,84,Avg. Length Film
+1996,Den vita lejoninnan,"Crime, Mystery, Thriller",5.7,Average,103,Avg. Length Film
+1996,Vite strozzate,"Crime, Drama",5.9,Average,108,Avg. Length Film
+1996,Voci nel tempo,Drama,7.7,Excellent,86,Avg. Length Film
+1996,Les voleurs,"Crime, Drama, Romance",6.8,Average,117,Avg. Length Film
+1996,Va' dove ti porta il cuore,"Drama, Romance",5.2,Average,110,Avg. Length Film
+1996,Waiting for Michelangelo,"Drama, Romance",5.0,Average,93,Avg. Length Film
+1996,Waiting for Guffman,Comedy,7.5,Excellent,84,Avg. Length Film
+1996,Walking and Talking,"Comedy, Drama, Romance",6.7,Average,86,Avg. Length Film
+1996,Walnut Creek,"Drama, Thriller",3.7,Average,103,Avg. Length Film
+1996,Wana,"Drama, Mystery",6.5,Average,106,Avg. Length Film
+1996,The War at Home,Drama,7.0,Excellent,123,No Data
+1996,Xong xing zi: Zhi jiang hu da feng bao,"Action, Drama",5.9,Average,97,Avg. Length Film
+1996,Warhead,"Action, Thriller",3.9,Average,100,Avg. Length Film
+1996,The Watermelon Woman,"Comedy, Drama, Romance",6.7,Average,90,Avg. Length Film
+1996,Wedding Bell Blues,"Comedy, Romance",4.9,Average,102,Avg. Length Film
+1996,Werner - Das muss kesseln!!!,"Action, Sci-Fi, Animation",5.6,Average,85,Avg. Length Film
+1996,Where Truth Lies,"Drama, Mystery, Thriller",4.1,Average,97,Avg. Length Film
+1996,White Squall,"Adventure, Drama",6.6,Average,129,No Data
+1996,White Tiger,Action,5.0,Average,93,Avg. Length Film
+1996,The Whole Wide World,"Biography, Drama, Romance",7.1,Excellent,111,Avg. Length Film
+1996,Wildly Available,Drama,4.3,Average,92,Avg. Length Film
+1996,The Wind in the Willows,"Adventure, Comedy, Family",6.3,Average,88,Avg. Length Film
+1996,The Winner,"Comedy, Crime, Thriller",4.8,Average,92,Avg. Length Film
+1996,Wirus,"Action, Thriller",2.8,Poor,90,Avg. Length Film
+1996,Workaholic,"Comedy, Romance",4.7,Average,90,Avg. Length Film
+1996,Wu shan yun yu,"Comedy, Drama",7.1,Excellent,96,Avg. Length Film
+1996,Ekkusu,"Animation, Action, Fantasy",6.2,Average,100,Avg. Length Film
+1996,Y'aura t'il de la neige à Noël?,Drama,6.9,Average,90,Avg. Length Film
+1996,Yöjuna,"Mystery, Thriller",5.3,Average,86,Avg. Length Film
+1996,Zapomenuté svetlo,Drama,7.1,Excellent,105,Avg. Length Film
+1996,Zarkorr! The Invader,Sci-Fi,3.7,Average,80,Avg. Length Film
+1996,De Zeemeerman,"Comedy, Fantasy",2.9,Poor,111,Avg. Length Film
+1996,Illtown,"Crime, Drama",5.6,Average,103,Avg. Length Film
+1996,À toute vitesse,"Drama, Romance",6.1,Average,85,Avg. Length Film
+1996,África,Drama,5.5,Average,95,Avg. Length Film
+1996,L'élève,Drama,6.0,Average,92,Avg. Length Film
+1996,Éxtasis,Drama,6.6,Average,93,Avg. Length Film
+1996,El último viaje de Robert Rylands,Drama,6.2,Average,102,Avg. Length Film
+1996,The Boys Club,"Adventure, Crime, Drama",6.3,Average,90,Avg. Length Film
+1996,Cosmos,"Comedy, Drama",6.6,Average,99,Avg. Length Film
+1996,Dong gong xi gong,Drama,6.3,Average,90,Avg. Length Film
+1996,Eden,Drama,5.7,Average,106,Avg. Length Film
+1996,The Ex,Thriller,5.2,Average,87,Avg. Length Film
+1996,Follow Me Home,Drama,6.0,Average,100,Avg. Length Film
+1996,Sydney,"Crime, Drama",7.2,Excellent,102,Avg. Length Film
+1996,Hard Men,Crime,5.8,Average,86,Avg. Length Film
+1996,Kalvarija,Drama,6.7,Average,93,Avg. Length Film
+1996,Last Resort,"Action, Adventure, Drama",4.7,Average,130,No Data
+1996,Do san 3: Siu nin do san,"Action, Comedy, Drama",6.2,Average,110,Avg. Length Film
+1996,Lethal Tender,"Action, Thriller",4.4,Average,90,Avg. Length Film
+1996,The Method,"Crime, Drama",5.0,Average,97,Avg. Length Film
+1996,Milk & Money,"Comedy, Romance",4.9,Average,86,Avg. Length Film
+1996,Never Too Late,"Drama, Comedy",6.2,Average,96,Avg. Length Film
+1996,Night Falls on Manhattan,"Crime, Drama",6.6,Average,113,Avg. Length Film
+1996,"Perdona bonita, pero Lucas me quería a mí","Comedy, Mystery",5.5,Average,87,Avg. Length Film
+1996,Pour rire!,Comedy,6.7,Average,100,Avg. Length Film
+1996,Profile for Murder,"Drama, Thriller",5.1,Average,95,Avg. Length Film
+1996,The Proposition,"Adventure, Drama, Romance",4.6,Average,93,Avg. Length Film
+1996,Saint-Ex,"Biography, Drama, Fantasy",5.8,Average,82,Avg. Length Film
+1996,Shiloh,"Drama, Family",6.3,Average,93,Avg. Length Film
+1996,Space Truckers,"Adventure, Comedy, Sci-Fi",5.3,Average,95,Avg. Length Film
+1996,SubUrbia,"Comedy, Drama",6.8,Average,121,No Data
+1996,Tiré à part,"Thriller, Drama",6.8,Average,85,Avg. Length Film
+1996,Prea târziu,"Drama, Thriller",7.6,Excellent,106,Avg. Length Film
+1996,The Twilight of the Golds,"Drama, Romance",6.6,Average,92,Avg. Length Film
+1996,Underworld,"Comedy, Thriller",4.8,Average,95,Avg. Length Film
+1996,Zone 39,Sci-Fi,4.6,Average,95,Avg. Length Film
+1996,Indira,Drama,7.0,Excellent,143,No Data
+1996,Butch Camp,Comedy,5.3,Average,101,Avg. Length Film
+1996,La freccia azzurra,"Animation, Adventure, Fami",6.5,Average,93,Avg. Length Film
+1996,The Bible and Gun Club,"Comedy, Drama",7.0,Excellent,87,Avg. Length Film
+1996,Gokudô sengokushi: Fudô,"Action, Comedy, Crime",7.0,Excellent,98,Avg. Length Film
+1996,Mischievous,Thriller,4.1,Average,97,Avg. Length Film
+1996,Reasons of the Heart,Romance,5.7,Average,96,Avg. Length Film
+1996,Jidu hanleng,Drama,6.6,Average,99,Avg. Length Film
+1996,Qin song,Drama,7.0,Excellent,130,No Data
+1996,Bob's Weekend,"Comedy, Drama, Romance",5.9,Average,93,Avg. Length Film
+1996,The Delicate Art of the Rifle,Drama,7.1,Excellent,93,Avg. Length Film
+1996,Friend of the Family II,Thriller,4.7,Average,83,Avg. Length Film
+1996,Tiger Claws II,Action,5.0,Average,92,Avg. Length Film
+1996,Baak fan baak ngam 'Feel',"Comedy, Romance",6.0,Average,100,Avg. Length Film
+1996,Chung fung dui liu feng gai tau,"Action, Crime",6.7,Average,91,Avg. Length Film
+1996,Polymorph,"Action, Horror, Sci-Fi",4.2,Average,86,Avg. Length Film
+1996,Sûpâ no onna,Comedy,7.1,Excellent,127,No Data
+1996,Tabutta Rövasata,Drama,7.8,Excellent,75,Avg. Length Film
+1996,American Tigers,Action,4.8,Average,95,Avg. Length Film
+1996,Darklands,"Drama, Horror, Thriller",4.5,Average,90,Avg. Length Film
+1996,Rockabilly Vampire,Comedy,4.5,Average,90,Avg. Length Film
+1996,Lowball,"Drama, Action, Crime",5.1,Average,99,Avg. Length Film
+1996,Damien's Seed,Mystery,5.0,Average,90,Avg. Length Film
+1996,Alles moet weg,"Comedy, Drama",6.9,Average,105,Avg. Length Film
+1996,Terra di mezzo,Drama,6.7,Average,78,Avg. Length Film
+1996,Besos en la frente,Drama,6.5,Average,95,Avg. Length Film
+1996,Krishna,"Action, Drama, Romance",4.6,Average,156,No Data
+1996,Loser,Drama,4.3,Average,80,Avg. Length Film
+1996,Rakshak,"Action, Thriller",4.7,Average,164,No Data
+1996,Sapoot,"Action, Crime, Drama",5.2,Average,158,No Data
+1996,English Babu Desi Mem,"Comedy, Drama, Musical",4.7,Average,170,No Data
+1996,Cassiopéia,"Family, Adventure, Animati",6.8,Average,80,Avg. Length Film
+1996,Welcome Says the Angel,Drama,8.1,Excellent,82,Avg. Length Film
+1996,Jack Brown Genius,"Comedy, Fantasy, Sci-Fi",5.1,Average,85,Avg. Length Film
+1996,Small Time,"Comedy, Crime",6.3,Average,96,Avg. Length Film
+1996,Avvai Shanmugi,"Comedy, Drama",7.9,Excellent,161,No Data
+1996,They Bite,"Comedy, Horror, Sci-Fi",4.7,Average,98,Avg. Length Film
+1996,Eunhaengnamoo chimdae,"Fantasy, Romance, Action",5.6,Average,88,Avg. Length Film
+1996,Doragon bôru: Saikyô e no michi,"Animation, Action, Adventu",7.4,Excellent,80,Avg. Length Film
+1996,Earth Minus Zero,"Comedy, Family, Sci-Fi",2.3,Poor,81,Avg. Length Film
+1996,Puddle Cruiser,"Comedy, Drama, Romance",5.5,Average,102,Avg. Length Film
+1996,Repligator,"Action, Comedy, Sci-Fi",2.6,Poor,86,Avg. Length Film
+1996,Brujas,Drama,5.6,Average,87,Avg. Length Film
+1996,Isiklar sönmesin,Drama,5.6,Average,80,Avg. Length Film
+1996,Jaan,"Action, Romance",4.0,Average,170,No Data
+1996,Papà dice messa,Comedy,5.3,Average,100,Avg. Length Film
+1996,Subterfuge,"Action, Drama",4.7,Average,95,Avg. Length Film
+1996,Punctul zero,Drama,4.2,Average,89,Avg. Length Film
+1996,The Last Home Run,"Family, Fantasy, Sport",6.0,Average,93,Avg. Length Film
+1996,Depraved,"Drama, Thriller",3.5,Average,104,Avg. Length Film
+1996,Julio y su ángel,"Drama, Family, Fantasy",5.1,Average,92,Avg. Length Film
+1996,For Which He Stands,"Action, Crime, Drama",5.6,Average,88,Avg. Length Film
+1996,Dead Tides,"Action, Drama, Thriller",4.6,Average,100,Avg. Length Film
+1996,The Last Big Thing,"Comedy, Drama",6.8,Average,98,Avg. Length Film
+1996,Sureiyâzu return,"Animation, Comedy, Fantasy",7.0,Excellent,61,Avg. Length Film
+1996,Apontes,Drama,7.8,Excellent,115,Avg. Length Film
+1996,O orgasmos tis ageladas,Comedy,4.5,Average,90,Avg. Length Film
+1996,Medousa,"Fantasy, Horror, Thriller",5.7,Average,87,Avg. Length Film
+1996,Rupan sansei: Dead or Alive,"Animation, Action, Adventu",7.0,Excellent,95,Avg. Length Film
+1996,Chaahat,"Drama, Romance",5.5,Average,151,No Data
+1996,Jie tou sha shou,Action,4.6,Average,92,Avg. Length Film
+1996,666: Mo gui fu huo,"Action, Horror",4.9,Average,95,Avg. Length Film
+1996,Aldri mer 13!,"Drama, Family",4.8,Average,77,Avg. Length Film
+1996,Feeders,"Drama, Horror, Sci-Fi",2.4,Poor,69,Avg. Length Film
+1996,Devaraagam,"Drama, Romance",6.9,Average,144,No Data
+1996,Dovidjenja u Cikagu,"Comedy, Crime",4.1,Average,80,Avg. Length Film
+1996,Necista krv,Drama,5.5,Average,125,No Data
+1996,Ooru naito ronga 3: Sanji,Horror,5.6,Average,76,Avg. Length Film
+1996,Mutant Man,"Horror, Comedy",2.3,Poor,77,Avg. Length Film
+1996,El sueño de los héroes,Drama,6.2,Average,120,No Data
+1996,The Making of the Mahatma,Drama,6.9,Average,144,No Data
+1996,Goblet of Gore,Horror,3.2,Average,71,Avg. Length Film
+1996,Chojin gakuen Gowcaizer,"Animation, Action, Sci-Fi",4.9,Average,90,Avg. Length Film
+1996,Yaban,"Drama, War",5.8,Average,85,Avg. Length Film
+1996,Rollergator,Family,1.2,Poor,83,Avg. Length Film
+1996,Cuestión de suerte,"Crime, Drama, Thriller",6.2,Average,92,Avg. Length Film
+1996,Nekeddo burâddo: Megyaku,"Horror, Sci-Fi",6.2,Average,76,Avg. Length Film
+1996,Rubber's Lover,"Horror, Sci-Fi",6.3,Average,91,Avg. Length Film
+1996,Sallapam,"Drama, Musical, Romance",6.4,Average,141,No Data
+1996,Joyû-rei,"Fantasy, Horror",6.2,Average,75,Avg. Length Film
+1996,Senrei,"Crime, Drama, Horror",5.3,Average,93,Avg. Length Film
+1996,Reindeer Games,"Drama, Horror, Thriller",4.2,Average,113,Avg. Length Film
+1996,Snitch,"Action, Crime",4.5,Average,97,Avg. Length Film
+1996,Khiladiyon Ka Khiladi,"Action, Crime, Drama",6.0,Average,162,No Data
+1996,Papa Kahte Hain,Comedy,4.9,Average,143,No Data
+1996,Saajan Chale Sasural,"Comedy, Drama",5.9,Average,134,No Data
+1996,Akkada Ammayi Ikkada Abbayi,"Action, Romance",5.2,Average,159,No Data
+1996,Kala Pani,"Action, Drama, History",8.4,Excellent,178,No Data
+1996,Killers,"Thriller, Horror",5.6,Average,97,Avg. Length Film
+1996,Justine: Seduction of Innocence,"Drama, Romance",4.4,Average,94,Avg. Length Film
+1996,Goo waak zai 2: Maang lung gwoh gong,"Action, Crime",6.7,Average,101,Avg. Length Film
+1996,Azhakiya Ravanan,"Comedy, Drama",7.3,Excellent,120,No Data
+1996,Deyyam,Horror,6.4,Average,86,Avg. Length Film
+1996,Little Soldiers,"Family, Musical, Comedy",7.9,Excellent,105,Avg. Length Film
+1996,Ajay,"Action, Drama, Romance",3.7,Average,146,No Data
+1996,Papi Gudia,"Horror, Thriller",1.9,Poor,130,No Data
+1996,Hitler,"Action, Comedy, Drama",7.4,Excellent,153,No Data
+1996,Indraprastham,"Crime, Thriller",5.2,Average,137,No Data
+1996,Mum kokulu kadinlar,Drama,5.1,Average,89,Avg. Length Film
+1996,Istanbul Kanatlarimin Altinda,"Adventure, Drama, History",7.1,Excellent,119,Avg. Length Film
+1996,Baak fan baak gam gok,"Comedy, Romance",6.1,Average,97,Avg. Length Film
+1996,Gulabi,"Action, Romance",6.9,Average,138,No Data
+1996,Diljale,"Action, Drama, Romance",5.8,Average,159,No Data
+1996,Fareb,"Action, Crime, Drama",4.9,Average,147,No Data
+1996,Sardari Begum,Drama,6.7,Average,116,Avg. Length Film
+1996,Gry uliczne,"Crime, Drama, Mystery",6.4,Average,100,Avg. Length Film
+1996,Nasser 56,"Biography, Drama, History",6.6,Average,142,No Data
+1996,Halo,"Drama, Family",7.9,Excellent,92,Avg. Length Film
+1996,That's Cunning! Shijo saidai no sakusen,Comedy,6.7,Average,99,Avg. Length Film
+1996,Ag-o,Drama,6.6,Average,102,Avg. Length Film
+1996,Kadhal Desam,"Comedy, Drama, Romance",6.8,Average,158,No Data
+1996,Is Raat Ki Subah Nahin,Thriller,7.1,Excellent,131,No Data
+1996,Fake,"Animation, Comedy, Crime",6.3,Average,60,Avg. Length Film
+1996,Dharma Chakram,Drama,7.1,Excellent,144,No Data
+1996,Himmat,"Action, Drama, Thriller",4.7,Average,138,No Data
+1996,Dil Tera Diwana,Drama,5.1,Average,139,No Data
+1996,Kalyana Sowgandhikam,"Comedy, Drama, Romance",6.0,Average,138,No Data
+1996,Chhote Sarkar,"Comedy, Romance, Thriller",4.7,Average,151,No Data
+1996,Ziafat,"Action, Drama",5.4,Average,84,Avg. Length Film
+1996,The Snow Queen's Revenge,Animation,5.8,Average,64,Avg. Length Film
+1996,Dilliwala Rajakumaran,"Comedy, Drama",5.9,Average,132,No Data
+1996,Ee Puzhayum Kadannu,"Drama, Romance, Thriller",6.8,Average,139,No Data
+1996,Ninne Pelladatha,"Romance, Comedy, Drama",7.6,Excellent,146,No Data
+1996,Mr. Romeo,"Action, Comedy, Romance",5.4,Average,162,No Data
+1996,Samounistuvanje,Comedy,6.9,Average,97,Avg. Length Film
+1996,Sahasa Veerudu Sagara Kanya,"Action, Adventure, Fantasy",6.2,Average,139,No Data
+1996,Heat After Dark,Action,5.7,Average,50,Short Film
+1996,Our Yard,"Comedy, Musical",7.2,Excellent,101,Avg. Length Film
+1996,Safar be Chazabeh,War,6.2,Average,84,Avg. Length Film
+1996,Panic Mechanic,Comedy,6.0,Average,102,Avg. Length Film
+1996,Adhirindhi Alludu,Drama,3.1,Average,140,No Data
+1996,Khaharan-e gharib,"Drama, Family, Musical",6.6,Average,93,Avg. Length Film
+1996,Kadhal Kottai,"Drama, Romance",7.4,Excellent,167,No Data
+1996,Vaanmathi,Action,5.8,Average,147,No Data
+1996,Li kai Lei Feng de ri zi,"Biography, Drama",6.3,Average,100,Avg. Length Film
+1996,Ramayanam,History,7.1,Excellent,160,No Data
+1996,Doraemon: Nobita to Ginga ekusupuresu,"Animation, Action, Adventu",6.6,Average,97,Avg. Length Film
+1996,Baksha Rahasya,Adventure,7.1,Excellent,197,No Data
+1996,El Noom fi el Asal,Drama,6.2,Average,177,No Data
+1996,Dipu Number 2,"Adventure, Family",8.9,Excellent,154,No Data
+1996,Poove Unakkaga,"Comedy, Drama, Romance",7.8,Excellent,150,No Data
+1996,Ullathai Allitha,Comedy,7.7,Excellent,149,No Data
