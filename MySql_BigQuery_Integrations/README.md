@@ -34,28 +34,50 @@ load process is presented.
 ## Project Structure
 
 MySql_BigQuery_Integrations/
+
 │
+
 ├── final_scripts/
+
 │ ├── house_price_data.py
+
 │ └── movie_data.py
+
 │
+
 ├── house_price_data/
+
 │ ├── house_prices.csv
+
 │
+
 ├── movie_data/
+
 │ ├── movies_1906.csv
+
 │ ├── movies_1911.csv
+
 │ ├── ...
+
 │
 ├── test_scripts/
+
 │ ├── code_sandbox.py
+
 │ ├── house_price_data_gbq.py
+
 │ └── house_price_data_local.py
+
 │ └── movie_data_gbq.py
+
 │ └── movie_data_local.py
+
 │
+
 └── Pipfile
+
 └── Pipfile.lock
+
 └── README.md
 
 - **final_scripts/**: Directory containing finalized scripts for each dataset w/ local and BigQuery load funcs.
