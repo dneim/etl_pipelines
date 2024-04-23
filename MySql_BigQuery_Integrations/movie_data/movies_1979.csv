@@ -1,0 +1,580 @@
+year,title,genre,avg_vote,movie_category,duration,length_category
+1979,Tatsu no ko Tarô,"Adventure, Family, Fantasy",7.5,Excellent,75,Avg. Length Film
+1979,Rikki-Tikki-Tavi,Family,7.6,Excellent,78,Avg. Length Film
+1979,L'affittacamere,Comedy,5.4,Average,100,Avg. Length Film
+1979,Bush Mama,Drama,7.1,Excellent,97,Avg. Length Film
+1979,The Demon,Horror,3.6,Average,94,Avg. Length Film
+1979,Disco Godfather,"Action, Crime, Drama",5.4,Average,93,Avg. Length Film
+1979,Julio Comienza en Julio,Drama,7.2,Excellent,120,No Data
+1979,King Solomon's Treasure,"Adventure, Fantasy",4.2,Average,88,Avg. Length Film
+1979,Misterio en las Bermudas,"Action, Adventure, Mystery",5.2,Average,77,Avg. Length Film
+1979,Portrait of a Hitman,"Drama, Action",4.4,Average,86,Avg. Length Film
+1979,Retrato de Teresa,Drama,7.1,Excellent,103,Avg. Length Film
+1979,L'adolescente,Drama,6.7,Average,90,Avg. Length Film
+1979,Agenzia Riccardo Finzi... praticamente detective,"Comedy, Crime",6.5,Average,92,Avg. Length Film
+1979,Angi Vera,"Drama, Romance",6.9,Average,96,Avg. Length Film
+1979,Bájecní muzi s klikou,"Comedy, Drama, History",6.8,Average,90,Avg. Length Film
+1979,Balada pro banditu,"Musical, Romance",6.3,Average,89,Avg. Length Film
+1979,Los bingueros,Comedy,5.3,Average,88,Avg. Length Film
+1979,Bog,Horror,2.9,Poor,90,Avg. Length Film
+1979,Buck Rogers in the 25th Century,"Action, Adventure, Sci-Fi",6.7,Average,89,Avg. Length Film
+1979,Cadena perpetua,"Crime, Drama, Thriller",7.4,Excellent,95,Avg. Length Film
+1979,Le cavaleur,Comedy,6.3,Average,104,Avg. Length Film
+1979,Les chiens,"Drama, Thriller",6.1,Average,100,Avg. Length Film
+1979,Corps à coeur,"Drama, Romance",7.3,Excellent,126,No Data
+1979,Sensitività,"Crime, Drama, Horror",5.3,Average,90,Avg. Length Film
+1979,Dominique,Horror,5.3,Average,100,Avg. Length Film
+1979,Effects,"Horror, Thriller",5.3,Average,84,Avg. Length Film
+1979,Magyar rapszódia,"Drama, History",6.7,Average,103,Avg. Length Film
+1979,Tang shan wu hu,"Action, Drama",6.7,Average,95,Avg. Length Film
+1979,Flic ou voyou,"Action, Comedy, Crime",6.7,Average,107,Avg. Length Film
+1979,Gas Pump Girls,Comedy,4.7,Average,86,Avg. Length Film
+1979,Giallo napoletano,"Comedy, Mystery",6.3,Average,114,Avg. Length Film
+1979,The Glove,"Action, Crime, Drama",5.4,Average,92,Avg. Length Film
+1979,Hao xia,"Action, Drama",7.1,Excellent,106,Avg. Length Film
+1979,L'homme en colère,"Crime, Drama",6.1,Average,97,Avg. Length Film
+1979,L'infermiera di notte,Comedy,5.7,Average,96,Avg. Length Film
+1979,L'ingorgo,Drama,6.8,Average,128,No Data
+1979,L'insegnante balla... con tutta la classe,Comedy,5.1,Average,83,Avg. Length Film
+1979,Iskanderija... lih?,Drama,7.4,Excellent,133,No Data
+1979,Jie shi ying xiong,"Action, Comedy",6.9,Average,110,Avg. Length Film
+1979,Joi Baba Felunath,"Family, Adventure, Crime",8.0,Excellent,112,Avg. Length Film
+1979,Junoon,Drama,7.6,Excellent,141,No Data
+1979,Killer Fish,"Horror, Sci-Fi, Thriller",4.0,Average,101,Avg. Length Film
+1979,Kogda ya stanu velikanom,Romance,7.3,Excellent,87,Avg. Length Film
+1979,Kulový blesk,Comedy,7.8,Excellent,82,Avg. Length Film
+1979,Lady Oscar,"Drama, History, Romance",5.9,Average,124,No Data
+1979,La liceale seduce i professori,Comedy,5.1,Average,93,Avg. Length Film
+1979,Mission Galactica: The Cylon Attack,"Action, Adventure, Sci-Fi",7.1,Excellent,108,Avg. Length Film
+1979,Ondanondu Kaladalli,"Action, Adventure, Drama",7.1,Excellent,156,No Data
+1979,The Clonus Horror,"Horror, Romance, Sci-Fi",3.8,Average,90,Avg. Length Film
+1979,Les petites fugues,"Comedy, Drama",7.4,Excellent,140,No Data
+1979,Plague,"Sci-Fi, Drama, Thriller",5.5,Average,88,Avg. Length Film
+1979,Shui quan guai zhao,Action,6.4,Average,88,Avg. Length Film
+1979,7 días de enero,Drama,6.4,Average,124,No Data
+1979,Sette uomini d'oro nello spazio,Sci-Fi,2.7,Poor,88,Avg. Length Film
+1979,"Steiner - Das Eiserne Kreuz, 2. Teil","Drama, War",5.0,Average,111,Avg. Length Film
+1979,Stunt Rock,"Action, Drama, Music",5.6,Average,86,Avg. Length Film
+1979,Suor Omicidi,"Horror, Mystery, Thriller",5.0,Average,88,Avg. Length Film
+1979,Sueta suet,Comedy,6.9,Average,87,Avg. Length Film
+1979,Tajemství Ocelového mesta,"Adventure, Sci-Fi",6.5,Average,85,Avg. Length Film
+1979,Take Down,"Comedy, Drama, Family",6.3,Average,107,Avg. Length Film
+1979,Tilt,Drama,5.3,Average,111,Avg. Length Film
+1979,Un uomo in ginocchio,"Action, Drama, Thriller",7.2,Excellent,106,Avg. Length Film
+1979,Zoo zéro,"Drama, Sci-Fi",5.6,Average,101,Avg. Length Film
+1979,Zwei tolle Käfer räumen auf,Comedy,3.8,Average,92,Avg. Length Film
+1979,...and justice for all.,"Crime, Drama, Thriller",7.4,Excellent,119,Avg. Length Film
+1979,10,"Comedy, Romance",6.1,Average,122,No Data
+1979,1941,"Action, Comedy, War",5.8,Average,118,Avg. Length Film
+1979,Cánh dong hoang,"Drama, War",7.2,Excellent,90,Avg. Length Film
+1979,Agatha,"Drama, Mystery, Thriller",6.3,Average,105,Avg. Length Film
+1979,The Concorde... Airport '79,"Action, Drama, Thriller",4.5,Average,113,Avg. Length Film
+1979,Ajándék ez a nap,Drama,7.2,Excellent,83,Avg. Length Film
+1979,Akai kami no onna,"Comedy, Drama",6.1,Average,73,Avg. Length Film
+1979,Alien,"Horror, Sci-Fi",8.4,Excellent,117,Avg. Length Film
+1979,All That Jazz,"Drama, Music, Musical",7.9,Excellent,123,No Data
+1979,An Almost Perfect Affair,"Comedy, Romance",5.2,Average,93,Avg. Length Film
+1979,Amator,"Comedy, Drama, Romance",7.9,Excellent,112,Avg. Length Film
+1979,Americathon,Comedy,4.4,Average,86,Avg. Length Film
+1979,The Amityville Horror,Horror,6.2,Average,117,Avg. Length Film
+1979,L'amour en fuite,"Comedy, Drama, Romance",7.1,Excellent,94,Avg. Length Film
+1979,Angels' Brigade,"Action, Comedy",2.0,Poor,97,Avg. Length Film
+1979,Apocalypse Now,"Drama, Mystery, War",8.4,Excellent,147,No Data
+1979,The Apple Dumpling Gang Rides Again,"Comedy, Family, Western",6.1,Average,88,Avg. Length Film
+1979,Arabian Adventure,"Fantasy, Adventure",5.8,Average,98,Avg. Length Film
+1979,Arrebato,"Drama, Fantasy, Horror",7.1,Excellent,105,Avg. Length Film
+1979,Ashanti,"Action, Adventure, Drama",5.4,Average,118,Avg. Length Film
+1979,Assassinio sul Tevere,"Comedy, Crime, Drama",6.3,Average,96,Avg. Length Film
+1979,Autumn Born,Drama,4.3,Average,74,Avg. Length Film
+1979,Avalanche Express,"Action, Thriller",4.9,Average,88,Avg. Length Film
+1979,Babäk,Drama,7.8,Excellent,137,No Data
+1979,Partizanska eskadrila,"Drama, History, War",6.7,Average,130,No Data
+1979,Bear Island,"Action, Adventure, Mystery",5.9,Average,118,Avg. Length Film
+1979,Being There,"Comedy, Drama",8.0,Excellent,130,No Data
+1979,The Bell Jar,"Biography, Drama",5.5,Average,107,Avg. Length Film
+1979,Beneath the Valley of the Ultra-Vixens,Comedy,5.6,Average,93,Avg. Length Film
+1979,Beyond the Poseidon Adventure,"Action, Adventure",4.6,Average,114,Avg. Length Film
+1979,Bildnis einer Trinkerin,Drama,6.6,Average,108,Avg. Length Film
+1979,Birth of the Beatles,"Biography, Drama, Music",6.5,Average,104,Avg. Length Film
+1979,The Bitch,"Drama, Romance",3.4,Average,89,Avg. Length Film
+1979,The Black Hole,"Action, Sci-Fi",6.0,Average,98,Avg. Length Film
+1979,Black Jack,"Adventure, Comedy",6.4,Average,110,Avg. Length Film
+1979,The Black Stallion,"Adventure, Family, Sport",7.3,Excellent,118,Avg. Length Film
+1979,Die Blechtrommel,"Drama, War",7.5,Excellent,142,No Data
+1979,Bloodline,"Crime, Drama, Mystery",4.6,Average,117,Avg. Length Film
+1979,Bo ming dan dao duo ming qiang,"Action, Adventure",7.0,Excellent,97,Avg. Length Film
+1979,Boulevard Nights,"Crime, Drama",6.7,Average,102,Avg. Length Film
+1979,Breaking Away,"Comedy, Drama, Romance",7.7,Excellent,101,Avg. Length Film
+1979,Les bronzés font du ski,Comedy,7.5,Excellent,90,Avg. Length Film
+1979,The Brood,"Horror, Sci-Fi",6.8,Average,92,Avg. Length Film
+1979,Buffet froid,"Comedy, Crime",7.5,Excellent,89,Avg. Length Film
+1979,The Bugs Bunny/Road-Runner Movie,"Animation, Comedy, Family",7.3,Excellent,98,Avg. Length Film
+1979,Buio Omega,Horror,6.3,Average,94,Avg. Length Film
+1979,Buone notizie,"Comedy, Drama",6.4,Average,106,Avg. Length Film
+1979,Butch and Sundance: The Early Days,"Comedy, Western",5.7,Average,115,Avg. Length Film
+1979,"Bête, mais discipliné",Comedy,4.5,Average,95,Avg. Length Film
+1979,C.H.O.M.P.S.,"Comedy, Family, Sci-Fi",4.9,Average,89,Avg. Length Film
+1979,Il cacciatore di squali,Adventure,5.3,Average,97,Avg. Length Film
+1979,California Dreaming,"Comedy, Drama, Romance",6.0,Average,92,Avg. Length Film
+1979,El caminante,Horror,6.4,Average,89,Avg. Length Film
+1979,Caniche,"Comedy, Drama, Mystery",6.0,Average,90,Avg. Length Film
+1979,Caro papà,Drama,6.2,Average,105,Avg. Length Film
+1979,Cause toujours... tu m'intéresses!,Comedy,6.0,Average,97,Avg. Length Film
+1979,Cha-Cha,"Comedy, Music",6.5,Average,99,Avg. Length Film
+1979,The Champ,"Drama, Sport",6.9,Average,121,No Data
+1979,Chapter Two,"Comedy, Drama, Romance",6.0,Average,124,No Data
+1979,Charly & Steffen,"Drama, Music",4.8,Average,83,Avg. Length Film
+1979,The Great American Girl Robbery,"Adventure, Crime, Sport",4.2,Average,87,Avg. Length Film
+1979,Chiedo asilo,"Comedy, Drama",6.2,Average,110,Avg. Length Film
+1979,The China Syndrome,"Drama, Thriller",7.4,Excellent,122,No Data
+1979,Chu long ma liu,"Action, Drama",6.3,Average,89,Avg. Length Film
+1979,City on Fire,"Action, Drama",3.9,Average,106,Avg. Length Film
+1979,Clair de femme,Drama,6.5,Average,98,Avg. Length Film
+1979,Cocaine Cowboys,"Crime, Drama",2.9,Poor,87,Avg. Length Film
+1979,Concorde Affaire '79,"Action, Crime, Thriller",5.6,Average,96,Avg. Length Film
+1979,Confessions from the David Galaxy Affair,Comedy,2.8,Poor,97,Avg. Length Film
+1979,Coup de tête,"Comedy, Drama, Sport",7.2,Excellent,89,Avg. Length Film
+1979,Courage fuyons,"Comedy, Romance",6.0,Average,100,Avg. Length Film
+1979,Cristo si è fermato a Eboli,Drama,7.7,Excellent,150,No Data
+1979,Cuba,"Adventure, Romance, Thrill",5.7,Average,122,No Data
+1979,From Hell to Victory,"Drama, War",5.2,Average,103,Avg. Length Film
+1979,Dalla nube alla resistenza,Drama,6.6,Average,104,Avg. Length Film
+1979,The Dark,"Horror, Sci-Fi, Thriller",4.3,Average,92,Avg. Length Film
+1979,David,"Drama, War",6.5,Average,125,No Data
+1979,He xing dao shou tang lang tui,"Action, Drama",5.9,Average,86,Avg. Length Film
+1979,Delirium,Thriller,3.8,Average,90,Avg. Length Film
+1979,Yasha-ga-ike,"Romance, Fantasy",6.6,Average,123,No Data
+1979,Mai ming xiao zi,"Action, Drama",6.7,Average,82,Avg. Length Film
+1979,Dip bin,"Action, Horror, Mystery",6.5,Average,88,Avg. Length Film
+1979,Dimenticare Venezia,Drama,6.9,Average,110,Avg. Length Film
+1979,Dizengoff 99,"Comedy, Drama, Romance",6.6,Average,110,Avg. Length Film
+1979,Don Giovanni,"Drama, Music",7.6,Excellent,176,No Data
+1979,Dottor Jekyll e gentile signora,Comedy,5.4,Average,107,Avg. Length Film
+1979,The Double McGuffin,"Mystery, Family",6.5,Average,101,Avg. Length Film
+1979,Dove vai se il vizietto non ce l'hai?,Comedy,5.3,Average,86,Avg. Length Film
+1979,Dracula,"Horror, Romance",6.5,Average,109,Avg. Length Film
+1979,Un dramma borghese,Drama,6.2,Average,110,Avg. Length Film
+1979,Dreamer,"Drama, Sport",5.8,Average,90,Avg. Length Film
+1979,The Driller Killer,"Drama, Horror, Thriller",5.1,Average,96,Avg. Length Film
+1979,Die dritte Generation,"Crime, Drama",6.9,Average,111,Avg. Length Film
+1979,La drôlesse,Drama,6.7,Average,90,Avg. Length Film
+1979,"Du är inte klok, Madicken","Comedy, Drama, Family",6.5,Average,104,Avg. Length Film
+1979,La dérobade,Drama,6.2,Average,120,No Data
+1979,Eagle's Wing,Western,5.9,Average,111,Avg. Length Film
+1979,Die Ehe der Maria Braun,Drama,7.8,Excellent,120,No Data
+1979,Ek Din Pratidin,Drama,7.8,Excellent,95,Avg. Length Film
+1979,The Electric Horseman,"Comedy, Drama, Romance",6.3,Average,121,No Data
+1979,Los energéticos,Comedy,4.9,Average,88,Avg. Length Film
+1979,Ernesto,"Drama, Romance",7.1,Excellent,94,Avg. Length Film
+1979,Escape from Alcatraz,"Biography, Crime, Drama",7.6,Excellent,112,Avg. Length Film
+1979,Escape to Athena,"Action, Adventure, Comedy",5.7,Average,125,No Data
+1979,Et la tendresse?... Bordel!,Comedy,6.1,Average,105,Avg. Length Film
+1979,The Europeans,"Drama, Romance",6.2,Average,90,Avg. Length Film
+1979,The Evictors,"Crime, Drama, Horror",5.5,Average,92,Avg. Length Film
+1979,Fascination,Horror,6.0,Average,80,Avg. Length Film
+1979,Fast Break,"Comedy, Sport",6.2,Average,107,Avg. Length Film
+1979,Fast Charlie... the Moonbeam Rider,Comedy,5.7,Average,99,Avg. Length Film
+1979,Fast Company,"Drama, Sport",5.5,Average,91,Avg. Length Film
+1979,Fung gip,"Drama, Mystery, Thriller",6.4,Average,85,Avg. Length Film
+1979,Feng hou,"Action, Comedy",6.9,Average,116,Avg. Length Film
+1979,Feng liu duan jian xiao xiao dao,"Action, Comedy",6.7,Average,101,Avg. Length Film
+1979,The Fifth Musketeer,"Action, Adventure, Romance",5.4,Average,116,Avg. Length Film
+1979,Firepower,"Action, Adventure, Crime",4.9,Average,104,Avg. Length Film
+1979,The Fish That Saved Pittsburgh,"Comedy, Sport",5.4,Average,102,Avg. Length Film
+1979,Il fiume del grande caimano,Horror,4.6,Average,90,Avg. Length Film
+1979,A Force of One,"Action, Crime, Drama",5.1,Average,90,Avg. Length Film
+1979,French Postcards,"Comedy, Drama",6.1,Average,95,Avg. Length Film
+1979,The Frisco Kid,"Comedy, Drama, Western",6.4,Average,119,Avg. Length Film
+1979,Fukushû suru wa ware ni ari,"Crime, Drama",7.8,Excellent,140,No Data
+1979,Gal Young Un,Drama,6.9,Average,105,Avg. Length Film
+1979,Game for Vultures,"Action, Drama, War",4.5,Average,113,Avg. Length Film
+1979,The Troops & Aliens,"Comedy, Crime, Sci-Fi",6.3,Average,96,Avg. Length Film
+1979,Geschichten aus dem Wienerwald,Drama,6.7,Average,90,Avg. Length Film
+1979,Giallo a Venezia,"Crime, Horror, Mystery",5.3,Average,91,Avg. Length Film
+1979,Il giocattolo,Drama,7.1,Excellent,118,Avg. Length Film
+1979,Yotzim Kavua,"Comedy, Romance",5.7,Average,100,Avg. Length Film
+1979,Going in Style,"Comedy, Crime, Drama",7.1,Excellent,97,Avg. Length Film
+1979,Gol Maal,"Comedy, Romance",8.6,Excellent,120,No Data
+1979,Goldengirl,"Drama, Sci-Fi, Sport",4.6,Average,104,Avg. Length Film
+1979,"Good Luck, Miss Wyckoff",Drama,5.7,Average,105,Avg. Length Film
+1979,Graf Dracula in Oberbayern,"Comedy, Horror",4.2,Average,93,Avg. Length Film
+1979,The Great Gambler,"Action, Crime, Romance",6.6,Average,105,Avg. Length Film
+1979,The Great Riviera Bank Robbery,"Action, Crime, Drama",6.3,Average,102,Avg. Length Film
+1979,The Great Santini,Drama,7.2,Excellent,115,Avg. Length Film
+1979,Grijpstra & De Gier,"Crime, Thriller, Comedy",6.2,Average,86,Avg. Length Film
+1979,La guerre des polices,"Crime, Drama",6.0,Average,100,Avg. Length Film
+1979,La gueule de l'autre,Comedy,6.0,Average,100,Avg. Length Film
+1979,H.O.T.S.,Comedy,4.5,Average,98,Avg. Length Film
+1979,Hair,"Comedy, Drama, Musical",7.6,Excellent,121,No Data
+1979,Die Hamburger Krankheit,Sci-Fi,6.3,Average,117,Avg. Length Film
+1979,Hanover Street,"Action, Adventure, Drama",6.0,Average,109,Avg. Length Film
+1979,Hardcore,"Crime, Drama",7.0,Excellent,108,Avg. Length Film
+1979,Head Over Heels,"Comedy, Drama, Romance",7.1,Excellent,92,Avg. Length Film
+1979,The Hollywood Strangler Meets the Skid Row Slasher,"Crime, Drama, Horror",3.1,Average,72,Avg. Length Film
+1979,Home Before Midnight,Drama,5.8,Average,111,Avg. Length Film
+1979,Home Movies,Comedy,5.2,Average,90,Avg. Length Film
+1979,Hot Stuff,"Action, Comedy, Crime",6.7,Average,91,Avg. Length Film
+1979,Snake In The Monkey's Shadow,"Action, Drama",7.0,Excellent,100,Avg. Length Film
+1979,Xiao quan guai zhao,"Comedy, Action",6.7,Average,98,Avg. Length Film
+1979,Yami no karyudo,"Action, Adventure, Drama",6.9,Average,137,No Data
+1979,Hurricane,"Adventure, Drama",4.6,Average,120,No Data
+1979,Les héroïnes du mal,Drama,5.5,Average,109,Avg. Length Film
+1979,I... comme Icare,"Crime, Drama, Mystery",7.9,Excellent,120,No Data
+1979,Imeruli eskizebi,Comedy,7.9,Excellent,79,Avg. Length Film
+1979,The In-Laws,"Action, Adventure, Comedy",7.3,Excellent,103,Avg. Length Film
+1979,Io sto con gli ippopotami,"Action, Adventure, Comedy",6.8,Average,108,Avg. Length Film
+1979,Jaani Dushman,"Action, Horror, Mystery",6.0,Average,154,No Data
+1979,Jag är med barn,Comedy,5.2,Average,107,Avg. Length Film
+1979,Jaguar Lives!,Action,4.3,Average,90,Avg. Length Film
+1979,The Jerk,Comedy,7.2,Excellent,94,Avg. Length Film
+1979,Jesus,"Biography, Drama, Family",7.1,Excellent,117,Avg. Length Film
+1979,Ji zhao,"Action, Drama",6.3,Average,84,Avg. Length Film
+1979,Jiao tou,"Action, Drama",6.5,Average,100,Avg. Length Film
+1979,Jin bi tong,"Action, Drama",7.2,Excellent,86,Avg. Length Film
+1979,Jurmana,"Drama, Family",6.9,Average,139,No Data
+1979,"Just You and Me, Kid",Comedy,6.0,Average,95,Avg. Length Film
+1979,Kaala Patthar,"Action, Drama, History",7.7,Excellent,176,No Data
+1979,King Frat,Comedy,4.4,Average,85,Avg. Length Film
+1979,A kis Valentinó,Drama,6.4,Average,102,Avg. Length Film
+1979,Koeputkiaikuinen ja Simon enkelit,Comedy,5.2,Average,87,Avg. Length Film
+1979,Kort Amerikaans,Drama,5.4,Average,97,Avg. Length Film
+1979,Kramer vs. Kramer,Drama,7.8,Excellent,105,Avg. Length Film
+1979,The Lady Vanishes,"Action, Comedy, Mystery",6.0,Average,97,Avg. Length Film
+1979,The Lady in Red,"Action, Drama, Romance",6.2,Average,93,Avg. Length Film
+1979,Last Embrace,"Mystery, Romance, Thriller",6.1,Average,102,Avg. Length Film
+1979,The Last of the Knucklemen,Drama,7.0,Excellent,93,Avg. Length Film
+1979,Lachenite obuvki na neznayniya voin,Drama,7.3,Excellent,85,Avg. Length Film
+1979,"Laura, les ombres de l'été","Drama, Romance",5.9,Average,95,Avg. Length Film
+1979,Letti selvaggi,Comedy,4.8,Average,106,Avg. Length Film
+1979,"La liceale, il diavolo e l'acquasanta",Comedy,5.3,Average,95,Avg. Length Film
+1979,Life of Brian,Comedy,8.1,Excellent,94,Avg. Length Film
+1979,Lin Shi Rong,"Action, Comedy, Drama",7.3,Excellent,108,Avg. Length Film
+1979,A Little Romance,"Adventure, Comedy, Romance",7.5,Excellent,110,Avg. Length Film
+1979,Liu he qian shou,"Action, Drama",6.1,Average,90,Avg. Length Film
+1979,Long hu men,Action,6.9,Average,85,Avg. Length Film
+1979,Long quan,"Action, Drama",6.2,Average,97,Avg. Length Film
+1979,Lost and Found,Comedy,5.0,Average,106,Avg. Length Film
+1979,Love and Bullets,"Action, Crime, Drama",5.8,Average,103,Avg. Length Film
+1979,Love at First Bite,Comedy,6.1,Average,96,Avg. Length Film
+1979,La luna,Drama,6.5,Average,142,No Data
+1979,Mad Max,"Action, Adventure, Sci-Fi",6.9,Average,88,Avg. Length Film
+1979,The Magician of Lublin,Drama,5.8,Average,114,Avg. Length Film
+1979,The Main Event,"Comedy, Romance, Sport",5.6,Average,112,Avg. Length Film
+1979,Il malato immaginario,Comedy,6.3,Average,107,Avg. Length Film
+1979,Malibu High,"Crime, Drama, Thriller",4.9,Average,90,Avg. Length Film
+1979,El periscopio,Comedy,4.3,Average,84,Avg. Length Film
+1979,Mamá cumple 100 años,"Comedy, Drama, Fantasy",7.3,Excellent,98,Avg. Length Film
+1979,"A Man, a Woman and a Bank","Comedy, Crime",5.7,Average,100,Avg. Length Film
+1979,Manhattan,"Comedy, Drama, Romance",7.9,Excellent,96,Avg. Length Film
+1979,Mani di velluto,"Comedy, Romance",6.5,Average,98,Avg. Length Film
+1979,Manzil,"Drama, Romance, Family",7.1,Excellent,113,Avg. Length Film
+1979,Martijn en de magiër,"Family, Adventure",7.0,Excellent,104,Avg. Length Film
+1979,María de mi corazón,"Comedy, Drama, Thriller",7.3,Excellent,137,No Data
+1979,Meatballs,Comedy,6.2,Average,94,Avg. Length Film
+1979,The Meateater,Horror,3.3,Average,85,Avg. Length Film
+1979,Meetings with Remarkable Men,"Biography, Drama",7.3,Excellent,108,Avg. Length Film
+1979,Messidor,"Crime, Drama",6.9,Average,123,No Data
+1979,Meteor,"Action, Drama, Sci-Fi",5.0,Average,108,Avg. Length Film
+1979,Moonraker,"Action, Adventure, Sci-Fi",6.3,Average,126,No Data
+1979,More American Graffiti,"Comedy, Drama, War",5.3,Average,110,Avg. Length Film
+1979,Mountain Family Robinson,"Family, Adventure",6.4,Average,100,Avg. Length Film
+1979,Mourir à tue-tête,Drama,6.8,Average,96,Avg. Length Film
+1979,Mr. Mike's Mondo Video,Comedy,5.0,Average,75,Avg. Length Film
+1979,Mr. Natwarlal,"Action, Comedy, Romance",6.6,Average,148,No Data
+1979,The Muppet Movie,"Adventure, Comedy, Family",7.6,Excellent,95,Avg. Length Film
+1979,Murder by Decree,"Mystery, Thriller",6.9,Average,124,No Data
+1979,My Brilliant Career,"Biography, Drama, Romance",7.1,Excellent,100,Avg. Length Film
+1979,La mémoire courte,Drama,5.8,Average,105,Avg. Length Film
+1979,Na pytlacke stezce,"Adventure, Family",6.2,Average,80,Avg. Length Film
+1979,Nacionalna klasa,"Comedy, Drama",8.5,Excellent,105,Avg. Length Film
+1979,Nan bei zui quan,"Action, Comedy",7.0,Excellent,94,Avg. Length Film
+1979,Natural Enemies,"Drama, Thriller",7.2,Excellent,100,Avg. Length Film
+1979,Nea Marin miliardar,Comedy,8.4,Excellent,88,Avg. Length Film
+1979,A Nightingale Sang in Berkeley Square,"Comedy, Crime",5.7,Average,102,Avg. Length Film
+1979,Nightwing,Horror,5.0,Average,105,Avg. Length Film
+1979,Nocturna,"Comedy, Horror",4.7,Average,85,Avg. Length Film
+1979,Norma Rae,Drama,7.3,Excellent,114,Avg. Length Film
+1979,The North Avenue Irregulars,"Action, Comedy, Crime",6.8,Average,100,Avg. Length Film
+1979,North Dallas Forty,"Comedy, Drama, Sport",6.9,Average,119,Avg. Length Film
+1979,Nosferatu: Phantom der Nacht,"Drama, Horror",7.5,Excellent,107,Avg. Length Film
+1979,Novinar,Drama,6.8,Average,112,Avg. Length Film
+1979,Nutcracker Fantasy,"Animation, Family, Fantasy",6.3,Average,95,Avg. Length Film
+1979,The Odd Angry Shot,"Action, Comedy, War",6.7,Average,92,Avg. Length Film
+1979,Ogro,"Drama, Thriller",7.1,Excellent,115,Avg. Length Film
+1979,Old Boyfriends,Drama,5.4,Average,103,Avg. Length Film
+1979,Olsenbanden og Dynamitt-Harry mot nye høyder,"Comedy, Crime, Family",6.4,Average,99,Avg. Length Film
+1979,Olsen-banden overgiver sig aldrig,"Comedy, Crime, Family",6.9,Average,108,Avg. Length Film
+1979,The Onion Field,"Crime, Drama",6.8,Average,122,No Data
+1979,The Orphan,Horror,4.0,Average,87,Avg. Length Film
+1979,Osenniy marafon,"Comedy, Drama, Romance",7.9,Excellent,90,Avg. Length Film
+1979,The Outsider,"Drama, History, Thriller",6.8,Average,128,No Data
+1979,Over the Edge,"Crime, Drama",7.4,Excellent,95,Avg. Length Film
+1979,Panny z Wilka,"Drama, Romance",7.5,Excellent,118,Avg. Length Film
+1979,The Passage,"Action, Drama, War",6.0,Average,98,Avg. Length Film
+1979,La patata bollente,Comedy,6.5,Average,99,Avg. Length Film
+1979,Die Patriotin,Drama,6.7,Average,121,No Data
+1979,Penitentiary,"Crime, Drama, Sport",5.7,Average,99,Avg. Length Film
+1979,A Perfect Couple,"Comedy, Musical, Romance",5.9,Average,110,Avg. Length Film
+1979,Phantasm,"Horror, Sci-Fi",6.8,Average,88,Avg. Length Film
+1979,Players,"Drama, Romance, Sport",4.4,Average,120,No Data
+1979,La poliziotta della squadra del buon costume,"Comedy, Crime",4.8,Average,90,Avg. Length Film
+1979,Il porno shop della settima strada,Thriller,5.3,Average,89,Avg. Length Film
+1979,Porridge,"Comedy, Crime",7.2,Excellent,93,Avg. Length Film
+1979,Povratak,"Drama, War",6.3,Average,94,Avg. Length Film
+1979,Il prato,Drama,6.4,Average,115,Avg. Length Film
+1979,The Prisoner of Zenda,"Adventure, Comedy",5.2,Average,108,Avg. Length Film
+1979,The Prize Fighter,Comedy,5.7,Average,99,Avg. Length Film
+1979,The Promise,"Drama, Romance",6.7,Average,97,Avg. Length Film
+1979,Promises in the Dark,Drama,6.5,Average,118,Avg. Length Film
+1979,Prophecy,"Horror, Sci-Fi, Thriller",5.5,Average,102,Avg. Length Film
+1979,Le pull-over rouge,"Crime, Drama, History",6.9,Average,80,Avg. Length Film
+1979,Pyat vecherov,"Drama, Romance",7.7,Excellent,103,Avg. Length Film
+1979,Quadrophenia,"Drama, Music",7.3,Excellent,120,No Data
+1979,Quintet,"Drama, Mystery, Sci-Fi",5.2,Average,118,Avg. Length Film
+1979,Racquet,"Comedy, Sport",2.8,Poor,87,Avg. Length Film
+1979,Radio On,"Drama, Music, Mystery",6.5,Average,104,Avg. Length Film
+1979,Ratataplan,Comedy,7.1,Excellent,95,Avg. Length Film
+1979,Ravagers,"Sci-Fi, Fantasy, Drama",4.6,Average,90,Avg. Length Film
+1979,Real Life,Comedy,7.1,Excellent,99,Avg. Length Film
+1979,Rend mig i traditionerne,"Comedy, Drama",6.0,Average,105,Avg. Length Film
+1979,Repmånad eller Hur man gör pojkar av män,Comedy,6.5,Average,85,Avg. Length Film
+1979,Rich Kids,"Comedy, Drama",6.6,Average,101,Avg. Length Film
+1979,The Riddle of the Sands,"Adventure, Drama, Thriller",6.4,Average,102,Avg. Length Film
+1979,Rock 'n' Roll High School,"Comedy, Music",6.7,Average,93,Avg. Length Film
+1979,Rocky II,"Drama, Sport",7.2,Excellent,119,Avg. Length Film
+1979,Roller Boogie,"Drama, Music",4.5,Average,103,Avg. Length Film
+1979,The Rose,"Drama, Music, Romance",7.0,Excellent,125,No Data
+1979,The Runner Stumbles,Drama,6.2,Average,109,Avg. Length Film
+1979,Running,"Drama, Sport",5.9,Average,102,Avg. Length Film
+1979,Rupan sansei: Kariosutoro no shiro,"Animation, Adventure, Fami",7.7,Excellent,100,Avg. Length Film
+1979,"Sabato, domenica e venerdì",Comedy,5.4,Average,108,Avg. Length Film
+1979,Saint Jack,Drama,7.0,Excellent,112,Avg. Length Film
+1979,Savage Weekend,Horror,4.5,Average,88,Avg. Length Film
+1979,Scavenger Hunt,Comedy,6.0,Average,116,Avg. Length Film
+1979,Uno sceriffo extraterrestre... poco extra e molto t,"Action, Comedy, Family",6.2,Average,95,Avg. Length Film
+1979,Die Schulmädchen vom Treffpunkt Zoo,"Comedy, Drama",5.3,Average,87,Avg. Length Film
+1979,Schwestern oder Die Balance des Glücks,Drama,7.1,Excellent,95,Avg. Length Film
+1979,Screams of a Winter Night,"Horror, Mystery",5.0,Average,91,Avg. Length Film
+1979,Scum,"Crime, Drama",7.6,Excellent,98,Avg. Length Film
+1979,Sechs Schwedinnen im Pensionat,Comedy,5.0,Average,91,Avg. Length Film
+1979,The Seduction of Joe Tynan,Drama,6.1,Average,108,Avg. Length Film
+1979,Senza buccia,"Comedy, Romance",5.2,Average,104,Avg. Length Film
+1979,Seven,"Action, Drama",6.0,Average,100,Avg. Length Film
+1979,Shan zhong zhuan qi,"Fantasy, Horror, Mystery",7.3,Excellent,192,No Data
+1979,Shao Lin ying xiong bang,"Action, Adventure",6.7,Average,84,Avg. Length Film
+1979,The Shape of Things to Come,"Adventure, Sci-Fi, Thrille",3.1,Average,98,Avg. Length Film
+1979,Sibiriada,"Drama, History, Romance",8.1,Excellent,275,No Data
+1979,"Skatetown, U.S.A.",Comedy,4.7,Average,98,Avg. Length Film
+1979,Snapshot,"Drama, Thriller",5.1,Average,92,Avg. Length Film
+1979,Les soeurs Brontë,"Biography, Drama",6.7,Average,120,No Data
+1979,Something Short of Paradise,"Drama, Comedy, Romance",4.4,Average,87,Avg. Length Film
+1979,Outer Touch,"Comedy, Sci-Fi",4.7,Average,84,Avg. Length Film
+1979,Spirit of the Wind,"Adventure, Drama, Family",5.4,Average,98,Avg. Length Film
+1979,Stalker,"Drama, Sci-Fi",8.2,Excellent,162,No Data
+1979,Star Trek: The Motion Picture,"Adventure, Mystery, Sci-Fi",6.4,Average,132,No Data
+1979,Starting Over,"Comedy, Romance",6.4,Average,105,Avg. Length Film
+1979,Suhaag,"Action, Drama, Musical",6.7,Average,164,No Data
+1979,Summer Camp,Comedy,3.7,Average,85,Avg. Length Film
+1979,Sunburn,"Comedy, Action, Crime",5.1,Average,99,Avg. Length Film
+1979,Supersonic Man,"Adventure, Comedy, Fantasy",3.1,Average,88,Avg. Length Film
+1979,Szpital Przemienienia,Drama,7.2,Excellent,90,Avg. Length Film
+1979,Série noire,"Crime, Drama",7.7,Excellent,111,Avg. Length Film
+1979,El Super,"Drama, Comedy",5.9,Average,90,Avg. Length Film
+1979,Tcherike-ye Tara,"Drama, Fantasy",7.4,Excellent,110,Avg. Length Film
+1979,Tema,"Comedy, Drama, Romance",7.4,Excellent,99,Avg. Length Film
+1979,Tess,"Drama, Romance",7.3,Excellent,170,No Data
+1979,Test pilota Pirxa,"Drama, Sci-Fi",6.5,Average,95,Avg. Length Film
+1979,That Sinking Feeling,"Comedy, Crime",6.8,Average,93,Avg. Length Film
+1979,That Summer!,Drama,6.5,Average,94,Avg. Length Film
+1979,Thirst,"Horror, Romance, Sci-Fi",5.8,Average,93,Avg. Length Film
+1979,Tim,"Drama, Romance",6.4,Average,109,Avg. Length Film
+1979,Time After Time,"Adventure, Drama, Sci-Fi",7.1,Excellent,112,Avg. Length Film
+1979,Le toubib,"Drama, War",5.5,Average,90,Avg. Length Film
+1979,A Touch of the Sun,Comedy,2.7,Poor,85,Avg. Length Film
+1979,Tourist Trap,Horror,6.2,Average,90,Avg. Length Film
+1979,Twee vrouwen,"Drama, Romance",5.9,Average,110,Avg. Length Film
+1979,La tía Alejandra,"Drama, Horror, Mystery",7.0,Excellent,98,Avg. Length Film
+1979,Zombi 2,Horror,6.9,Average,91,Avg. Length Film
+1979,L'umanoide,"Sci-Fi, Fantasy, Mystery",3.9,Average,100,Avg. Length Film
+1979,The Spaceman and King Arthur,"Comedy, Family, Adventure",5.3,Average,93,Avg. Length Film
+1979,Up from the Depths,"Action, Adventure, Comedy",3.0,Poor,85,Avg. Length Film
+1979,Van Nuys Blvd.,"Comedy, Drama",5.3,Average,93,Avg. Length Film
+1979,Vavilon XX,Drama,7.1,Excellent,100,Avg. Length Film
+1979,Las verdes praderas,"Comedy, Drama",6.6,Average,100,Avg. Length Film
+1979,Viaggio con Anita,Comedy,4.8,Average,120,No Data
+1979,The Villain,"Comedy, Western",5.4,Average,89,Avg. Length Film
+1979,Stridulum,"Horror, Sci-Fi",5.1,Average,108,Avg. Length Film
+1979,La vita è bella,Drama,6.4,Average,101,Avg. Length Film
+1979,Voices,"Drama, Music, Romance",6.7,Average,106,Avg. Length Film
+1979,Een vrouw als Eva,Drama,6.2,Average,113,Avg. Length Film
+1979,Een vrouw tussen hond en wolf,"Drama, Romance, War",6.5,Average,111,Avg. Length Film
+1979,Walk Proud,Drama,5.6,Average,102,Avg. Length Film
+1979,Wanda Nevada,"Comedy, Mystery, Romance",5.6,Average,107,Avg. Length Film
+1979,The Wanderers,Drama,7.4,Excellent,112,Avg. Length Film
+1979,The Warriors,"Action, Crime, Thriller",7.6,Excellent,92,Avg. Length Film
+1979,"When You Comin' Back, Red Ryder?",Drama,6.9,Average,118,Avg. Length Film
+1979,When a Stranger Calls,"Horror, Mystery, Thriller",6.5,Average,97,Avg. Length Film
+1979,Wild Horse Hank,"Drama, Adventure, Family",6.1,Average,96,Avg. Length Film
+1979,Winter Kills,"Comedy, Drama, Mystery",6.2,Average,97,Avg. Length Film
+1979,Wise Blood,"Comedy, Drama",7.1,Excellent,106,Avg. Length Film
+1979,The World Is Full of Married Men,"Drama, Romance",4.6,Average,107,Avg. Length Film
+1979,Jiu xian shi ba die,"Action, Drama",5.7,Average,98,Avg. Length Film
+1979,Woyzeck,Drama,7.1,Excellent,80,Avg. Length Film
+1979,Wu zhao sheng you zhao,"Action, Comedy",3.4,Average,77,Avg. Length Film
+1979,Xing mu zi gu huo zhao,"Action, Comedy",6.7,Average,89,Avg. Length Film
+1979,Yanks,"Drama, War",6.4,Average,138,No Data
+1979,Yesterday's Hero,"Drama, Music",4.7,Average,95,Avg. Length Film
+1979,Yomigaeru kinrô,"Action, Crime, Drama",6.8,Average,131,No Data
+1979,Za jia xiao zi,"Action, Comedy, Drama",7.3,Excellent,92,Avg. Length Film
+1979,Zmory,Drama,6.8,Average,100,Avg. Length Film
+1979,Zulu Dawn,"Adventure, Drama, History",6.6,Average,117,Avg. Length Film
+1979,À nous deux,Drama,6.5,Average,112,Avg. Length Film
+1979,Les égouts du paradis,"Action, Crime, Drama",6.1,Average,115,Avg. Length Film
+1979,Za ji wang ming dui,"Action, Drama",6.2,Average,100,Avg. Length Film
+1979,Aktorzy prowincjonalni,"Comedy, Drama",7.0,Excellent,108,Avg. Length Film
+1979,Aria dla atlety,"Biography, Drama, Sport",7.1,Excellent,108,Avg. Length Film
+1979,Caligola,"Adult, Drama, History",5.3,Average,156,No Data
+1979,The Day Time Ended,"Adventure, Horror, Sci-Fi",3.6,Average,79,Avg. Length Film
+1979,Don't Go in the House,Horror,5.7,Average,82,Avg. Length Film
+1979,Ginga tetsudô Three-Nine,"Animation, Action, Adventu",7.4,Excellent,129,No Data
+1979,Guyana: Crime of the Century,"Drama, Thriller",5.2,Average,107,Avg. Length Film
+1979,Human Experiments,"Crime, Horror, Thriller",3.8,Average,82,Avg. Length Film
+1979,The Human Factor,"Drama, Romance, Thriller",6.0,Average,115,Avg. Length Film
+1979,L'infermiera nella corsia dei militari,Comedy,5.1,Average,89,Avg. Length Film
+1979,J-Men Forever,Comedy,7.1,Excellent,73,Avg. Length Film
+1979,Joni,"Biography, Drama",6.8,Average,75,Avg. Length Film
+1979,The Little Dragons,"Action, Comedy",4.1,Average,90,Avg. Length Film
+1979,Deváté srdce,"Fantasy, Horror",6.8,Average,90,Avg. Length Film
+1979,Return of the Secaucus Seven,Drama,6.9,Average,104,Avg. Length Film
+1979,L'isola degli uomini pesce,"Action, Adventure, Horror",5.1,Average,100,Avg. Length Film
+1979,The Silent Scream,"Horror, Thriller",5.9,Average,87,Avg. Length Film
+1979,Squeeze Play,Comedy,4.2,Average,96,Avg. Length Film
+1979,Steel,"Action, Adventure, Crime",6.0,Average,102,Avg. Length Film
+1979,Stone Cold Dead,"Crime, Thriller",5.4,Average,100,Avg. Length Film
+1979,Survival Run,"Action, Crime, Drama",4.8,Average,89,Avg. Length Film
+1979,The Tempest,"Drama, Fantasy",6.4,Average,95,Avg. Length Film
+1979,Xiao hua,"Drama, Romance, War",6.8,Average,96,Avg. Length Film
+1979,Beyond the Reef,"Adventure, Romance",4.5,Average,91,Avg. Length Film
+1979,Don't Go Near the Park,Horror,3.5,Average,80,Avg. Length Film
+1979,Guangdong tie qiao san,"Action, Adventure",7.2,Excellent,86,Avg. Length Film
+1979,Heartland,"Western, Drama",7.3,Excellent,96,Avg. Length Film
+1979,Mang quan gui shou,"Action, Adventure, Comedy",5.3,Average,92,Avg. Length Film
+1979,Mistress of the Apes,Adventure,3.4,Average,84,Avg. Length Film
+1979,Nous étions un seul homme,"Drama, Romance",6.1,Average,91,Avg. Length Film
+1979,Search and Destroy,"Action, Drama, Thriller",5.8,Average,92,Avg. Length Film
+1979,Sengoku jieitai,"Action, Adventure, Sci-Fi",6.5,Average,139,No Data
+1979,Aragosta a colazione,Comedy,6.1,Average,92,Avg. Length Film
+1979,L'associé,Comedy,5.9,Average,94,Avg. Length Film
+1979,Dr. Jekyll's Dungeon of Death,Horror,2.1,Poor,88,Avg. Length Film
+1979,A Intrusa,Drama,6.9,Average,100,Avg. Length Film
+1979,L'enfant secret,"Comedy, Drama",6.7,Average,92,Avg. Length Film
+1979,Microwave Massacre,"Comedy, Horror",4.1,Average,76,Avg. Length Film
+1979,A Certain Sacrifice,"Crime, Drama, Music",2.6,Poor,60,Avg. Length Film
+1979,Pacific Inferno,War,3.5,Average,89,Avg. Length Film
+1979,Süpermenler,"Comedy, Crime, Sci-Fi",3.7,Average,87,Avg. Length Film
+1979,Ta kourelia tragoudane akoma...,"Adventure, Crime, Drama",7.4,Excellent,123,No Data
+1979,La nona,"Comedy, Drama",7.2,Excellent,90,Avg. Length Film
+1979,Égigérö fü,Comedy,7.7,Excellent,80,Avg. Length Film
+1979,Tian can di que,"Action, Drama",5.8,Average,90,Avg. Length Film
+1979,Da Corleone a Brooklyn,"Crime, Thriller",6.5,Average,95,Avg. Length Film
+1979,John Travolto... da un insolito destino,Comedy,5.3,Average,87,Avg. Length Film
+1979,Johnny Larsen,"Romance, Drama",6.5,Average,100,Avg. Length Film
+1979,The Capture of Bigfoot,"Adventure, Horror, Sci-Fi",3.3,Average,92,Avg. Length Film
+1979,"Mihail, cîine de circ","Adventure, Drama",6.7,Average,87,Avg. Length Film
+1979,Vsyo reshayet mgnoveniye,"Drama, Romance, Sport",5.8,Average,97,Avg. Length Film
+1979,Un'ombra nell'ombra,Horror,4.6,Average,106,Avg. Length Film
+1979,Mormor og de åtte ungene i skogen,Family,6.2,Average,96,Avg. Length Film
+1979,Tapage nocturne,Drama,5.5,Average,97,Avg. Length Film
+1979,They Eat Scum,Drama,5.4,Average,73,Avg. Length Film
+1979,O Cinderelo Trapalhão,"Family, Comedy",4.8,Average,90,Avg. Length Film
+1979,Kalyanaraman,"Action, Comedy, Drama",6.7,Average,134,No Data
+1979,Vlad Tepes,"Drama, History",7.8,Excellent,114,Avg. Length Film
+1979,Wolfman,Horror,2.7,Poor,102,Avg. Length Film
+1979,Le coup de sirocco,Drama,5.3,Average,102,Avg. Length Film
+1979,Emelyan Pugachev,"Biography, Drama, History",4.7,Average,147,No Data
+1979,Ninaithale Inikkum,"Musical, Romance",6.9,Average,141,No Data
+1979,Baton Baton Mein,"Comedy, Romance",7.6,Excellent,112,Avg. Length Film
+1979,O asymvivastos,"Drama, Music",6.8,Average,94,Avg. Length Film
+1979,Ena gelasto apogevma,Drama,6.3,Average,97,Avg. Length Film
+1979,Die Brut des Bösen,"Action, Crime, Drama",3.9,Average,85,Avg. Length Film
+1979,The Psychotronic Man,"Horror, Sci-Fi",3.0,Poor,90,Avg. Length Film
+1979,Sanada Yukimura no bouryaku,"Action, Drama",5.9,Average,148,No Data
+1979,Wu zhao shi ba fan,"Action, Drama",6.4,Average,92,Avg. Length Film
+1979,Immagini di un convento,Drama,5.6,Average,82,Avg. Length Film
+1979,Shkolnyy vals,Drama,7.0,Excellent,96,Avg. Length Film
+1979,Balamut,"Comedy, Drama",6.8,Average,85,Avg. Length Film
+1979,Anti-Clock,"Drama, Sci-Fi",6.2,Average,107,Avg. Length Film
+1979,Otets Sergiy,Drama,6.4,Average,99,Avg. Length Film
+1979,"Zhenshchina, kotoraya poyot",Musical,5.8,Average,79,Avg. Length Film
+1979,Covjek koga treba ubiti,"Fantasy, History",7.1,Excellent,105,Avg. Length Film
+1979,Duri a morire,"Action, War",5.2,Average,88,Avg. Length Film
+1979,Barierata,"Drama, Sci-Fi",7.1,Excellent,148,No Data
+1979,Jovana Lukina,Drama,6.6,Average,99,Avg. Length Film
+1979,Princ a Vecernice,"Adventure, Comedy, Family",7.1,Excellent,86,Avg. Length Film
+1979,Drugarcine,"Drama, Romance, War",5.9,Average,96,Avg. Length Film
+1979,"Je te tiens, tu me tiens par la barbichette","Comedy, Crime, Drama",5.0,Average,98,Avg. Length Film
+1979,Baba Kartal,"Adventure, Drama",6.5,Average,77,Avg. Length Film
+1979,Kiliç Bey,Adventure,5.7,Average,73,Avg. Length Film
+1979,O falakros mathitis,Comedy,6.4,Average,90,Avg. Length Film
+1979,Shi xiong shi di zhai chu ma,"Action, Drama",6.3,Average,90,Avg. Length Film
+1979,Qi bu mi zong,"Action, Drama",6.3,Average,87,Avg. Length Film
+1979,Simhasan,"Crime, Drama",7.4,Excellent,170,No Data
+1979,Kong shan ling yu,"Action, Drama",7.4,Excellent,120,No Data
+1979,A Sense of Freedom,"Crime, Drama, Thriller",7.0,Excellent,81,Avg. Length Film
+1979,Taiyô wo nusunda otoko,"Action, Crime, Thriller",7.6,Excellent,147,No Data
+1979,Expertos en Pinchazos,Comedy,6.4,Average,90,Avg. Length Film
+1979,Shuang ma lian huan,"Action, Drama",6.9,Average,90,Avg. Length Film
+1979,Oi fantarines,Comedy,3.8,Average,115,Avg. Length Film
+1979,'Hukkunud Alpinisti' hotell,"Crime, Drama, Sci-Fi",6.8,Average,80,Avg. Length Film
+1979,Le maître-nageur,"Comedy, Drama",6.4,Average,90,Avg. Length Film
+1979,Vsichko e lyubov,Drama,8.2,Excellent,102,Avg. Length Film
+1979,Hazal,Drama,6.3,Average,90,Avg. Length Film
+1979,Le navire Night,Drama,6.8,Average,90,Avg. Length Film
+1979,Schneeweißchen und Rosenrot,"Family, Fantasy",6.6,Average,70,Avg. Length Film
+1979,Les gardiennes du pénitencier,Drama,3.3,Average,75,Avg. Length Film
+1979,Derek and Clive Get the Horn,Comedy,7.2,Excellent,89,Avg. Length Film
+1979,El chanfle,"Comedy, Family, Fantasy",6.5,Average,106,Avg. Length Film
+1979,Tenshi no harawata: Akai kyôshitsu,"Drama, Thriller",6.2,Average,79,Avg. Length Film
+1979,Tenshi no harawata: Nami,"Drama, Thriller",6.4,Average,98,Avg. Length Film
+1979,Dabide no hoshi: Bishôjo-gari,"Drama, Horror, Thriller",6.1,Average,100,Avg. Length Film
+1979,Histórias Que Nossas Babás Não Contavam,Comedy,4.7,Average,97,Avg. Length Film
+1979,Collections privées,"Drama, Fantasy",5.3,Average,103,Avg. Length Film
+1979,Uthiri Pookkal,Drama,7.3,Excellent,143,No Data
+1979,Maula Jat,"Action, Drama",7.1,Excellent,156,No Data
+1979,Sargam,"Musical, Romance",6.6,Average,145,No Data
+1979,Voynata na taralezhite,Comedy,8.9,Excellent,99,Avg. Length Film
+1979,Glory Days,"Action, Drama, Family",5.5,Average,65,Avg. Length Film
+1979,Bekçiler Krali,Comedy,7.7,Excellent,82,Avg. Length Film
+1979,Dokunmayin Sabanima,"Comedy, Romance",7.3,Excellent,79,Avg. Length Film
+1979,Korkusuz Korkak,"Adventure, Comedy",8.1,Excellent,77,Avg. Length Film
+1979,Sark Bülbülü,"Comedy, Drama",7.6,Excellent,89,Avg. Length Film
+1979,Umudumuz Saban,Comedy,7.2,Excellent,83,Avg. Length Film
+1979,Pentimento,Drama,6.2,Average,78,Avg. Length Film
+1979,Sexual Aberration (Sesso perverso),Adventure,4.9,Average,79,Avg. Length Film
+1979,Aarilirindhu Aruvathu Varai,"Biography, Drama",8.3,Excellent,150,No Data
+1979,Vatandas Riza,Drama,7.1,Excellent,72,Avg. Length Film
+1979,Köse kapmaca,Comedy,6.4,Average,82,Avg. Length Film
+1979,Shudojo: Nure nawa zange,"Drama, Thriller",5.0,Average,69,Avg. Length Film
+1979,Quincy's Quest,"Family, Fantasy",6.0,Average,80,Avg. Length Film
+1979,Chafika et Metwal,Drama,7.0,Excellent,125,No Data
+1979,Sonagi,"Drama, Romance",7.1,Excellent,100,Avg. Length Film
+1979,Weasels Rip My Flesh,"Horror, Sci-Fi",3.0,Poor,67,Avg. Length Film
+1979,Noorie,"Drama, Family, Romance",6.0,Average,120,No Data
+1979,Zloy dukh Yambuya,"Adventure, Drama, Thriller",7.1,Excellent,87,Avg. Length Film
+1979,Alavuddinum Athbutha Vilakkum,"Adventure, Drama, Fantasy",6.6,Average,144,No Data
+1979,Ot nishto neshto,Comedy,7.7,Excellent,91,Avg. Length Film
+1979,Nezha nao hai,"Adventure, Animation, Fant",7.8,Excellent,65,Avg. Length Film
+1979,Perros callejeros II,"Action, Drama",5.5,Average,100,Avg. Length Film
+1979,Savage Water,"Adventure, Horror",3.4,Average,99,Avg. Length Film
+1979,Chorakhe,Horror,3.6,Average,92,Avg. Length Film
+1979,Süpermen Dönüyor,"Adventure, Fantasy, Sci-Fi",3.7,Average,67,Avg. Length Film
+1979,Yusuf ile Kenan,Drama,7.5,Excellent,80,Avg. Length Film
+1979,Almanya aci vatan,Drama,6.5,Average,85,Avg. Length Film
+1979,Ne Olacak Simdi,"Comedy, Romance",7.6,Excellent,83,Avg. Length Film
+1979,The Quatermass Conclusion,"Drama, Mystery, Sci-Fi",5.8,Average,102,Avg. Length Film
+1979,Samad be shahr miravad,Comedy,6.9,Average,90,Avg. Length Film
+1979,Erkek Güzeli Sefil Bilo,"Comedy, Drama",7.0,Excellent,80,Avg. Length Film
+1979,The Swap,"Crime, Drama",3.4,Average,83,Avg. Length Film
+1979,Isyan,Drama,6.6,Average,82,Avg. Length Film
+1979,Ehna Betoa El Otobees,"Drama, History, Thriller",7.8,Excellent,138,No Data
+1979,Kage no Gundan: Hattori Hanzo,Action,6.7,Average,133,No Data

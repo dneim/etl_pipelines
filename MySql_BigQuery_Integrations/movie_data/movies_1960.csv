@@ -1,0 +1,405 @@
+year,title,genre,avg_vote,movie_category,duration,length_category
+1960,Life Is a Circus,Comedy,4.1,Average,84,Avg. Length Film
+1960,L'amante del vampiro,Horror,5.6,Average,85,Avg. Length Film
+1960,The Battle of the Sexes,Comedy,6.7,Average,84,Avg. Length Film
+1960,Cash McCall,"Drama, Romance",6.4,Average,102,Avg. Length Film
+1960,Certains l'aiment... froide,Comedy,5.3,Average,90,Avg. Length Film
+1960,Classe tous risques,"Crime, Drama, Romance",7.5,Excellent,110,Avg. Length Film
+1960,Darbuján a Pandrhola,"Comedy, Fantasy",7.5,Excellent,80,Avg. Length Film
+1960,Le dialogue des Carmélites,"Drama, History",6.8,Average,112,Avg. Length Film
+1960,A Dog of Flanders,"Drama, Family",7.0,Excellent,96,Avg. Length Film
+1960,L'eau à la bouche,"Comedy, Romance",6.3,Average,85,Avg. Length Film
+1960,Era notte a Roma,"Drama, War",7.3,Excellent,138,No Data
+1960,El esqueleto de la señora Morales,"Comedy, Crime, Horror",8.1,Excellent,92,Avg. Length Film
+1960,The Flesh and the Fiends,"Crime, Drama, Horror",7.0,Excellent,94,Avg. Length Film
+1960,The Fugitive Kind,"Drama, Romance",7.2,Excellent,119,Avg. Length Film
+1960,The Girl in Lovers Lane,"Crime, Drama, Romance",2.7,Poor,78,Avg. Length Film
+1960,Journey to the Lost City,Adventure,6.8,Average,95,Avg. Length Film
+1960,Kapò,"Drama, War",7.6,Excellent,117,Avg. Length Film
+1960,The League of Gentlemen,"Comedy, Crime, Thriller",7.3,Excellent,116,Avg. Length Film
+1960,Nacht fiel über Gotenhafen,"Drama, War",7.2,Excellent,99,Avg. Length Film
+1960,La nave de los monstruos,"Comedy, Sci-Fi, Horror",6.5,Average,81,Avg. Length Film
+1960,Neotpravlennoe pismo,"Adventure, Drama",7.9,Excellent,96,Avg. Length Film
+1960,Oscar Wilde,"Biography, Drama",6.9,Average,98,Avg. Length Film
+1960,Der rote Kreis,"Thriller, Crime",6.2,Average,92,Avg. Length Film
+1960,The Savage Innocents,"Adventure, Crime, Drama",6.9,Average,110,Avg. Length Film
+1960,Der schweigende Stern,Sci-Fi,4.5,Average,93,Avg. Length Film
+1960,The Shakedown,"Crime, Drama",6.7,Average,92,Avg. Length Film
+1960,Sujata,"Drama, Romance",7.3,Excellent,161,No Data
+1960,Telegrame,Comedy,7.7,Excellent,76,Avg. Length Film
+1960,Too Hot to Handle,"Crime, Drama, Romance",6.3,Average,90,Avg. Length Film
+1960,A Touch of Larceny,Comedy,6.8,Average,93,Avg. Length Film
+1960,Valurile Dunarii,"Drama, War",7.1,Excellent,80,Avg. Length Film
+1960,Wernher von Braun,"Biography, Drama",6.4,Average,106,Avg. Length Film
+1960,Les yeux sans visage,"Drama, Horror",7.7,Excellent,90,Avg. Length Film
+1960,À bout de souffle,"Crime, Drama",7.9,Excellent,90,Avg. Length Film
+1960,13 Ghosts,Horror,6.1,Average,85,Avg. Length Film
+1960,5 Branded Women,"Drama, War",6.7,Average,115,Avg. Length Film
+1960,Adua e le compagne,"Comedy, Drama",7.6,Excellent,106,Avg. Length Film
+1960,The Adventures of Huckleberry Finn,"Adventure, Comedy, Drama",6.3,Average,107,Avg. Length Film
+1960,Aki tachinu,Drama,7.1,Excellent,79,Avg. Length Film
+1960,Akibiyori,"Comedy, Drama",8.1,Excellent,128,No Data
+1960,The Alamo,"Adventure, Drama, History",6.9,Average,162,No Data
+1960,All the Fine Young Cannibals,"Drama, Music, Romance",6.1,Average,112,Avg. Length Film
+1960,All the Young Men,"Action, Drama, War",6.2,Average,87,Avg. Length Film
+1960,Alla vi barn i Bullerbyn,Family,5.9,Average,90,Avg. Length Film
+1960,The Amazing Transparent Man,Sci-Fi,3.9,Average,58,Short Film
+1960,Un amore a Roma,"Drama, Romance",6.7,Average,107,Avg. Length Film
+1960,Gli amori di Ercole,"Fantasy, Adventure",3.0,Poor,97,Avg. Length Film
+1960,The Angel Wore Red,"Action, Drama, War",5.7,Average,95,Avg. Length Film
+1960,The Angry Silence,Drama,7.2,Excellent,95,Avg. Length Film
+1960,The Apartment,"Comedy, Drama, Romance",8.3,Excellent,125,No Data
+1960,L'avventura,"Drama, Mystery",7.9,Excellent,144,No Data
+1960,Butterfield 8,Drama,6.4,Average,109,Avg. Length Film
+1960,Badaranii,"Comedy, History",7.6,Excellent,88,Avg. Length Film
+1960,Bombai Ka Babu,"Drama, Musical, Romance",7.0,Excellent,154,No Data
+1960,Die Bande des Schreckens,"Crime, Horror, Drama",6.3,Average,92,Avg. Length Film
+1960,The Barbarians,"Action, Adventure, Drama",4.7,Average,84,Avg. Length Film
+1960,Le baron de l'écluse,Comedy,6.4,Average,92,Avg. Length Film
+1960,Baronessen fra benzintanken,"Comedy, Romance",7.0,Excellent,122,No Data
+1960,Barsaat Ki Raat,"Drama, Musical, Romance",6.9,Average,142,No Data
+1960,Austerlitz,"Drama, History, War",6.3,Average,166,No Data
+1960,The Beatniks,Crime,2.3,Poor,78,Avg. Length Film
+1960,Because They're Young,Drama,6.1,Average,102,Avg. Length Film
+1960,Il bell'Antonio,"Comedy, Drama",7.4,Excellent,105,Avg. Length Film
+1960,The Bellboy,Comedy,6.5,Average,72,Avg. Length Film
+1960,Bells Are Ringing,"Comedy, Musical, Romance",7.0,Excellent,126,No Data
+1960,No Kidding,Comedy,5.7,Average,86,Avg. Length Film
+1960,Beyond the Time Barrier,"Romance, Sci-Fi",5.3,Average,75,Avg. Length Film
+1960,Bidaya wa nihaya,Drama,7.9,Excellent,130,No Data
+1960,Chi wa kawaiteru,Drama,7.0,Excellent,87,Avg. Length Film
+1960,Bluebeards Ten Honeymoons,"Crime, Mystery, Thriller",6.3,Average,92,Avg. Length Film
+1960,Les bonnes femmes,"Drama, Mystery, Romance",7.4,Excellent,100,Avg. Length Film
+1960,Bottoms Up,Comedy,6.2,Average,90,Avg. Length Film
+1960,The Boy and the Pirates,"Family, Adventure, Fantasy",5.1,Average,82,Avg. Length Film
+1960,The Bramble Bush,Drama,5.5,Average,93,Avg. Length Film
+1960,Der brave Soldat Schwejk,"Comedy, Drama, War",6.8,Average,98,Avg. Length Film
+1960,A Breath of Scandal,"Drama, Comedy, Romance",5.5,Average,97,Avg. Length Film
+1960,The Brides of Dracula,Horror,6.7,Average,85,Avg. Length Film
+1960,The Bulldog Breed,Comedy,6.3,Average,97,Avg. Length Film
+1960,Cage of Evil,"Crime, Drama",5.4,Average,70,Avg. Length Film
+1960,Can-Can,"Comedy, Musical",6.3,Average,131,No Data
+1960,Le capitan,"Action, Adventure",6.3,Average,111,Avg. Length Film
+1960,"Carry on, Constable",Comedy,6.2,Average,86,Avg. Length Film
+1960,Chaudhvin Ka Chand,"Musical, Romance",7.3,Excellent,169,No Data
+1960,Chhalia,"Musical, Romance",7.6,Excellent,112,Avg. Length Film
+1960,Chi si ferma è perduto,Comedy,6.9,Average,101,Avg. Length Film
+1960,Cimarron,"Drama, Romance, Western",6.4,Average,147,No Data
+1960,Cinderfella,"Comedy, Family, Fantasy",6.0,Average,91,Avg. Length Film
+1960,Circus of Horrors,"Horror, Drama",6.2,Average,92,Avg. Length Film
+1960,The City of the Dead,"Horror, Mystery, Thriller",6.8,Average,78,Avg. Length Film
+1960,El cochecito,"Comedy, Drama",7.4,Excellent,85,Avg. Length Film
+1960,College Confidential,Drama,4.9,Average,91,Avg. Length Film
+1960,Comanche Station,"Drama, Western",7.0,Excellent,73,Avg. Length Film
+1960,Conspiracy of Hearts,"Drama, War",7.0,Excellent,113,Avg. Length Film
+1960,Crack in the Mirror,"Crime, Drama",7.1,Excellent,97,Avg. Length Film
+1960,Crésus,Comedy,6.4,Average,100,Avg. Length Film
+1960,Crimen,"Comedy, Crime",7.1,Excellent,106,Avg. Length Film
+1960,The Criminal,"Crime, Drama, Thriller",6.9,Average,97,Avg. Length Film
+1960,The Crowded Sky,"Action, Adventure, Drama",5.9,Average,105,Avg. Length Film
+1960,Dama s sobachkoy,"Drama, Romance",7.4,Excellent,83,Avg. Length Film
+1960,The Dark at the Top of the Stairs,Drama,7.1,Excellent,124,No Data
+1960,Date Bait,Drama,5.2,Average,72,Avg. Length Film
+1960,The Day They Robbed the Bank of England,"Crime, Drama, Thriller",6.6,Average,85,Avg. Length Film
+1960,I delfini,Drama,7.0,Excellent,102,Avg. Length Film
+1960,Densô ningen,"Horror, Sci-Fi",6.3,Average,85,Avg. Length Film
+1960,Dentist in the Chair,Comedy,5.1,Average,84,Avg. Length Film
+1960,Desire in the Dust,"Crime, Drama, Mystery",6.1,Average,102,Avg. Length Film
+1960,Deveti krug,"Drama, War",7.9,Excellent,107,Avg. Length Film
+1960,Devi,Drama,7.8,Excellent,93,Avg. Length Film
+1960,Dinosaurus!,"Adventure, Comedy, Fantasy",5.0,Average,83,Avg. Length Film
+1960,Djävulens öga,"Comedy, Drama, Fantasy",7.2,Excellent,87,Avg. Length Film
+1960,Do widzenia do jutra...,"Drama, Romance",7.1,Excellent,88,Avg. Length Film
+1960,Doctor in Love,Comedy,5.7,Average,93,Avg. Length Film
+1960,La dolce vita,"Comedy, Drama",8.0,Excellent,174,No Data
+1960,I dolci inganni,"Drama, Romance",6.9,Average,91,Avg. Length Film
+1960,Elmer Gantry,Drama,7.8,Excellent,146,No Data
+1960,The Entertainer,Drama,7.1,Excellent,96,Avg. Length Film
+1960,Esther and the King,"Biography, Drama, History",5.5,Average,109,Avg. Length Film
+1960,Et mourir de plaisir,"Drama, Horror, Romance",6.6,Average,87,Avg. Length Film
+1960,Exodus,"Action, Drama, History",6.7,Average,208,No Data
+1960,Faces in the Dark,"Drama, Mystery, Thriller",6.5,Average,84,Avg. Length Film
+1960,The Facts of Life,"Drama, Romance, Comedy",6.5,Average,103,Avg. Length Film
+1960,Flaming Star,Western,6.5,Average,101,Avg. Length Film
+1960,Forelsket i København,Romance,6.4,Average,98,Avg. Length Film
+1960,La française et l'amour,Comedy,6.3,Average,143,No Data
+1960,A French Mistress,Comedy,6.0,Average,98,Avg. Length Film
+1960,From the Terrace,"Drama, Romance",6.7,Average,149,No Data
+1960,Fuefukigawa,"Drama, History, War",7.0,Excellent,117,Avg. Length Film
+1960,Fünf Patronenhülsen,War,6.7,Average,87,Avg. Length Film
+1960,G.I. Blues,"Comedy, Musical",6.3,Average,104,Avg. Length Film
+1960,The Gallant Hours,"Biography, Drama, War",7.1,Excellent,115,Avg. Length Film
+1960,Gasu ningen dai 1 gô,"Crime, Sci-Fi, Thriller",6.3,Average,92,Avg. Length Film
+1960,Der Gauner und der liebe Gott,Comedy,6.8,Average,97,Avg. Length Film
+1960,I giganti della Tessaglia,"Adventure, Fantasy",5.1,Average,98,Avg. Length Film
+1960,La giornata balorda,Drama,6.8,Average,102,Avg. Length Film
+1960,Rokudenashi,"Action, Crime",6.9,Average,88,Avg. Length Film
+1960,The Grass Is Greener,"Comedy, Drama, Romance",6.5,Average,104,Avg. Length Film
+1960,The Great Impostor,"Comedy, Drama",7.0,Excellent,113,Avg. Length Film
+1960,The 3 Worlds of Gulliver,"Adventure, Family, Fantasy",6.5,Average,99,Avg. Length Film
+1960,Guns of the Timberland,"Adventure, Western",5.7,Average,91,Avg. Length Film
+1960,The Hand,"Crime, Drama, Horror",5.0,Average,61,Avg. Length Film
+1960,Hell Bent for Leather,Western,6.8,Average,82,Avg. Length Film
+1960,Hell Is a City,"Crime, Thriller",7.1,Excellent,98,Avg. Length Film
+1960,Hell to Eternity,"Biography, Drama, War",7.0,Excellent,131,No Data
+1960,Heller in Pink Tights,"Action, Comedy, Romance",6.0,Average,100,Avg. Length Film
+1960,Hideout in the Sun,"Crime, Drama",4.8,Average,70,Avg. Length Film
+1960,High School Caesar,Drama,5.2,Average,75,Avg. Length Film
+1960,High Time,"Comedy, Musical",6.2,Average,103,Avg. Length Film
+1960,Home from the Hill,"Drama, Romance",7.4,Excellent,150,No Data
+1960,House of Usher,"Drama, Horror",7.0,Excellent,79,Avg. Length Film
+1960,The Hypnotic Eye,Horror,5.8,Average,79,Avg. Length Film
+1960,I Passed for White,Drama,6.0,Average,93,Avg. Length Film
+1960,Ice Palace,"Adventure, Drama, History",6.4,Average,143,No Data
+1960,Im weissen Rössl,"Comedy, Musical, Romance",5.9,Average,103,Avg. Length Film
+1960,Inherit the Wind,"Biography, Drama, History",8.1,Excellent,128,No Data
+1960,Inn for Trouble,Comedy,6.0,Average,90,Avg. Length Film
+1960,The House in Marsh Road,"Horror, Thriller",6.0,Average,70,Avg. Length Film
+1960,It Started in Naples,"Comedy, Drama",6.4,Average,100,Avg. Length Film
+1960,The Challenge,"Crime, Drama, Thriller",6.2,Average,101,Avg. Length Film
+1960,Jazz Boat,"Comedy, Musical",5.6,Average,96,Avg. Length Film
+1960,Jis Desh Men Ganga Behti Hai,"Drama, Musical, Romance",7.4,Excellent,167,No Data
+1960,The Young One,Drama,7.4,Excellent,95,Avg. Length Film
+1960,Jungfrukällan,Drama,8.1,Excellent,89,Avg. Length Film
+1960,Kala Bazar,"Crime, Drama, Musical",7.4,Excellent,163,No Data
+1960,Kanoon,"Drama, Crime, Mystery",7.8,Excellent,150,No Data
+1960,Kawaita mizuumi,Drama,6.9,Average,89,Avg. Length Film
+1960,Kemono no nemuri,"Action, Crime",6.5,Average,86,Avg. Length Film
+1960,Key Witness,"Crime, Drama, Mystery",6.2,Average,82,Avg. Length Film
+1960,Kidnapped,"Action, Adventure, Drama",6.6,Average,97,Avg. Length Film
+1960,Kirmes,Drama,7.0,Excellent,102,Avg. Length Film
+1960,Kohinoor,"Action, Adventure, Comedy",6.6,Average,151,No Data
+1960,Komisario Palmun erehdys,"Comedy, Crime, Mystery",7.9,Excellent,109,Avg. Length Film
+1960,Krotkaya,Drama,6.7,Average,72,Avg. Length Film
+1960,Krzyzacy,"Adventure, Drama, History",6.8,Average,166,No Data
+1960,The Last Voyage,"Action, Adventure, Drama",6.6,Average,91,Avg. Length Film
+1960,Last Woman on Earth,"Drama, Horror, Mystery",4.8,Average,71,Avg. Length Film
+1960,The Leech Woman,"Horror, Romance, Sci-Fi",4.5,Average,77,Avg. Length Film
+1960,Let No Man Write My Epitaph,Drama,7.0,Excellent,105,Avg. Length Film
+1960,Let's Make Love,"Comedy, Musical, Romance",6.5,Average,119,Avg. Length Film
+1960,Letto a tre piazze,Comedy,7.1,Excellent,100,Avg. Length Film
+1960,Der letzte Fussgänger,"Comedy, Musical",5.9,Average,87,Avg. Length Film
+1960,Light Up the Sky!,"Comedy, Romance, War",6.4,Average,90,Avg. Length Film
+1960,The Little Shop of Horrors,"Comedy, Horror",6.3,Average,72,Avg. Length Film
+1960,Liu san jie,Musical,6.9,Average,117,Avg. Length Film
+1960,The Lost World,"Adventure, Fantasy, Sci-Fi",5.5,Average,97,Avg. Length Film
+1960,La lunga notte del '43,"Drama, Romance, War",7.3,Excellent,105,Avg. Length Film
+1960,Légy jó mindhalálig,Drama,6.9,Average,95,Avg. Length Film
+1960,Ma Barker's Killer Brood,"Crime, Drama, Thriller",5.5,Average,89,Avg. Length Film
+1960,Macario,"Drama, Fantasy, Mystery",8.3,Excellent,91,Avg. Length Film
+1960,Maciste nella valle dei Re,"Action, Adventure, Drama",5.3,Average,94,Avg. Length Film
+1960,The Magnificent Seven,"Action, Adventure, Western",7.7,Excellent,128,No Data
+1960,Make Mine Mink,Comedy,7.1,Excellent,101,Avg. Length Film
+1960,"Makkers, staakt uw wild geraas","Comedy, Drama",6.6,Average,97,Avg. Length Film
+1960,Man on a String,"Action, Crime, Drama",6.1,Average,92,Avg. Length Film
+1960,Mariya-iskusnitsa,"Family, Fantasy",7.2,Excellent,98,Avg. Length Film
+1960,La maschera del demonio,Horror,7.2,Excellent,87,Avg. Length Film
+1960,Il mattatore,Comedy,7.2,Excellent,103,Avg. Length Film
+1960,The Cloud-Capped Star,"Drama, Musical",7.9,Excellent,126,No Data
+1960,Mein Schulfreund,"Drama, Comedy",7.1,Excellent,94,Avg. Length Film
+1960,Mi último tango,Drama,5.9,Average,122,No Data
+1960,Midnight Lace,"Drama, Mystery, Thriller",6.8,Average,103,Avg. Length Film
+1960,The Millionairess,"Comedy, Drama, Romance",5.5,Average,90,Avg. Length Film
+1960,Moderato cantabile,Drama,6.8,Average,91,Avg. Length Film
+1960,The Mountain Road,"Drama, War",6.3,Average,102,Avg. Length Film
+1960,Mughal-E-Azam,"Drama, Romance, War",8.3,Excellent,197,No Data
+1960,Il mulino delle donne di pietra,"Horror, Sci-Fi",6.6,Average,96,Avg. Length Film
+1960,"Murder, Inc.","Biography, Crime, Drama",6.6,Average,103,Avg. Length Film
+1960,Musume tsuma haha,Drama,7.1,Excellent,123,No Data
+1960,Never Let Go,"Crime, Drama, Thriller",7.1,Excellent,90,Avg. Length Film
+1960,Never Take Sweets from a Stranger,"Drama, Horror, Mystery",7.3,Excellent,91,Avg. Length Film
+1960,Niewinni czarodzieje,"Drama, Music, Romance",7.4,Excellent,87,Avg. Length Film
+1960,A Terrible Beauty,"War, Drama, Action",6.0,Average,90,Avg. Length Film
+1960,Nihon no yoru to kiri,Drama,6.9,Average,107,Avg. Length Film
+1960,Nikt nie wola,"Drama, Romance, War",6.8,Average,86,Avg. Length Film
+1960,Noose for a Gunman,Western,5.5,Average,69,Avg. Length Film
+1960,North to Alaska,"Comedy, Romance, Western",7.0,Excellent,122,No Data
+1960,Ocean's Eleven,"Comedy, Crime, Music",6.6,Average,127,No Data
+1960,Oklahoma Territory,Western,6.0,Average,67,Avg. Length Film
+1960,"Once More, with Feeling!","Comedy, Drama, Romance",6.2,Average,92,Avg. Length Film
+1960,One Foot in Hell,Western,6.2,Average,90,Avg. Length Film
+1960,Onna ga kaidan wo agaru toki,Drama,8.1,Excellent,111,Avg. Length Film
+1960,Otôto,Drama,6.9,Average,98,Avg. Length Film
+1960,Le passage du Rhin,Drama,6.6,Average,125,No Data
+1960,Pay or Die!,"Biography, Crime, Drama",6.9,Average,111,Avg. Length Film
+1960,Peeping Tom,"Drama, Horror, Thriller",7.7,Excellent,101,Avg. Length Film
+1960,Pekka ja Pätkä neekereinä,Comedy,5.4,Average,77,Avg. Length Film
+1960,Pepe,"Comedy, Musical",5.6,Average,180,No Data
+1960,Piccadilly Third Stop,"Crime, Drama",6.3,Average,90,Avg. Length Film
+1960,Please Don't Eat the Daisies,"Comedy, Family, Romance",6.5,Average,112,Avg. Length Film
+1960,Plein soleil,"Crime, Drama, Thriller",7.8,Excellent,118,Avg. Length Film
+1960,The Plunderers,Western,6.6,Average,94,Avg. Length Film
+1960,Pollyanna,"Comedy, Drama, Family",7.4,Excellent,134,No Data
+1960,Portrait in Black,"Crime, Drama, Mystery",6.5,Average,112,Avg. Length Film
+1960,Pote tin Kyriaki,"Comedy, Drama, Romance",7.3,Excellent,91,Avg. Length Film
+1960,Private Property,"Crime, Drama",6.8,Average,79,Avg. Length Film
+1960,Prostaya istoriya,"Drama, Romance",7.2,Excellent,90,Avg. Length Film
+1960,Psycho,"Horror, Mystery, Thriller",8.5,Excellent,109,Avg. Length Film
+1960,Rat,"Comedy, Drama",6.1,Average,84,Avg. Length Film
+1960,The Rat Race,"Comedy, Drama, Romance",6.7,Average,105,Avg. Length Film
+1960,Un rayo de luz,"Comedy, Musical",5.2,Average,110,Avg. Length Film
+1960,La regina delle Amazzoni,"Adventure, Fantasy",3.6,Average,98,Avg. Length Film
+1960,Risate di gioia,"Comedy, Drama",7.3,Excellent,106,Avg. Length Film
+1960,The Rise and Fall of Legs Diamond,"Crime, History",6.8,Average,101,Avg. Length Film
+1960,Robin Hood e i pirati,"Action, Adventure, Drama",3.4,Average,88,Avg. Length Film
+1960,Rocco e i suoi fratelli,"Crime, Drama, Sport",8.3,Excellent,177,No Data
+1960,"Romeo, Julie a tma","Drama, Romance, War",7.5,Excellent,92,Avg. Length Film
+1960,Il rossetto,"Crime, Drama",6.8,Average,93,Avg. Length Film
+1960,Der Rächer,"Crime, Horror, Mystery",5.8,Average,99,Avg. Length Film
+1960,Saffo - Venere di Lesbo,"Adventure, Drama, Romance",5.3,Average,105,Avg. Length Film
+1960,Saiyûki,"Animation, Adventure, Fami",6.0,Average,88,Avg. Length Film
+1960,Sands of the Desert,Comedy,4.9,Average,92,Avg. Length Film
+1960,Saturday Night and Sunday Morning,"Drama, Romance",7.6,Excellent,89,Avg. Length Film
+1960,The Savage Eye,Drama,6.9,Average,68,Avg. Length Film
+1960,Scent of Mystery,Mystery,5.7,Average,125,No Data
+1960,Schachnovelle,"Drama, War",6.9,Average,103,Avg. Length Film
+1960,School for Scoundrels,Comedy,7.4,Excellent,94,Avg. Length Film
+1960,Das schwarze Schaf,"Comedy, Crime",6.8,Average,90,Avg. Length Film
+1960,"Seddok, l'erede di Satana","Horror, Sci-Fi",3.8,Average,107,Avg. Length Film
+1960,Seishun zankoku monogatari,"Crime, Drama",7.0,Excellent,96,Avg. Length Film
+1960,Il sepolcro dei re,"Adventure, Drama, Romance",4.8,Average,109,Avg. Length Film
+1960,September Storm,Drama,5.1,Average,99,Avg. Length Film
+1960,Sergeant Rutledge,"Crime, Western",7.4,Excellent,111,Avg. Length Film
+1960,Seryozha,Drama,7.8,Excellent,80,Avg. Length Film
+1960,Seven Thieves,"Crime, Drama",6.5,Average,102,Avg. Length Film
+1960,Seven Ways from Sundown,"Action, Adventure, Drama",6.9,Average,87,Avg. Length Film
+1960,Sex Kittens Go to College,Comedy,3.8,Average,94,Avg. Length Film
+1960,Signori si nasce,Comedy,7.2,Excellent,95,Avg. Length Film
+1960,Sink the Bismarck !,"Action, Drama, History",7.1,Excellent,97,Avg. Length Film
+1960,Det skete på Møllegården,Family,5.8,Average,108,Avg. Length Film
+1960,Ski Troop Attack,"Action, War",3.3,Average,63,Avg. Length Film
+1960,La sombra del Caudillo,"Drama, History, Romance",7.6,Excellent,129,No Data
+1960,Song Without End,"Biography, Drama, Music",5.9,Average,141,No Data
+1960,'Jûsangô taihisen' yori: Sono gosôsha o nerae,"Action, Crime, Mystery",6.7,Average,79,Avg. Length Film
+1960,Sons and Lovers,Drama,7.1,Excellent,103,Avg. Length Film
+1960,Sotto dieci bandiere,"Drama, War",6.6,Average,88,Avg. Length Film
+1960,Space Men,Sci-Fi,3.5,Average,73,Avg. Length Film
+1960,Spartacus,"Adventure, Biography, Dram",7.9,Excellent,197,No Data
+1960,Ein Toter hing im Netz,Horror,2.5,Poor,89,Avg. Length Film
+1960,Das Spukschloß im Spessart,"Comedy, Fantasy, Musical",6.2,Average,101,Avg. Length Film
+1960,The Story of Ruth,"Drama, History, Romance",6.7,Average,132,No Data
+1960,Strangers When We Meet,"Drama, Romance",7.1,Excellent,117,Avg. Length Film
+1960,Studs Lonigan,Drama,5.1,Average,95,Avg. Length Film
+1960,Subete ga kurutteru,"Action, Crime",7.0,Excellent,71,Avg. Length Film
+1960,The Subterraneans,Drama,5.1,Average,89,Avg. Length Film
+1960,The Sundowners,"Drama, Adventure",7.1,Excellent,133,No Data
+1960,Sunrise at Campobello,"Biography, Drama",7.0,Excellent,144,No Data
+1960,Surprise Package,Comedy,5.7,Average,100,Avg. Length Film
+1960,Swiss Family Robinson,"Adventure, Family",7.2,Excellent,126,No Data
+1960,Sword of Sherwood Forest,"Adventure, Drama, History",6.0,Average,80,Avg. Length Film
+1960,Szatan z siódmej klasy,"Adventure, Mystery",6.7,Average,105,Avg. Length Film
+1960,Sømand i knibe,Family,5.7,Average,104,Avg. Length Film
+1960,Taiyô no hakaba,"Action, Crime",7.1,Excellent,87,Avg. Length Film
+1960,Tall Story,"Comedy, Sport",6.0,Average,91,Avg. Length Film
+1960,Tarzan the Magnificent,"Action, Adventure",6.7,Average,82,Avg. Length Film
+1960,Die 1000 Augen des Dr. Mabuse,"Crime, Mystery, Thriller",7.0,Excellent,103,Avg. Length Film
+1960,Ten Who Dared,"Adventure, Family, Western",5.8,Average,92,Avg. Length Film
+1960,Terrain vague,Drama,6.9,Average,100,Avg. Length Film
+1960,"Le testament d'Orphée, ou ne me demandez pas pourqu",Biography,7.3,Excellent,77,Avg. Length Film
+1960,There Was a Crooked Man,Comedy,6.7,Average,107,Avg. Length Film
+1960,The 3rd Voice,"Crime, Drama, Thriller",6.8,Average,79,Avg. Length Film
+1960,Thunder in Carolina,"Action, Drama, Sport",2.6,Poor,92,Avg. Length Film
+1960,The Time Machine,"Adventure, Romance, Sci-Fi",7.6,Excellent,103,Avg. Length Film
+1960,Tirez sur le pianiste,"Crime, Drama, Thriller",7.5,Excellent,81,Avg. Length Film
+1960,Toby Tyler or Ten Weeks with a Circus,"Drama, Family",7.0,Excellent,96,Avg. Length Film
+1960,Too Soon to Love,"Drama, Romance",5.1,Average,85,Avg. Length Film
+1960,Tormented,"Horror, Thriller",4.5,Average,75,Avg. Length Film
+1960,"Totò, Fabrizi e i giovani d'oggi","Comedy, Romance",6.9,Average,96,Avg. Length Film
+1960,The Trials of Oscar Wilde,"Biography, Drama, History",7.1,Excellent,123,No Data
+1960,Le trou,"Crime, Drama, Thriller",8.6,Excellent,131,No Data
+1960,Tunes of Glory,Drama,7.5,Excellent,107,Avg. Length Film
+1960,Tutti a casa,"Comedy, Drama, War",7.7,Excellent,122,No Data
+1960,12 to the Moon,Sci-Fi,3.1,Average,74,Avg. Length Film
+1960,The Two Faces of Dr. Jekyll,Horror,6.3,Average,88,Avg. Length Film
+1960,Two Way Stretch,"Comedy, Crime",6.9,Average,78,Avg. Length Film
+1960,The Unforgiven,"Drama, Romance, Western",6.7,Average,125,No Data
+1960,La vendetta di Ercole,"Action, Adventure, Fantasy",5.3,Average,87,Avg. Length Film
+1960,Les vieux de la vieille,Comedy,6.8,Average,90,Avg. Length Film
+1960,Il vigile,Comedy,7.3,Excellent,104,Avg. Length Film
+1960,Village of the Damned,"Horror, Sci-Fi",7.3,Excellent,77,Avg. Length Film
+1960,Visit to a Small Planet,"Comedy, Sci-Fi",6.0,Average,85,Avg. Length Film
+1960,Vyssí princip,"Drama, War",8.3,Excellent,104,Avg. Length Film
+1960,La vérité,Drama,7.6,Excellent,130,No Data
+1960,The Wackiest Ship in the Army,"Comedy, Drama, War",6.3,Average,99,Avg. Length Film
+1960,Wake Me When It's Over,Comedy,6.5,Average,126,No Data
+1960,Walk Like a Dragon,"Action, Romance, Western",7.0,Excellent,95,Avg. Length Film
+1960,Warui yatsu hodo yoku nemuru,"Crime, Drama, Thriller",8.1,Excellent,151,No Data
+1960,Watch Your Stern,Comedy,5.8,Average,90,Avg. Length Film
+1960,Where the Boys Are,"Comedy, Drama, Romance",6.7,Average,99,Avg. Length Film
+1960,Who Was That Lady?,"Comedy, Romance",6.8,Average,115,Avg. Length Film
+1960,The Wild Ride,"Crime, Drama",4.4,Average,61,Avg. Length Film
+1960,Wild River,"Drama, History, Romance",7.6,Excellent,110,Avg. Length Film
+1960,Wir Kellerkinder,"Comedy, Drama, War",7.2,Excellent,86,Avg. Length Film
+1960,The Wizard of Baghdad,Comedy,5.0,Average,92,Avg. Length Film
+1960,The World of Suzie Wong,"Drama, Romance",7.1,Excellent,126,No Data
+1960,Zazie dans le métro,"Comedy, Fantasy",7.0,Excellent,93,Avg. Length Film
+1960,Zezowate szczescie,Comedy,7.6,Excellent,92,Avg. Length Film
+1960,Babes in Toyland,"Comedy, Family, Fantasy",6.3,Average,106,Avg. Length Film
+1960,Candide ou l'optimisme au XXe siècle,Comedy,5.9,Average,88,Avg. Length Film
+1960,Cartagine in fiamme,"Drama, Action, Adventure",5.2,Average,110,Avg. Length Film
+1960,La ciociara,"Drama, War",7.8,Excellent,101,Avg. Length Film
+1960,Circle of Deception,"Drama, Romance, War",6.6,Average,100,Avg. Length Film
+1960,Cone of Silence,"Drama, Thriller",6.5,Average,88,Avg. Length Film
+1960,David e Golia,"Action, Drama, Family",4.9,Average,113,Avg. Length Film
+1960,The Devil at 4 O'Clock,"Adventure, Drama, Thriller",6.4,Average,126,No Data
+1960,Five Guns to Tombstone,"Action, Crime, Romance",5.0,Average,71,Avg. Length Film
+1960,Foxhole in Cairo,"War, Drama",5.7,Average,80,Avg. Length Film
+1960,The Full Treatment,"Drama, Horror, Mystery",6.0,Average,120,No Data
+1960,The Hands of Orlac,"Crime, Horror, Sci-Fi",5.8,Average,95,Avg. Length Film
+1960,Madalena,"Comedy, Drama, Musical",6.6,Average,91,Avg. Length Film
+1960,Man in the Moon,"Comedy, Romance",6.1,Average,98,Avg. Length Film
+1960,Messalina Venere imperatrice,Drama,6.1,Average,96,Avg. Length Film
+1960,Morgan il pirata,Adventure,5.8,Average,95,Avg. Length Film
+1960,The Pure Hell of St. Trinian's,Comedy,6.2,Average,94,Avg. Length Film
+1960,La rivolta degli schiavi,Adventure,5.5,Average,100,Avg. Length Film
+1960,The Sinister Urge,"Crime, Drama, Thriller",2.6,Poor,71,Avg. Length Film
+1960,Hawai Middowei daikaikûsen: Taiheiyô no arashi,"Drama, History, War",6.4,Average,118,Avg. Length Film
+1960,Teseo contro il minotauro,"Adventure, Fantasy",5.0,Average,105,Avg. Length Film
+1960,Beat Girl,Drama,6.0,Average,89,Avg. Length Film
+1960,For Members Only,Drama,5.5,Average,90,Avg. Length Film
+1960,Los golfos,"Crime, Drama",6.6,Average,80,Avg. Length Film
+1960,Hadaka no shima,Drama,8.2,Excellent,96,Avg. Length Film
+1960,The Tell-Tale Heart,Horror,5.8,Average,78,Avg. Length Film
+1960,L'ultima preda del vampiro,Horror,5.1,Average,83,Avg. Length Film
+1960,Le voyage en ballon,"Adventure, Family",6.3,Average,85,Avg. Length Film
+1960,Kyônetsu no kisetsu,"Action, Crime",7.0,Excellent,75,Avg. Length Film
+1960,Soldaterkammerater på vagt,Comedy,6.0,Average,100,Avg. Length Film
+1960,Ching nu yu hun,"Drama, Horror, Romance",6.6,Average,83,Avg. Length Film
+1960,Fortunat,"Comedy, Drama, War",7.0,Excellent,121,No Data
+1960,To koroidaki tis despoinidos,"Comedy, Romance",7.0,Excellent,67,Avg. Length Film
+1960,Anuradha,Drama,6.6,Average,141,No Data
+1960,Karakkaze yarô,"Action, Crime",6.5,Average,96,Avg. Length Film
+1960,Normandie - Niémen,"Drama, War",6.5,Average,120,No Data
+1960,Hanyo,"Crime, Drama, Thriller",7.3,Excellent,109,Avg. Length Film
+1960,Priklyucheniya Buratino,"Family, Adventure, Animati",7.4,Excellent,68,Avg. Length Film
+1960,Jigoku,"Drama, Horror",6.8,Average,101,Avg. Length Film
+1960,Kalathur Kannamma,"Drama, Romance",6.9,Average,176,No Data
+1960,Faust,"Drama, Fantasy",7.2,Excellent,128,No Data
+1960,And the Same to You,Comedy,5.3,Average,70,Avg. Length Film
+1960,Tire-au-flanc 62,Comedy,5.2,Average,87,Avg. Length Film
+1960,Battle of Blood Island,"Drama, War",4.8,Average,64,Avg. Length Film
+1960,Kapetan Lesi,"Drama, War",6.8,Average,108,Avg. Length Film
+1960,Stop! Look! and Laugh!,Comedy,5.8,Average,78,Avg. Length Film
+1960,Holubice,Drama,7.4,Excellent,76,Avg. Length Film
+1960,Ljubav i moda,"Comedy, Musical, Romance",7.1,Excellent,105,Avg. Length Film
+1960,Ta kitrina gantia,Comedy,7.7,Excellent,84,Avg. Length Film
+1960,To Klotsoskoufi,"Romance, Comedy",5.4,Average,88,Avg. Length Film
+1960,Zajednicki stan,Comedy,7.4,Excellent,102,Avg. Length Film
+1960,I Hionati kai ta 7 gerontopallikara,"Comedy, Romance",6.1,Average,101,Avg. Length Film
+1960,"Dge ukanaskneli, dge pirveli","Drama, Romance",6.9,Average,84,Avg. Length Film
+1960,Yôtô monogatari: hana no Yoshiwara hyakunin-giri,"Action, Fantasy",7.5,Excellent,109,Avg. Length Film
+1960,Eglima sta paraskinia,"Crime, Mystery",7.1,Excellent,83,Avg. Length Film
+1960,Makrykostaioi kai Kondogiorgides,Comedy,7.6,Excellent,83,Avg. Length Film
+1960,Ye mei gui zhi lian,Musical,7.1,Excellent,128,No Data
+1960,Daibosatsu toge: Ryujin no maki,"Drama, Action",6.6,Average,90,Avg. Length Film
+1960,Shiranui kengyô,Drama,7.0,Excellent,91,Avg. Length Film
+1960,Kaibyô Otama-ga-ike,Horror,6.3,Average,75,Avg. Length Film
+1960,I kyria dimarhos,Comedy,6.3,Average,75,Avg. Length Film
+1960,Randevou stin Kerkyra,"Comedy, Romance",5.7,Average,85,Avg. Length Film
+1960,Gecelerin ötesi,"Crime, Drama",7.1,Excellent,112,Avg. Length Film
+1960,The Spider's Web,Mystery,6.1,Average,88,Avg. Length Film
+1960,Hitar Petar,Comedy,7.3,Excellent,101,Avg. Length Film
+1960,Bayn el samaa wa el ard,"Comedy, Drama, Thriller",7.1,Excellent,85,Avg. Length Film
+1960,Donald Duck and his Companions,"Family, Animation, Comedy",6.9,Average,80,Avg. Length Film
+1960,Daibosatsu tôge,"Action, Drama",6.8,Average,106,Avg. Length Film
+1960,Aru kyôhaku,"Action, Crime",7.2,Excellent,65,Avg. Length Film

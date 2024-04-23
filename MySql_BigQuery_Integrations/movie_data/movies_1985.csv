@@ -1,0 +1,690 @@
+year,title,genre,avg_vote,movie_category,duration,length_category
+1985,UFOria,"Comedy, Sci-Fi",6.4,Average,93,Avg. Length Film
+1985,Meri Jung,Drama,7.3,Excellent,164,No Data
+1985,Moy drug Ivan Lapshin,Drama,7.7,Excellent,100,Avg. Length Film
+1985,La ciudad y los perros,Drama,7.4,Excellent,135,No Data
+1985,Di zi ye feng kuang,"Action, Comedy",5.7,Average,93,Avg. Length Film
+1985,De leeuw van Vlaanderen,"War, Drama",5.8,Average,90,Avg. Length Film
+1985,"7, Hyden Park: la casa maledetta","Horror, Mystery, Thriller",5.7,Average,96,Avg. Length Film
+1985,Sogni erotici di Cleopatra,Romance,4.1,Average,86,Avg. Length Film
+1985,Sotto il vestito niente,"Mystery, Thriller",5.6,Average,93,Avg. Length Film
+1985,Walking the Edge,"Action, Crime, Drama",6.0,Average,93,Avg. Length Film
+1985,L'alcova,"Drama, Romance",4.8,Average,86,Avg. Length Film
+1985,Almost You,"Comedy, Drama",5.1,Average,96,Avg. Length Film
+1985,L'attenzione,"Drama, Romance",4.2,Average,87,Avg. Length Film
+1985,Bez konca,"Drama, Romance",7.5,Excellent,107,Avg. Length Film
+1985,Biohazard,"Horror, Sci-Fi",3.2,Average,84,Avg. Length Film
+1985,Der Bulle & das Mädchen,"Action, Romance, Thriller",5.8,Average,89,Avg. Length Film
+1985,Calamari Union,Comedy,7.1,Excellent,81,Avg. Length Film
+1985,"Co je vám, doktore?","Comedy, Drama",7.0,Excellent,79,Avg. Length Film
+1985,Daheim sterben die Leut',Comedy,6.0,Average,109,Avg. Length Film
+1985,DEFCON-4,"Action, Sci-Fi",4.5,Average,88,Avg. Length Film
+1985,Delivery Boys,"Comedy, Sport",3.6,Average,91,Avg. Length Film
+1985,Didi und die Rache der Enterbten,Comedy,6.5,Average,91,Avg. Length Film
+1985,Dim Sum: A Little Bit of Heart,Comedy,6.4,Average,88,Avg. Length Film
+1985,Les enfants,Comedy,6.8,Average,84,Avg. Length Film
+1985,The Falcon and the Snowman,"Biography, Crime, Drama",6.8,Average,131,No Data
+1985,Final Justice,"Action, Crime, Drama",2.1,Poor,90,Avg. Length Film
+1985,Godzilla 1985,"Action, Horror, Sci-Fi",6.2,Average,82,Avg. Length Film
+1985,"Gwen, le livre de sable","Animation, Adventure, Fant",6.7,Average,67,Avg. Length Film
+1985,Holi,"Comedy, Drama",7.6,Excellent,120,No Data
+1985,Impiegati,"Comedy, Drama",6.7,Average,98,Avg. Length Film
+1985,Jak básníci pricházejí o iluze,Comedy,7.1,Excellent,98,Avg. Length Film
+1985,Ambavi Suramis tsikhitsa,Drama,7.5,Excellent,88,Avg. Length Film
+1985,La leggenda del rubino malese,"Action, Adventure",4.8,Average,95,Avg. Length Film
+1985,Lyubov i golubi,"Comedy, Romance",8.1,Excellent,107,Avg. Length Film
+1985,Lui è peggio di me,Comedy,6.2,Average,108,Avg. Length Film
+1985,Macho Man,"Action, Crime",4.2,Average,85,Avg. Length Film
+1985,Martin's Day,Drama,6.0,Average,98,Avg. Length Film
+1985,S certy nejsou zerty,"Adventure, Comedy, Family",8.3,Excellent,95,Avg. Length Film
+1985,Night Train to Terror,Horror,4.2,Average,98,Avg. Length Film
+1985,Padre nuestro,Drama,6.6,Average,105,Avg. Length Film
+1985,Paradise Motel,Comedy,5.4,Average,89,Avg. Length Film
+1985,"Partir, revenir",Drama,6.2,Average,114,Avg. Length Film
+1985,Phenomena,"Horror, Mystery",6.8,Average,116,Avg. Length Film
+1985,Prime Risk,"Crime, Drama, Thriller",5.8,Average,98,Avg. Length Film
+1985,Pyar Jhukta Nahin,"Family, Romance",6.3,Average,135,No Data
+1985,Rozpustený a vypustený,"Comedy, Crime",7.8,Excellent,85,Avg. Length Film
+1985,Rumburak,"Comedy, Family, Fantasy",6.2,Average,90,Avg. Length Film
+1985,Der Schneemann,"Adventure, Comedy, Crime",5.7,Average,106,Avg. Length Film
+1985,Screamplay,"Comedy, Horror, Mystery",6.4,Average,92,Avg. Length Film
+1985,Serpiente de mar,"Adventure, Horror",3.7,Average,92,Avg. Length Film
+1985,She'll Be Wearing Pink Pyjamas,Comedy,5.4,Average,86,Avg. Length Film
+1985,The Shooting Party,"Drama, Romance",6.9,Average,98,Avg. Length Film
+1985,The Silent One,"Adventure, Drama, Family",6.6,Average,95,Avg. Length Film
+1985,Les spécialistes,"Adventure, Crime",6.5,Average,94,Avg. Length Film
+1985,Streetwalkin',"Action, Drama, Thriller",5.9,Average,86,Avg. Length Film
+1985,Taifû kurabu,"Drama, Romance",7.1,Excellent,115,Avg. Length Film
+1985,La vie de famille,Drama,6.9,Average,95,Avg. Length Film
+1985,Vivre pour survivre,"Action, Drama, Thriller",4.4,Average,101,Avg. Length Film
+1985,Adieu Bonaparte,"Drama, History, War",6.5,Average,115,Avg. Length Film
+1985,Wheels of Fire,"Action, Adventure, Sci-Fi",4.6,Average,81,Avg. Length Film
+1985,À nous les garçons,Comedy,4.4,Average,102,Avg. Length Film
+1985,1918,Drama,6.2,Average,94,Avg. Length Film
+1985,The Adventures of Mark Twain,"Animation, Adventure, Fami",7.4,Excellent,86,Avg. Length Film
+1985,After Darkness,"Drama, Horror, Thriller",4.8,Average,104,Avg. Length Film
+1985,After Hours,"Comedy, Crime, Drama",7.7,Excellent,97,Avg. Length Film
+1985,Agnes of God,"Drama, Mystery",6.6,Average,98,Avg. Length Film
+1985,Aitbaar,"Thriller, Action",7.0,Excellent,133,No Data
+1985,Alamo Bay,"Action, Drama, Romance",6.0,Average,98,Avg. Length Film
+1985,Always,"Drama, Romance",5.3,Average,105,Avg. Length Film
+1985,American Commandos,Action,2.8,Poor,88,Avg. Length Film
+1985,American Drive-In,Comedy,4.7,Average,92,Avg. Length Film
+1985,American Flyers,"Drama, Sport",6.4,Average,113,Avg. Length Film
+1985,American Ninja,"Action, Adventure, Romance",5.5,Average,95,Avg. Length Film
+1985,Amici miei - Atto III°,Comedy,6.3,Average,110,Avg. Length Film
+1985,L'amour braque,"Comedy, Drama, Romance",6.3,Average,101,Avg. Length Film
+1985,L'amour en douce,Comedy,5.8,Average,100,Avg. Length Film
+1985,The Angelic Conversation,Drama,6.1,Average,77,Avg. Length Film
+1985,Der Angriff der Gegenwart auf die übrige Zeit,Drama,6.8,Average,113,Avg. Length Film
+1985,The Annihilators,"Action, Crime, Drama",5.0,Average,84,Avg. Length Film
+1985,The Assam Garden,Drama,6.8,Average,92,Avg. Length Film
+1985,The Assisi Underground,"Drama, History, War",6.0,Average,115,Avg. Length Film
+1985,Astérix et la surprise de César,"Animation, Adventure, Come",6.8,Average,79,Avg. Length Film
+1985,Attack of the Beast Creatures,Horror,4.2,Average,82,Avg. Length Film
+1985,Avenging Angel,"Action, Crime, Thriller",4.8,Average,93,Avg. Length Film
+1985,The Aviator,"Adventure, Drama",5.5,Average,96,Avg. Length Film
+1985,Baby: Secret of the Lost Legend,"Family, Adventure, Sci-Fi",5.1,Average,95,Avg. Length Film
+1985,Back to the Future,"Adventure, Comedy, Sci-Fi",8.5,Excellent,116,Avg. Length Film
+1985,Bad Medicine,Comedy,4.6,Average,98,Avg. Length Film
+1985,Rouge baiser,"Drama, Romance",6.6,Average,112,Avg. Length Film
+1985,Barbarian Queen,"Adventure, Fantasy",4.1,Average,72,Avg. Length Film
+1985,Basic Training,Comedy,4.3,Average,88,Avg. Length Film
+1985,Beer,Comedy,5.3,Average,82,Avg. Length Film
+1985,The Berlin Affair,Drama,5.5,Average,121,No Data
+1985,Better Off Dead...,"Comedy, Romance",7.1,Excellent,97,Avg. Length Film
+1985,The Big Bet,"Comedy, Romance",4.9,Average,90,Avg. Length Film
+1985,Bir avuç cennet,Drama,6.5,Average,97,Avg. Length Film
+1985,Biruma no tategoto,"Drama, War",6.2,Average,133,No Data
+1985,Bittere Ernte,"Drama, Romance, War",7.1,Excellent,105,Avg. Length Film
+1985,Het bittere kruid,"Biography, Drama, War",5.9,Average,89,Avg. Length Film
+1985,The Black Cauldron,"Animation, Action, Adventu",6.4,Average,80,Avg. Length Film
+1985,Blackout,"Crime, Drama, Horror",6.1,Average,100,Avg. Length Film
+1985,Bliss,"Comedy, Drama",6.8,Average,112,Avg. Length Film
+1985,Blood Tracks,"Horror, Thriller",4.1,Average,81,Avg. Length Film
+1985,The Blue Man,Horror,3.5,Average,85,Avg. Length Film
+1985,Brazil,"Drama, Sci-Fi",7.9,Excellent,132,No Data
+1985,The Breakfast Club,"Comedy, Drama",7.9,Excellent,97,Avg. Length Film
+1985,Breaking All the Rules,"Comedy, Crime, Romance",5.6,Average,91,Avg. Length Film
+1985,Brennende blomster,"Drama, Romance",6.1,Average,84,Avg. Length Film
+1985,Brewster's Millions,Comedy,6.5,Average,102,Avg. Length Film
+1985,The Bride,"Fantasy, Horror, Romance",5.3,Average,118,Avg. Length Film
+1985,Buddies,Drama,7.0,Excellent,81,Avg. Length Film
+1985,Burke & Wills,"Adventure, Drama, History",6.3,Average,140,No Data
+1985,El caballero del dragón,"Adventure, Fantasy, Sci-Fi",4.1,Average,90,Avg. Length Film
+1985,La cage aux folles III: 'Elles' se marient,Comedy,4.7,Average,87,Avg. Length Film
+1985,Came a Hot Friday,Comedy,7.0,Excellent,101,Avg. Length Film
+1985,Cao inspektore,"Comedy, Crime",6.5,Average,90,Avg. Length Film
+1985,The Care Bears Movie,"Animation, Adventure, Come",5.6,Average,77,Avg. Length Film
+1985,Cat's Eye,"Comedy, Horror, Thriller",6.3,Average,94,Avg. Length Film
+1985,Cavegirl,"Comedy, Fantasy",3.7,Average,85,Avg. Length Film
+1985,Cease Fire,Drama,6.5,Average,97,Avg. Length Film
+1985,Certain Fury,"Action, Drama",5.3,Average,87,Avg. Length Film
+1985,A Chorus Line,"Drama, Music, Musical",6.2,Average,113,Avg. Length Film
+1985,Ciuleandra,Drama,7.8,Excellent,119,Avg. Length Film
+1985,Clue,"Comedy, Crime, Mystery",7.3,Excellent,94,Avg. Length Film
+1985,The Coca-Cola Kid,"Comedy, Drama",6.0,Average,98,Avg. Length Film
+1985,Cocoon,"Comedy, Drama, Sci-Fi",6.7,Average,117,Avg. Length Film
+1985,Code Name: Emerald,"Action, Drama, War",6.0,Average,95,Avg. Length Film
+1985,Code of Silence,"Action, Crime, Drama",6.1,Average,101,Avg. Length Film
+1985,The Color Purple,Drama,7.8,Excellent,154,No Data
+1985,Colpi di luce,"Action, Sci-Fi, Thriller",5.4,Average,86,Avg. Length Film
+1985,Commando,"Action, Adventure, Thrille",6.7,Average,90,Avg. Length Film
+1985,Compromising Positions,"Comedy, Drama, Mystery",5.9,Average,99,Avg. Length Film
+1985,La corte de Faraón,"Comedy, Musical",6.3,Average,98,Avg. Length Film
+1985,Creator,"Comedy, Romance, Sci-Fi",6.2,Average,107,Avg. Length Film
+1985,Creature,"Horror, Sci-Fi",4.3,Average,97,Avg. Length Film
+1985,Crime Wave,"Adventure, Comedy",6.8,Average,80,Avg. Length Film
+1985,Crimewave,"Comedy, Crime, Horror",5.7,Average,83,Avg. Length Film
+1985,Crossover Dreams,"Comedy, Drama, Musical",6.5,Average,86,Avg. Length Film
+1985,D.A.R.Y.L.,"Family, Sci-Fi",6.3,Average,99,Avg. Length Film
+1985,Da gung wong dai,"Comedy, Drama, Romance",6.2,Average,98,Avg. Length Film
+1985,Kamui no ken,"Animation, Action, Adventu",6.9,Average,132,No Data
+1985,La dame en couleurs,Drama,5.6,Average,112,Avg. Length Film
+1985,Dance with a Stranger,"Biography, Crime, Drama",6.7,Average,96,Avg. Length Film
+1985,Day of the Dead,"Horror, Thriller",7.2,Excellent,96,Avg. Length Film
+1985,Si yan zai,Drama,2.9,Poor,89,Avg. Length Film
+1985,Death Wish 3,"Action, Crime, Drama",5.9,Average,92,Avg. Length Film
+1985,Defence of the Realm,Thriller,6.5,Average,96,Avg. Length Film
+1985,Deilig er fjorden,Comedy,5.8,Average,102,Avg. Length Film
+1985,Dèmoni,Horror,6.7,Average,88,Avg. Length Film
+1985,Desert Hearts,"Drama, Romance",7.0,Excellent,91,Avg. Length Film
+1985,Desperately Seeking Susan,"Comedy, Drama",6.0,Average,104,Avg. Length Film
+1985,Pi li shi jie,"Action, Comedy",6.6,Average,90,Avg. Length Film
+1985,The Doctor and the Devils,"Crime, Drama, History",6.1,Average,93,Avg. Length Film
+1985,Doin' Time,Comedy,4.8,Average,81,Avg. Length Film
+1985,Don't Mess with My Sister!,"Action, Drama",3.6,Average,94,Avg. Length Film
+1985,Doña Herlinda y su hijo,"Comedy, Drama, Romance",6.8,Average,90,Avg. Length Film
+1985,De dream,"Drama, History",6.9,Average,96,Avg. Length Film
+1985,Dreamchild,"Biography, Comedy, Drama",6.9,Average,94,Avg. Length Film
+1985,Drôle de samedi,Comedy,7.0,Excellent,80,Avg. Length Film
+1985,Le due vite di Mattia Pascal,Comedy,6.9,Average,125,No Data
+1985,Dust,Drama,6.2,Average,88,Avg. Length Film
+1985,Déjà Vu,Drama,4.9,Average,90,Avg. Length Film
+1985,Détective,"Comedy, Crime, Drama",6.0,Average,95,Avg. Length Film
+1985,L'effrontée,"Comedy, Drama, Music",6.9,Average,96,Avg. Length Film
+1985,Die Einsteiger,Comedy,5.4,Average,100,Avg. Length Film
+1985,Eleni,"Drama, War",6.9,Average,114,Avg. Length Film
+1985,Elle a passé tant d'heures sous les sunlights...,"Drama, Fantasy",6.9,Average,130,No Data
+1985,Elvis Gratton: Le king des kings,"Comedy, Music",7.1,Excellent,89,Avg. Length Film
+1985,The Emerald Forest,"Action, Adventure, Drama",6.9,Average,114,Avg. Length Film
+1985,Enemy Mine,"Action, Adventure, Drama",6.9,Average,108,Avg. Length Film
+1985,Escalier C,"Comedy, Drama",6.4,Average,102,Avg. Length Film
+1985,Esperando la carroza,Comedy,8.2,Excellent,94,Avg. Length Film
+1985,Evils of the Night,"Horror, Sci-Fi",3.5,Average,84,Avg. Length Film
+1985,Explorers,"Adventure, Comedy, Family",6.6,Average,109,Avg. Length Film
+1985,Extramuros,"Drama, Romance",6.1,Average,118,Avg. Length Film
+1985,Falsk som vatten,"Drama, Thriller",6.3,Average,102,Avg. Length Film
+1985,Fandango,"Comedy, Drama",6.8,Average,91,Avg. Length Film
+1985,Fast Forward,"Drama, Musical",5.8,Average,110,Avg. Length Film
+1985,Festa di laurea,"Comedy, Drama, Romance",7.1,Excellent,94,Avg. Length Film
+1985,Fever Pitch,Drama,4.1,Average,96,Avg. Length Film
+1985,Flesh+Blood,"Adventure, Drama",6.7,Average,126,No Data
+1985,Flesh and Bullets,Crime,4.0,Average,84,Avg. Length Film
+1985,Fletch,"Comedy, Crime, Mystery",6.9,Average,98,Avg. Length Film
+1985,Fool for Love,Drama,6.1,Average,106,Avg. Length Film
+1985,Der Formel Eins Film,"Comedy, Music",4.8,Average,97,Avg. Length Film
+1985,Scemo di guerra,Comedy,5.8,Average,108,Avg. Length Film
+1985,Fraternity Vacation,Comedy,5.2,Average,94,Avg. Length Film
+1985,Die Frau und der Fremde,"Drama, History",7.1,Excellent,98,Avg. Length Film
+1985,Friday the 13th: A New Beginning,"Horror, Mystery, Thriller",4.8,Average,92,Avg. Length Film
+1985,Fright Night,"Horror, Thriller",7.1,Excellent,106,Avg. Length Film
+1985,Fuk sing go jiu,"Action, Comedy, Crime",6.5,Average,96,Avg. Length Film
+1985,Future-Kill,"Adventure, Comedy, Horror",4.0,Average,89,Avg. Length Film
+1985,Geraftaar,"Action, Drama",6.1,Average,167,No Data
+1985,Get Out of My Room,"Comedy, Music",4.7,Average,53,Short Film
+1985,Ghulami,Action,7.2,Excellent,199,No Data
+1985,The Gig,Drama,6.9,Average,92,Avg. Length Film
+1985,Ginga-tetsudô no yoru,"Animation, Adventure, Dram",7.2,Excellent,113,Avg. Length Film
+1985,Girls Just Want to Have Fun,"Comedy, Music, Romance",6.0,Average,90,Avg. Length Film
+1985,"Goodbye, New York","Comedy, Drama, Romance",5.1,Average,90,Avg. Length Film
+1985,The Goonies,"Adventure, Comedy, Family",7.8,Excellent,114,Avg. Length Film
+1985,Gotcha!,"Action, Comedy, Mystery",6.2,Average,101,Avg. Length Film
+1985,Gritta von Rattenzuhausbeiuns,"Comedy, Family, Fantasy",6.5,Average,83,Avg. Length Film
+1985,Grunt! The Wrestling Movie,"Comedy, Crime, Mystery",5.1,Average,90,Avg. Length Film
+1985,Gymkata,"Action, Thriller",4.4,Average,90,Avg. Length Film
+1985,Hard Rock Zombies,"Comedy, Horror, Music",4.4,Average,98,Avg. Length Film
+1985,Harem,Drama,4.8,Average,113,Avg. Length Film
+1985,Hoh bit yau ngo?,Drama,6.9,Average,91,Avg. Length Film
+1985,Heaven Help Us,"Comedy, Drama, Romance",7.0,Excellent,104,Avg. Length Film
+1985,The Heavenly Kid,"Comedy, Fantasy, Romance",6.4,Average,90,Avg. Length Film
+1985,Hellhole,"Action, Drama, Horror",5.0,Average,90,Avg. Length Film
+1985,Le avventure dell'incredibile Ercole,"Adventure, Fantasy",4.1,Average,88,Avg. Length Film
+1985,Here Come the Littles,"Animation, Adventure, Fami",7.0,Excellent,72,Avg. Length Film
+1985,Himatsuri,Drama,7.0,Excellent,126,No Data
+1985,La historia oficial,"Drama, History, War",7.7,Excellent,112,Avg. Length Film
+1985,The Holcroft Covenant,"Action, Crime, Mystery",5.7,Average,112,Avg. Length Film
+1985,Hold-Up,"Comedy, Crime",6.6,Average,114,Avg. Length Film
+1985,L'homme aux yeux d'argent,"Crime, Drama",5.2,Average,97,Avg. Length Film
+1985,Jian dong xiao xiong,"Action, Thriller",7.0,Excellent,95,Avg. Length Film
+1985,La hora bruja,"Drama, Romance",6.4,Average,105,Avg. Length Film
+1985,A Hora da Estrela,Drama,7.4,Excellent,96,Avg. Length Film
+1985,Horror House on Highway Five,Horror,3.9,Average,87,Avg. Length Film
+1985,Hot Chili,Comedy,4.3,Average,86,Avg. Length Film
+1985,Hot Resort,Comedy,3.8,Average,93,Avg. Length Film
+1985,Hot Target,"Crime, Thriller",4.5,Average,93,Avg. Length Film
+1985,Howling II: Stirba - Werewolf Bitch,"Horror, Thriller",3.6,Average,91,Avg. Length Film
+1985,Hurlevent,"Drama, Romance, Mystery",6.5,Average,130,No Data
+1985,Hustruer - ti år etter,"Comedy, Drama",4.1,Average,88,Avg. Length Film
+1985,I na kamnyakh rastut derevya,"Adventure, Drama",7.1,Excellent,146,No Data
+1985,De ijssalon,"Drama, War",6.5,Average,92,Avg. Length Film
+1985,Idaya Kovil,"Drama, Romance",6.4,Average,160,No Data
+1985,Igor and the Lunatics,Horror,2.8,Poor,82,Avg. Length Film
+1985,Inferno in diretta,"Adventure, Horror, Thrille",5.8,Average,90,Avg. Length Film
+1985,Insignificance,"Drama, Comedy",6.6,Average,109,Avg. Length Film
+1985,Into the Night,"Comedy, Crime, Drama",6.5,Average,115,Avg. Length Film
+1985,Invasion U.S.A.,"Action, Thriller",5.4,Average,107,Avg. Length Film
+1985,Istanbul,"Thriller, Drama",6.4,Average,90,Avg. Length Film
+1985,Jagged Edge,"Drama, Mystery, Thriller",6.5,Average,108,Avg. Length Film
+1985,Jagode u grlu,Drama,7.2,Excellent,84,Avg. Length Film
+1985,James Joyce's Women,Drama,6.1,Average,88,Avg. Length Film
+1985,"Je vous salue, Marie",Drama,6.6,Average,72,Avg. Length Film
+1985,The Jewel of the Nile,"Action, Adventure, Comedy",6.1,Average,106,Avg. Length Film
+1985,Geung see sin sang,"Action, Comedy, Fantasy",7.5,Excellent,96,Avg. Length Film
+1985,Ging chaat goo si,"Action, Comedy, Crime",7.6,Excellent,100,Avg. Length Film
+1985,Joan Lui - Ma un giorno nel paese arrivo io di lune,"Comedy, Drama, Musical",4.9,Average,163,No Data
+1985,Joey,"Action, Fantasy, Horror",4.9,Average,98,Avg. Length Film
+1985,Joshua Then and Now,"Comedy, Drama",6.6,Average,119,Avg. Length Film
+1985,The Journey of Natty Gann,"Adventure, Family",7.0,Excellent,101,Avg. Length Film
+1985,Junior,"Comedy, Thriller",4.5,Average,87,Avg. Length Film
+1985,Just One of the Guys,"Comedy, Romance",6.5,Average,100,Avg. Length Film
+1985,Ka xin gui fang shu jia,"Comedy, Fantasy",5.8,Average,96,Avg. Length Film
+1985,Key Exchange,"Comedy, Romance",4.6,Average,97,Avg. Length Film
+1985,King David,"Adventure, Biography, Dram",5.3,Average,114,Avg. Length Film
+1985,King Solomon's Mines,"Action, Adventure, Comedy",5.3,Average,100,Avg. Length Film
+1985,Kiss of the Spider Woman,Drama,7.4,Excellent,120,No Data
+1985,Hei kliffaa hei!,Comedy,4.8,Average,101,Avg. Length Film
+1985,Kommando Leopard,Action,5.1,Average,103,Avg. Length Film
+1985,Den kroniske uskyld,Drama,5.9,Average,97,Avg. Length Film
+1985,Krush Groove,"Comedy, Drama, Music",6.5,Average,97,Avg. Length Film
+1985,Ladyhawke,"Adventure, Comedy, Drama",7.0,Excellent,121,No Data
+1985,The Last Dragon,"Action, Comedy, Drama",6.9,Average,109,Avg. Length Film
+1985,Latino,"Drama, War",6.2,Average,105,Avg. Length Film
+1985,Legend,"Adventure, Fantasy, Romanc",6.5,Average,94,Avg. Length Film
+1985,The Legend of Billie Jean,"Action, Drama",6.7,Average,96,Avg. Length Film
+1985,Harimu Ogen,Comedy,4.5,Average,74,Avg. Length Film
+1985,Letter to Brezhnev,"Comedy, Drama, Romance",6.6,Average,94,Avg. Length Film
+1985,"Liberté, égalité, choucroute",Comedy,4.4,Average,113,Avg. Length Film
+1985,Lifeforce,"Action, Horror, Mystery",6.1,Average,101,Avg. Length Film
+1985,The Lightship,"Crime, Drama, Thriller",6.2,Average,89,Avg. Length Film
+1985,Little Treasure,"Action, Comedy, Drama",5.2,Average,95,Avg. Length Film
+1985,Loose Screws,Comedy,4.2,Average,92,Avg. Length Film
+1985,Lost in America,Comedy,7.0,Excellent,91,Avg. Length Film
+1985,Rabu hoteru,Drama,6.6,Average,88,Avg. Length Film
+1985,Maccheroni,"Comedy, Drama",6.4,Average,105,Avg. Length Film
+1985,Mad Max Beyond Thunderdome,"Action, Adventure, Sci-Fi",6.3,Average,107,Avg. Length Film
+1985,Malibu Express,"Comedy, Crime, Mystery",4.6,Average,105,Avg. Length Film
+1985,The Man with One Red Shoe,"Comedy, Thriller",5.7,Average,92,Avg. Length Film
+1985,Mard,"Action, Drama, Romance",6.1,Average,177,No Data
+1985,Le mariage du siècle,Comedy,4.5,Average,100,Avg. Length Film
+1985,Marie,Drama,6.7,Average,112,Avg. Length Film
+1985,Masca de argint,"Action, History",7.3,Excellent,119,Avg. Length Film
+1985,Mask,"Biography, Drama",7.2,Excellent,120,No Data
+1985,Nudo e selvaggio,"Action, Adventure, Horror",5.2,Average,88,Avg. Length Film
+1985,Mata Hari,"Drama, Thriller, War",3.7,Average,108,Avg. Length Film
+1985,Le matou,Drama,6.4,Average,141,No Data
+1985,Maxie,"Comedy, Fantasy",5.4,Average,98,Avg. Length Film
+1985,The Mean Season,"Crime, Thriller",6.1,Average,103,Avg. Length Film
+1985,Medium,"Horror, Mystery",6.7,Average,98,Avg. Length Film
+1985,La messa è finita,"Comedy, Drama",7.3,Excellent,94,Avg. Length Film
+1985,Mezzo destro mezzo sinistro - 2 calciatori senza pa,Comedy,5.4,Average,104,Avg. Length Film
+1985,Miami Supercops,"Action, Comedy, Crime",6.3,Average,96,Avg. Length Film
+1985,Miranda,"Comedy, Romance",5.0,Average,96,Avg. Length Film
+1985,Mischief,"Comedy, Romance",6.6,Average,93,Avg. Length Film
+1985,Mishima: A Life in Four Chapters,"Biography, Drama",7.9,Excellent,120,No Data
+1985,Missing in Action 2: The Beginning,"Action, Drama, Thriller",5.3,Average,100,Avg. Length Film
+1985,Mitt liv som hund,"Drama, Comedy",7.6,Excellent,101,Avg. Length Film
+1985,Morons from Outer Space,"Comedy, Sci-Fi",4.5,Average,90,Avg. Length Film
+1985,Movers & Shakers,Comedy,4.2,Average,80,Avg. Length Film
+1985,Moving Violations,Comedy,5.8,Average,90,Avg. Length Film
+1985,Mr. Love,Comedy,6.5,Average,91,Avg. Length Film
+1985,Murphy's Romance,"Comedy, Drama, Romance",7.0,Excellent,107,Avg. Length Film
+1985,Muthal Mariyathai,Drama,7.6,Excellent,163,No Data
+1985,My American Cousin,"Biography, Drama",6.4,Average,90,Avg. Length Film
+1985,My Man Adam,"Comedy, Crime, Thriller",5.7,Average,83,Avg. Length Film
+1985,My Science Project,"Action, Adventure, Comedy",6.1,Average,94,Avg. Length Film
+1985,Männer,"Comedy, Romance",6.6,Average,99,Avg. Length Film
+1985,A nagy generáció,Drama,6.6,Average,109,Avg. Length Film
+1985,National Lampoon's European Vacation,"Adventure, Comedy",6.2,Average,95,Avg. Length Film
+1985,Le neveu de Beethoven,Drama,5.6,Average,103,Avg. Length Film
+1985,The New Kids,"Crime, Drama, Horror",6.0,Average,86,Avg. Length Film
+1985,A Nightmare on Elm Street Part 2: Freddy's Revenge,Horror,5.5,Average,87,Avg. Length Film
+1985,Nije lako sa muskarcima,"Comedy, Romance",7.2,Excellent,91,Avg. Length Film
+1985,Nine Deaths of the Ninja,"Action, Thriller",3.8,Average,94,Avg. Length Film
+1985,Tou qing ke,Action,4.6,Average,91,Avg. Length Film
+1985,No Surrender,Comedy,7.2,Excellent,100,Avg. Length Film
+1985,Noe helt annet,"Comedy, Horror",6.3,Average,75,Avg. Length Film
+1985,Novembermond,"Drama, Romance, War",5.7,Average,108,Avg. Length Film
+1985,"O-bi, O-ba - Koniec cywilizacji","Drama, Mystery, Sci-Fi",7.1,Excellent,88,Avg. Length Film
+1985,O.C. and Stiggs,"Comedy, Romance",5.4,Average,109,Avg. Length Film
+1985,Oberst Redl,"Biography, Drama, History",7.6,Excellent,144,No Data
+1985,"Och, Karol",Comedy,5.9,Average,94,Avg. Length Film
+1985,On ne meurt que deux fois,"Crime, Drama, Mystery",6.2,Average,105,Avg. Length Film
+1985,Once Bitten,"Comedy, Fantasy, Horror",5.5,Average,94,Avg. Length Film
+1985,One Magic Christmas,"Family, Fantasy",6.6,Average,89,Avg. Length Film
+1985,Opasno dlya zhizni!,"Adventure, Comedy, Romance",6.4,Average,93,Avg. Length Film
+1985,The Oracle,"Crime, Horror",3.6,Average,94,Avg. Length Film
+1985,Oriana,"Drama, Mystery, Romance",6.7,Average,88,Avg. Length Film
+1985,Orions belte,"Action, Thriller",6.9,Average,87,Avg. Length Film
+1985,Otac na sluzbenom putu,Drama,7.8,Excellent,136,No Data
+1985,Otra vuelta de tuerca,"Horror, Thriller",6.3,Average,119,Avg. Length Film
+1985,Otto - Der Film,"Comedy, Romance",6.4,Average,85,Avg. Length Film
+1985,Out of Africa,"Biography, Drama, Romance",7.2,Excellent,161,No Data
+1985,Out of Control,"Action, Drama",4.4,Average,78,Avg. Length Film
+1985,P.R.O.F.S.,Comedy,5.6,Average,90,Avg. Length Film
+1985,Pagal Nilavu,"Crime, Drama, Romance",6.6,Average,145,No Data
+1985,Pale Rider,"Drama, Western",7.3,Excellent,115,Avg. Length Film
+1985,Parking,"Fantasy, Musical",4.6,Average,95,Avg. Length Film
+1985,Parole de flic,"Action, Crime, Drama",5.7,Average,98,Avg. Length Film
+1985,Pas în doi,"Drama, Romance",7.4,Excellent,110,Avg. Length Film
+1985,The Peanut Butter Solution,"Adventure, Comedy, Family",6.4,Average,93,Avg. Length Film
+1985,Pee-wee's Big Adventure,"Adventure, Comedy, Family",7.0,Excellent,91,Avg. Length Film
+1985,Pelle Svanslös i Amerikatt,"Animation, Family",5.8,Average,78,Avg. Length Film
+1985,Perfect,"Drama, Romance",4.5,Average,115,Avg. Length Film
+1985,Perinbaba,"Comedy, Fantasy, Romance",7.7,Excellent,90,Avg. Length Film
+1985,Petrina hronia,"Drama, History, Romance",7.6,Excellent,142,No Data
+1985,Il piacere,Drama,4.7,Average,85,Avg. Length Film
+1985,Piccoli fuochi,Drama,6.0,Average,95,Avg. Length Film
+1985,Pizza Connection,"Crime, Drama",6.9,Average,116,Avg. Length Film
+1985,Plenty,Drama,6.1,Average,121,No Data
+1985,Police,"Crime, Drama, Romance",6.6,Average,113,Avg. Length Film
+1985,Police Academy 2: Their First Assignment,Comedy,5.8,Average,87,Avg. Length Film
+1985,Porky's Revenge,Comedy,4.8,Average,92,Avg. Length Film
+1985,Poulet au vinaigre,"Crime, Mystery",6.7,Average,110,Avg. Length Film
+1985,Pray for Death,"Action, Crime, Drama",5.8,Average,92,Avg. Length Film
+1985,Private Resort,Comedy,5.3,Average,82,Avg. Length Film
+1985,Prizzi's Honor,"Comedy, Crime, Drama",6.7,Average,130,No Data
+1985,De prooi,"Mystery, Thriller",5.1,Average,97,Avg. Length Film
+1985,The Protector,"Action, Crime, Thriller",5.7,Average,91,Avg. Length Film
+1985,Pulgasari,"Action, Drama, Fantasy",5.2,Average,95,Avg. Length Film
+1985,The Purple Rose of Cairo,"Comedy, Fantasy, Romance",7.7,Excellent,82,Avg. Length Film
+1985,Péril en la demeure,"Crime, Drama, Mystery",7.0,Excellent,101,Avg. Length Film
+1985,Ching fung dik sau,"Action, Comedy, Romance",6.8,Average,95,Avg. Length Film
+1985,Taipei Story,Drama,7.7,Excellent,119,Avg. Length Film
+1985,Le 4ème pouvoir,Drama,6.0,Average,100,Avg. Length Film
+1985,The Quiet Earth,"Drama, Mystery, Sci-Fi",6.8,Average,91,Avg. Length Film
+1985,Rainbow Brite and the Star Stealer,"Animation, Adventure, Fami",6.9,Average,85,Avg. Length Film
+1985,Rambo: First Blood Part II,"Action, Adventure, Thrille",6.5,Average,96,Avg. Length Film
+1985,Ran,"Action, Drama",8.2,Excellent,162,No Data
+1985,Rappin',"Drama, Music, Musical",3.9,Average,92,Avg. Length Film
+1985,Re-Animator,"Comedy, Horror, Sci-Fi",7.2,Excellent,105,Avg. Length Film
+1985,Real Genius,"Comedy, Romance, Sci-Fi",7.0,Excellent,108,Avg. Length Film
+1985,Rebel,"Drama, Music, Romance",4.6,Average,89,Avg. Length Film
+1985,Red Heat,Thriller,4.9,Average,104,Avg. Length Film
+1985,Red Sonja,"Action, Adventure, Fantasy",5.1,Average,89,Avg. Length Film
+1985,Reel Horror,Horror,1.5,Poor,84,Avg. Length Film
+1985,Remo Williams: The Adventure Begins,"Action, Adventure, Comedy",6.5,Average,121,No Data
+1985,Rendez-vous,"Drama, Romance",6.6,Average,82,Avg. Length Film
+1985,Restless Natives,"Comedy, Crime",7.1,Excellent,89,Avg. Length Film
+1985,The Return of the Living Dead,"Comedy, Horror, Sci-Fi",7.3,Excellent,91,Avg. Length Film
+1985,Return to Oz,"Adventure, Family, Fantasy",6.7,Average,113,Avg. Length Film
+1985,The Revenge of the Teenage Vixens from Outer Space,"Comedy, Sci-Fi",4.1,Average,83,Avg. Length Film
+1985,Revolution,"Adventure, Drama, History",5.3,Average,126,No Data
+1985,Robbery Under Arms,"Action, Adventure, Crime",6.6,Average,141,No Data
+1985,Rocky IV,"Drama, Sport",6.9,Average,91,Avg. Length Film
+1985,Les rois du gag,Comedy,5.1,Average,98,Avg. Length Film
+1985,Rosso,"Drama, Crime",6.6,Average,76,Avg. Length Film
+1985,Runaway Train,"Action, Adventure, Drama",7.2,Excellent,111,Avg. Length Film
+1985,Rupan sansei: Babiron no Ôgon densetsu,"Animation, Action, Adventu",6.3,Average,100,Avg. Length Film
+1985,Rustlers' Rhapsody,"Comedy, Western",6.5,Average,88,Avg. Length Film
+1985,Sac de noeuds,Comedy,5.1,Average,90,Avg. Length Film
+1985,Saaheb,Drama,7.2,Excellent,150,No Data
+1985,Samaya obayatelnaya i privlekatelnaya,"Comedy, Romance",7.5,Excellent,81,Avg. Length Film
+1985,Sans toit ni loi,"Drama, Romance",7.7,Excellent,105,Avg. Length Film
+1985,Santa Claus: The Movie,"Adventure, Family, Fantasy",6.2,Average,107,Avg. Length Film
+1985,Savage Dawn,"Drama, Action",4.8,Average,102,Avg. Length Film
+1985,Savage Island,"Action, Crime, Drama",3.5,Average,74,Avg. Length Film
+1985,Scandalosa Gilda,Drama,4.3,Average,95,Avg. Length Film
+1985,School Spirit,"Comedy, Fantasy",4.4,Average,90,Avg. Length Film
+1985,Scout toujours...,Comedy,5.5,Average,98,Avg. Length Film
+1985,Secret Admirer,"Comedy, Romance",6.6,Average,90,Avg. Length Film
+1985,The Secret of the Sword,"Animation, Action, Adventu",7.2,Excellent,100,Avg. Length Film
+1985,Seitenstechen,"Family, Fantasy, Comedy",4.0,Average,88,Avg. Length Film
+1985,Follow That Bird,"Adventure, Comedy, Family",6.8,Average,88,Avg. Length Film
+1985,Seven Minutes in Heaven,"Comedy, Drama, Romance",6.2,Average,88,Avg. Length Film
+1985,Shadey,Comedy,4.7,Average,90,Avg. Length Film
+1985,Shaker Run,"Action, Drama",5.6,Average,91,Avg. Length Film
+1985,Silver Bullet,Horror,6.4,Average,95,Avg. Length Film
+1985,Silverado,"Action, Crime, Drama",7.2,Excellent,133,No Data
+1985,The Slugger's Wife,"Comedy, Music, Romance",4.5,Average,105,Avg. Length Film
+1985,Smooth Talk,"Drama, Romance, Thriller",6.2,Average,92,Avg. Length Film
+1985,Smugglarkungen,"Comedy, Crime, Romance",4.8,Average,107,Avg. Length Film
+1985,Sono un fenomeno paranormale,Comedy,5.5,Average,112,Avg. Length Film
+1985,Sopernitsy,"Drama, Sport",4.8,Average,87,Avg. Length Film
+1985,Le soulier de satin,Drama,6.6,Average,410,No Data
+1985,South Bronx Heroes,"Action, Drama, Mystery",4.2,Average,85,Avg. Length Film
+1985,Space Rage,"Action, Sci-Fi, Western",3.9,Average,77,Avg. Length Film
+1985,Spies Like Us,"Adventure, Comedy",6.4,Average,102,Avg. Length Film
+1985,Spécial police,Crime,5.0,Average,88,Avg. Length Film
+1985,St. Elmo's Fire,"Drama, Romance",6.4,Average,110,Avg. Length Film
+1985,Stand Alone,"Action, Drama",5.3,Average,94,Avg. Length Film
+1985,Starchaser: The Legend of Orin,"Animation, Action, Adventu",6.6,Average,100,Avg. Length Film
+1985,Static,"Comedy, Drama",6.6,Average,93,Avg. Length Film
+1985,Steaming,Drama,6.0,Average,95,Avg. Length Film
+1985,Stick,"Action, Crime, Drama",5.7,Average,109,Avg. Length Film
+1985,Stitches,Comedy,4.5,Average,89,Avg. Length Film
+1985,Stoogemania,Comedy,3.8,Average,83,Avg. Length Film
+1985,Stryker's War,"Action, Thriller, Adventur",5.8,Average,84,Avg. Length Film
+1985,The Stuff,"Comedy, Horror, Sci-Fi",5.9,Average,87,Avg. Length Film
+1985,Subway,Thriller,6.6,Average,104,Avg. Length Film
+1985,Sudden Death,"Action, Thriller",5.0,Average,90,Avg. Length Film
+1985,Summer Rental,Comedy,6.3,Average,87,Avg. Length Film
+1985,The Supergrass,"Comedy, Crime",6.5,Average,107,Avg. Length Film
+1985,The Sure Thing,"Comedy, Drama, Romance",7.0,Excellent,100,Avg. Length Film
+1985,Svindlande affärer,"Comedy, Crime",4.8,Average,100,Avg. Length Film
+1985,Sweet Dreams,"Biography, Drama, Music",7.1,Excellent,115,Avg. Length Film
+1985,Sylvester,"Drama, Family",6.6,Average,104,Avg. Length Film
+1985,Snowroller - Sällskapsresan II,Comedy,6.6,Average,91,Avg. Length Film
+1985,Sé infiel y no mires con quién,"Comedy, Romance",6.2,Average,94,Avg. Length Film
+1985,Tajvanska kanasta,"Comedy, Drama",7.4,Excellent,101,Avg. Length Film
+1985,Mer mankutyan tangon,Drama,7.2,Excellent,89,Avg. Length Film
+1985,El exilio de Gardel: Tangos,"Drama, Musical",7.2,Excellent,119,Avg. Length Film
+1985,Target,"Action, Adventure, Crime",6.0,Average,117,Avg. Length Film
+1985,Zahn um Zahn,"Action, Crime, Thriller",6.5,Average,95,Avg. Length Film
+1985,Teen Wolf,"Comedy, Fantasy",6.1,Average,91,Avg. Length Film
+1985,Tenement,"Action, Crime, Horror",5.6,Average,94,Avg. Length Film
+1985,Terminal Choice,"Horror, Thriller",5.4,Average,97,Avg. Length Film
+1985,Terror in the Swamp,"Horror, Sci-Fi",4.1,Average,87,Avg. Length Film
+1985,Tex e il signore degli abissi,"Adventure, Fantasy, Wester",5.3,Average,104,Avg. Length Film
+1985,That Was Then... This Is Now,"Crime, Drama",6.2,Average,102,Avg. Length Film
+1985,Thunder Alley,"Drama, Music",6.8,Average,111,Avg. Length Film
+1985,Le thé au harem d'Archimède,Drama,6.9,Average,110,Avg. Length Film
+1985,Tiempo de morir,Drama,7.0,Excellent,98,Avg. Length Film
+1985,To Live and Die in L.A.,"Action, Crime, Drama",7.3,Excellent,116,Avg. Length Film
+1985,Tomboy,Comedy,4.7,Average,91,Avg. Length Film
+1985,Tóngnián wangshì,"Biography, Drama",7.7,Excellent,138,No Data
+1985,Tranches de vie,"Comedy, Sci-Fi",4.6,Average,91,Avg. Length Film
+1985,Transylvania 6-5000,"Comedy, Fantasy, Horror",5.0,Average,93,Avg. Length Film
+1985,Treasure Island,"Adventure, Fantasy",6.4,Average,115,Avg. Length Film
+1985,Treasure of the Amazon,"Action, Adventure, Drama",4.5,Average,97,Avg. Length Film
+1985,"Trikal (Past, Present, Future)",Drama,7.1,Excellent,137,No Data
+1985,The Trip to Bountiful,Drama,7.5,Excellent,108,Avg. Length Film
+1985,3 hommes et un couffin,Comedy,6.5,Average,106,Avg. Length Film
+1985,Trouble in Mind,"Comedy, Crime, Drama",6.6,Average,111,Avg. Length Film
+1985,Tuff Turf,"Action, Comedy, Drama",6.2,Average,112,Avg. Length Film
+1985,Tuntematon sotilas,"Drama, War",7.4,Excellent,199,No Data
+1985,Turk 182,"Comedy, Drama",6.0,Average,102,Avg. Length Film
+1985,Turtle Diary,"Comedy, Drama, Romance",7.0,Excellent,97,Avg. Length Film
+1985,Tutta colpa del paradiso,"Comedy, Romance",6.7,Average,102,Avg. Length Film
+1985,Twice in a Lifetime,"Drama, Romance",6.5,Average,111,Avg. Length Film
+1985,Le téléphone sonne toujours deux fois,Comedy,6.0,Average,90,Avg. Length Film
+1985,Underworld,"Action, Horror, Sci-Fi",4.2,Average,103,Avg. Length Film
+1985,Une femme en Afrique,"Drama, Romance",6.9,Average,85,Avg. Length Film
+1985,Une femme ou deux,"Comedy, Romance",5.1,Average,97,Avg. Length Film
+1985,Urusei Yatsura 3: Rimenbâ mai rabu,"Animation, Comedy, Romance",6.7,Average,93,Avg. Length Film
+1985,Uuno Epsanjassa,Comedy,6.2,Average,99,Avg. Length Film
+1985,"Vabank II, czyli riposta","Comedy, Crime",7.5,Excellent,97,Avg. Length Film
+1985,Kyûketsuki hantâ D,"Animation, Action, Fantasy",7.2,Excellent,80,Avg. Length Film
+1985,¡Vampiros en La Habana!,"Animation, Comedy, Horror",7.0,Excellent,69,Avg. Length Film
+1985,La vaquilla,"Comedy, War",7.5,Excellent,122,No Data
+1985,Verführung: Die grausame Frau,Drama,5.4,Average,84,Avg. Length Film
+1985,Vesnicko má stredisková,Comedy,8.1,Excellent,98,Avg. Length Film
+1985,A View to a Kill,"Action, Adventure, Thrille",6.4,Average,131,No Data
+1985,Vision Quest,"Drama, Romance, Sport",6.6,Average,107,Avg. Length Film
+1985,Volunteers,Comedy,5.5,Average,107,Avg. Length Film
+1985,Vyyti zamuzh za kapitana,"Comedy, Romance",6.6,Average,90,Avg. Length Film
+1985,Walter og Carlo - op på fars hat,Comedy,5.6,Average,86,Avg. Length Film
+1985,Warning Sign,"Drama, Sci-Fi, Thriller",6.1,Average,99,Avg. Length Film
+1985,Warriors of the Apocalypse,"Action, Sci-Fi",4.0,Average,96,Avg. Length Film
+1985,Water,"Adventure, Comedy, Drama",6.2,Average,115,Avg. Length Film
+1985,Weird Science,"Comedy, Romance, Sci-Fi",6.6,Average,94,Avg. Length Film
+1985,Westler,Drama,6.4,Average,94,Avg. Length Film
+1985,Wetherby,"Drama, Mystery",6.8,Average,102,Avg. Length Film
+1985,When Nature Calls,Comedy,4.9,Average,85,Avg. Length Film
+1985,White Nights,"Drama, Music",6.7,Average,136,No Data
+1985,Wild Geese II,"Adventure, Thriller, Actio",4.8,Average,125,No Data
+1985,Wildschut,"Crime, Drama, Thriller",6.5,Average,92,Avg. Length Film
+1985,Wills & Burke,"Biography, Comedy",4.9,Average,100,Avg. Length Film
+1985,Witness,"Crime, Drama, Romance",7.4,Excellent,112,Avg. Length Film
+1985,Wizards of the Lost Kingdom,"Action, Adventure, Family",2.7,Poor,72,Avg. Length Film
+1985,Gao shan xia de hua huan,"Drama, War",6.9,Average,139,No Data
+1985,Xia ri fu xing,"Action, Comedy",6.4,Average,105,Avg. Length Film
+1985,Yasha,"Crime, Drama",6.8,Average,127,No Data
+1985,Year of the Dragon,"Action, Crime, Drama",6.9,Average,134,No Data
+1985,Yesterday,"Comedy, Drama, Music",7.0,Excellent,87,Avg. Length Film
+1985,"Yo, 'El Vaquilla'","Action, Biography, Drama",5.2,Average,105,Avg. Length Film
+1985,Young Lady Chatterley II,Drama,3.7,Average,86,Avg. Length Film
+1985,Young Sherlock Holmes,"Adventure, Fantasy, Myster",6.8,Average,109,Avg. Length Film
+1985,Yudh,"Action, Crime, Drama",6.1,Average,155,No Data
+1985,Za srecu je potrebno troje,"Drama, Romance",6.7,Average,100,Avg. Length Film
+1985,A Zed & Two Noughts,"Comedy, Drama",7.4,Excellent,115,Avg. Length Film
+1985,Zimniy vecher v Gagrakh,"Comedy, Drama, Musical",7.2,Excellent,88,Avg. Length Film
+1985,Zimnyaya vishnya,"Comedy, Drama, Romance",6.8,Average,91,Avg. Length Film
+1985,Zivot je lep,Drama,7.6,Excellent,104,Avg. Length Film
+1985,The Zoo Gang,"Comedy, Drama",5.2,Average,96,Avg. Length Film
+1985,Zuckerbaby,"Comedy, Drama, Romance",6.7,Average,86,Avg. Length Film
+1985,Richy Guitar,"Comedy, Music",6.1,Average,90,Avg. Length Film
+1985,È arrivato mio fratello,Comedy,6.1,Average,89,Avg. Length Film
+1985,L'été prochain,Drama,6.1,Average,100,Avg. Length Film
+1985,The Boys Next Door,"Crime, Drama, Thriller",6.4,Average,91,Avg. Length Film
+1985,"Casablanca, Casablanca",Comedy,6.2,Average,109,Avg. Length Film
+1985,Cocaine Wars,"Action, Drama",4.4,Average,82,Avg. Length Film
+1985,"Un complicato intrigo di donne, vicoli e delitti","Crime, Drama",5.8,Average,115,Avg. Length Film
+1985,The Dirt Bike Kid,"Comedy, Family, Fantasy",5.6,Average,90,Avg. Length Film
+1985,Dr. Otto and the Riddle of the Gloom Beam,"Comedy, Sci-Fi",5.8,Average,97,Avg. Length Film
+1985,Echo Park,"Comedy, Drama",5.8,Average,88,Avg. Length Film
+1985,Fortress,"Action, Adventure, Thrille",7.1,Excellent,85,Avg. Length Film
+1985,La gabbia,Drama,5.0,Average,101,Avg. Length Film
+1985,The Girl in the Picture,"Comedy, Romance",6.7,Average,84,Avg. Length Film
+1985,Hard Choices,"Crime, Drama",6.3,Average,90,Avg. Length Film
+1985,Head Office,Comedy,5.5,Average,90,Avg. Length Film
+1985,Hei pao shi jian,Comedy,7.1,Excellent,96,Avg. Length Film
+1985,Bal na vodi,"Drama, Romance",7.6,Excellent,112,Avg. Length Film
+1985,House,"Comedy, Fantasy, Horror",6.2,Average,93,Avg. Length Film
+1985,Idi i smotri,"Drama, War",8.3,Excellent,142,No Data
+1985,KGB: The Secret War,Drama,3.3,Average,89,Avg. Length Film
+1985,Lamb,Drama,6.5,Average,110,Avg. Length Film
+1985,Long de xin,"Action, Comedy, Crime",6.5,Average,98,Avg. Length Film
+1985,Los Angeles Streetfighter,"Action, Drama",4.7,Average,85,Avg. Length Film
+1985,Les loups entre eux,"Action, Crime, Drama",5.4,Average,105,Avg. Length Film
+1985,Mesmerized,Drama,4.8,Average,94,Avg. Length Film
+1985,My Beautiful Laundrette,"Comedy, Drama, Romance",6.8,Average,97,Avg. Length Film
+1985,Naked Vengeance,"Action, Crime, Drama",5.9,Average,97,Avg. Length Film
+1985,Frog Dreaming,"Adventure, Drama, Family",6.2,Average,93,Avg. Length Film
+1985,Radioactive Dreams,"Action, Adventure, Comedy",5.7,Average,98,Avg. Length Film
+1985,A Room with a View,"Drama, Romance",7.3,Excellent,117,Avg. Length Film
+1985,Schiave bianche - Violenza in Amazzonia,"Adventure, Drama, Horror",4.6,Average,90,Avg. Length Film
+1985,Screen Test,Comedy,4.1,Average,84,Avg. Length Film
+1985,Signé Charlotte,Drama,5.6,Average,88,Avg. Length Film
+1985,Sorekara,Drama,7.1,Excellent,130,No Data
+1985,Tampopo,Comedy,7.9,Excellent,114,Avg. Length Film
+1985,Wo zhe yang guo le yi sheng,Drama,7.1,Excellent,152,No Data
+1985,Zone Troopers,"Action, Adventure, Sci-Fi",5.2,Average,86,Avg. Length Film
+1985,Appointment with Fear,"Fantasy, Horror",2.8,Poor,96,Avg. Length Film
+1985,Confessions of a Serial Killer,"Crime, Horror, Thriller",5.6,Average,89,Avg. Length Film
+1985,The Good Father,Drama,6.2,Average,90,Avg. Length Film
+1985,Huang jia shi jie,"Action, Comedy, Crime",6.7,Average,93,Avg. Length Film
+1985,Höhenfeuer,Drama,7.0,Excellent,119,Avg. Length Film
+1985,Miami Golem,"Action, Horror, Sci-Fi",4.2,Average,85,Avg. Length Film
+1985,I soliti ignoti vent'anni dopo,Comedy,5.5,Average,99,Avg. Length Film
+1985,Yellow Pages,"Comedy, Thriller",4.6,Average,89,Avg. Length Film
+1985,Le déclic,Thriller,4.2,Average,87,Avg. Length Film
+1985,La ronde de l'amour,"Comedy, Romance",4.3,Average,98,Avg. Length Film
+1985,Scorpio Nights,Drama,7.2,Excellent,126,No Data
+1985,Fat ngoi ching,Crime,7.1,Excellent,102,Avg. Length Film
+1985,Hodja fra Pjort,"Family, Fantasy",5.6,Average,76,Avg. Length Film
+1985,Naerata ometi,Drama,7.2,Excellent,85,Avg. Length Film
+1985,"Noi, cei din linia întîi",War,7.4,Excellent,156,No Data
+1985,I pompieri,Comedy,5.5,Average,89,Avg. Length Film
+1985,Fracchia contro Dracula,"Comedy, Horror",5.8,Average,94,Avg. Length Film
+1985,The Treasure of Swamp Castle,"Animation, Adventure, Roma",7.9,Excellent,76,Avg. Length Film
+1985,Victims!,Thriller,4.0,Average,85,Avg. Length Film
+1985,A Marvada Carne,"Comedy, Romance",7.1,Excellent,77,Avg. Length Film
+1985,L'affaire des divisions Morituri,"Drama, Sci-Fi",5.7,Average,72,Avg. Length Film
+1985,Os Trapalhões no Reino da Fantasia,"Family, Comedy",4.3,Average,80,Avg. Length Film
+1985,Bits and Pieces,"Drama, Horror",4.0,Average,85,Avg. Length Film
+1985,Os Bons Tempos Voltaram: Vamos Gozar Outra Vez,Comedy,5.8,Average,115,Avg. Length Film
+1985,Adi Vasfiye,"Drama, Fantasy",7.3,Excellent,90,Avg. Length Film
+1985,Declaratie de dragoste,"Drama, Romance",7.7,Excellent,95,Avg. Length Film
+1985,Ram Teri Ganga Maili,"Drama, Musical, Romance",6.7,Average,178,No Data
+1985,Saagar,"Drama, Romance",7.1,Excellent,186,No Data
+1985,Sindhu Bhairavi,Drama,7.2,Excellent,159,No Data
+1985,Adjø solidaritet,Drama,5.1,Average,141,No Data
+1985,Chinna Veedu,"Comedy, Romance",6.7,Average,143,No Data
+1985,Oru Kaidhiyin Diary,"Crime, Drama, Thriller",7.0,Excellent,152,No Data
+1985,Colpo di fulmine,"Comedy, Drama",6.2,Average,94,Avg. Length Film
+1985,Ôdîn - Kôshi hobune stâraito,"Animation, Sci-Fi",5.5,Average,139,No Data
+1985,Casatorie cu repetitie,Comedy,7.3,Excellent,79,Avg. Length Film
+1985,Le feu sous la peau,Drama,4.9,Average,93,Avg. Length Film
+1985,Den gneva,"Adventure, Horror, Mystery",6.2,Average,84,Avg. Length Film
+1985,Dom wariatów,"Comedy, Drama",6.6,Average,93,Avg. Length Film
+1985,Bitva za Moskvu,"Drama, History, War",7.1,Excellent,358,No Data
+1985,Sky High,"Adventure, Comedy",2.5,Poor,109,Avg. Length Film
+1985,Aghaat,"Drama, Crime",7.1,Excellent,138,No Data
+1985,Drzanje za vazduh,"Drama, Family",6.6,Average,95,Avg. Length Film
+1985,Zikina dinastija,Comedy,7.6,Excellent,95,Avg. Length Film
+1985,Mingo y Aníbal contra los fantasmas,"Adventure, Comedy, Family",6.2,Average,90,Avg. Length Film
+1985,La búsqueda,"Action, Crime, Drama",6.1,Average,89,Avg. Length Film
+1985,Alien Outlaw,"Sci-Fi, Western",3.5,Average,90,Avg. Length Film
+1985,O roz gatos,Comedy,7.1,Excellent,98,Avg. Length Film
+1985,Hong men jue e zhe,"Action, Crime, Drama",6.3,Average,90,Avg. Length Film
+1985,Uspekh,Drama,7.1,Excellent,93,Avg. Length Film
+1985,O dynasteias,Comedy,5.7,Average,89,Avg. Length Film
+1985,Ninja Warriors,"Action, Horror",4.0,Average,90,Avg. Length Film
+1985,Amansiz yol,"Crime, Drama",6.5,Average,91,Avg. Length Film
+1985,Ta touvla,Comedy,4.7,Average,96,Avg. Length Film
+1985,Zügürt Aga,"Comedy, Drama",8.7,Excellent,101,Avg. Length Film
+1985,Il mistero di Bellavista,Comedy,6.6,Average,102,Avg. Length Film
+1985,Usugeshô,Drama,6.9,Average,124,No Data
+1985,Tenshi no tamago,"Animation, Drama, Fantasy",7.6,Excellent,71,Avg. Length Film
+1985,Do-re-mi-fa-musume no chi wa sawagu,"Comedy, Musical",5.8,Average,83,Avg. Length Film
+1985,Poove Poochudava,Drama,7.2,Excellent,130,No Data
+1985,Kid Colter,"Action, Adventure, Family",5.6,Average,101,Avg. Length Film
+1985,Cementerio del terror,"Horror, Fantasy, Thriller",5.1,Average,88,Avg. Length Film
+1985,"Psilos, lignos kai pseftaros",Comedy,4.8,Average,89,Avg. Length Film
+1985,The Afterman,Sci-Fi,5.2,Average,90,Avg. Length Film
+1985,Dan Oniroku: Bikyoshi jigokuzeme,Horror,5.3,Average,67,Avg. Length Film
+1985,The Dark Power,Horror,3.5,Average,87,Avg. Length Film
+1985,Deadly Intruder,"Horror, Thriller",4.0,Average,86,Avg. Length Film
+1985,Dhum Dhadaka,Comedy,7.3,Excellent,148,No Data
+1985,The Strangeness,Horror,4.7,Average,90,Avg. Length Film
+1985,Yaathra,"Drama, Romance",7.7,Excellent,124,No Data
+1985,Mutharamkunnu P.O.,"Comedy, Drama, Romance",7.0,Excellent,136,No Data
+1985,Löggulíf,Comedy,7.1,Excellent,90,Avg. Length Film
+1985,Murderlust,"Horror, Thriller",4.8,Average,90,Avg. Length Film
+1985,Jhoothi,Comedy,6.7,Average,136,No Data
+1985,Accident,"Crime, Drama, Thriller",7.6,Excellent,121,No Data
+1985,Adavi Donga,"Action, Comedy, Family",6.7,Average,136,No Data
+1985,Vijetha,"Drama, Family, Romance",7.2,Excellent,107,Avg. Length Film
+1985,Nirakkoottu,"Crime, Drama, Mystery",7.1,Excellent,134,No Data
+1985,Anveshana,"Mystery, Thriller",7.6,Excellent,113,Avg. Length Film
+1985,Thinkalazhcha Nalla Divasam,Drama,7.1,Excellent,126,No Data
+1985,Gurbetçi Saban,"Family, Comedy, Drama",6.7,Average,87,Avg. Length Film
+1985,Katma Deger Saban,Comedy,6.7,Average,85,Avg. Length Film
+1985,Keriz,"Comedy, Romance",6.7,Average,89,Avg. Length Film
+1985,Saban Pabucu Yarim,Comedy,6.6,Average,93,Avg. Length Film
+1985,Sen Dul Saban,Comedy,6.6,Average,94,Avg. Length Film
+1985,Sosyete Saban,"Comedy, Drama, Family",7.0,Excellent,92,Avg. Length Film
+1985,Aram + Aram = Kinnaram,Comedy,7.2,Excellent,144,No Data
+1985,Boeing Boeing,Comedy,7.3,Excellent,110,Avg. Length Film
+1985,Loft,"Crime, Drama, Horror",5.3,Average,85,Avg. Length Film
+1985,Edadugula Bandham,Drama,1.5,Poor,142,No Data
+1985,Asik Oldum,"Comedy, Romance",7.0,Excellent,97,Avg. Length Film
+1985,Çiplak Vatandas,"Comedy, Drama",7.5,Excellent,74,Avg. Length Film
+1985,Körebe,Drama,6.5,Average,89,Avg. Length Film
+1985,Poletje v skoljki,"Comedy, Family",7.2,Excellent,95,Avg. Length Film
+1985,Bäyin ogurlanmasi,Comedy,8.1,Excellent,68,Avg. Length Film
+1985,Arjun,"Action, Crime, Drama",7.1,Excellent,154,No Data
+1985,14 numara,Drama,5.0,Average,83,Avg. Length Film
+1985,Aan Paavam,Comedy,7.6,Excellent,136,No Data
+1985,Patron duymasin,Comedy,6.2,Average,88,Avg. Length Film
+1985,"Rakos... No. 14, kai o protos bounakias",Comedy,4.7,Average,96,Avg. Length Film
+1985,Silip,"Crime, Drama",6.0,Average,125,No Data
+1985,Tarsi se saprug za mama,Drama,7.3,Excellent,88,Avg. Length Film
+1985,Killer contro killers,"Action, Crime, Thriller",5.3,Average,95,Avg. Length Film
+1985,They Don't Cut the Grass Anymore,Horror,4.4,Average,70,Avg. Length Film
+1985,Nobita no uchû shô-sensô,"Animation, Adventure, Fami",6.8,Average,98,Avg. Length Film
+1985,Padikkathavan,Drama,7.0,Excellent,129,No Data
+1985,Kaakki Sattai,"Action, Comedy, Drama",7.0,Excellent,143,No Data
+1985,Naan Sigappu Manithan,"Action, Crime, Drama",6.8,Average,147,No Data
+1985,Sree Raaghavendar,"Biography, Drama",6.9,Average,153,No Data
+1985,Paayum Puli,Action,6.7,Average,130,No Data
+1985,Taraj,"Action, Drama, Thriller",6.1,Average,110,Avg. Length Film
+1985,Boris I,"Biography, Drama, History",7.2,Excellent,263,No Data
+1985,Mach a Sebestová k tabuli!,"Animation, Comedy, Family",7.3,Excellent,68,Avg. Length Film
+1985,Teri Meherbaniyan,"Action, Crime, Drama",5.5,Average,140,No Data
+1985,Xiao nian Su Qi Er,"Action, Comedy",5.5,Average,85,Avg. Length Film
+1985,Adventures of Tarzan,"Action, Adventure, Comedy",4.4,Average,135,No Data
+1985,Manevri na petiya etazh,Comedy,7.5,Excellent,94,Avg. Length Film
+1985,Ragile Gundelu,Drama,4.4,Average,127,No Data
+1985,Bekçi,Drama,6.6,Average,90,Avg. Length Film
+1985,Sekreter,Drama,3.4,Average,82,Avg. Length Film
+1985,Sprawa sie rypla,Comedy,6.3,Average,84,Avg. Length Film
+1985,Acilarin çocugu,Drama,2.8,Poor,91,Avg. Length Film
+1985,Kan,Drama,5.7,Average,84,Avg. Length Film
+1985,Kurbagalar,Drama,7.1,Excellent,136,No Data
+1985,Star Worms II: Attack of the Pleasure Pods,Sci-Fi,2.2,Poor,90,Avg. Length Film
+1985,"20,000 Leagues Under the Sea","Animation, Action, Adventu",6.1,Average,50,Short Film
+1985,Blood Debts,"Action, Crime, Thriller",4.3,Average,86,Avg. Length Film
+1985,Yanlis numara,Comedy,5.8,Average,71,Avg. Length Film
+1985,Yilanlarin Öcü,Drama,7.6,Excellent,98,Avg. Length Film
+1985,Mavi mavi,Romance,3.4,Average,85,Avg. Length Film
+1985,Wudang,Action,5.8,Average,102,Avg. Length Film
+1985,Al Ens Wa Al Jinn,Horror,5.0,Average,133,No Data
+1985,Zoj taht al-talab,"Comedy, Drama",5.3,Average,109,Avg. Length Film
+1985,Dul bir kadin,Romance,6.4,Average,86,Avg. Length Film
+1985,Katiller de aglar,"Adventure, Crime, Drama",5.2,Average,72,Avg. Length Film
+1985,El-Keif,"Comedy, Crime, Drama",8.5,Excellent,118,Avg. Length Film
+1985,Uyaniklar dünyasi,"Adventure, Comedy, Crime",5.0,Average,71,Avg. Length Film
+1985,Kuyucakli Yusuf,Drama,6.2,Average,96,Avg. Length Film
+1985,Execution of a Dead Man,"Drama, Thriller",7.1,Excellent,133,No Data

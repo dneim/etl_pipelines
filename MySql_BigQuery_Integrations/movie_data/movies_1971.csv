@@ -1,0 +1,654 @@
+year,title,genre,avg_vote,movie_category,duration,length_category
+1971,Zombie,Horror,3.4,Average,92,Avg. Length Film
+1971,The Big Snatch,"Crime, Drama",5.1,Average,77,Avg. Length Film
+1971,The Incredible Invasion,"Sci-Fi, Horror",3.3,Average,90,Avg. Length Film
+1971,La muerte viviente,"Horror, Mystery",3.2,Average,90,Avg. Length Film
+1971,All the Right Noises,"Comedy, Drama",6.1,Average,92,Avg. Length Film
+1971,"L'amour c'est gai, l'amour c'est triste",Comedy,6.0,Average,95,Avg. Length Film
+1971,The Female Bunch,"Action, Crime, Drama",3.8,Average,86,Avg. Length Film
+1971,A Touch of Zen,"Action, Adventure, Drama",7.6,Excellent,200,No Data
+1971,Maid in Sweden,Drama,4.4,Average,80,Avg. Length Film
+1971,Touha zvaná Anada,Drama,6.9,Average,108,Avg. Length Film
+1971,La vacanza,Drama,6.2,Average,101,Avg. Length Film
+1971,"Pane, vy jste vdova!","Comedy, Sci-Fi",7.5,Excellent,97,Avg. Length Film
+1971,Les amis,Drama,7.2,Excellent,93,Avg. Length Film
+1971,L'arciere di fuoco,Adventure,6.4,Average,103,Avg. Length Film
+1971,Le bateau sur l'herbe,Drama,5.0,Average,90,Avg. Length Film
+1971,Beg,"Drama, History, War",7.8,Excellent,196,No Data
+1971,The Beloved,Drama,4.9,Average,88,Avg. Length Film
+1971,Die Bettwurst,Romance,5.8,Average,81,Avg. Length Film
+1971,Popsy Pop,"Crime, Drama",4.5,Average,100,Avg. Length Film
+1971,Le cinéma de papa,"Comedy, Drama",6.6,Average,90,Avg. Length Film
+1971,Comptes à rebours,"Crime, Drama",6.5,Average,102,Avg. Length Film
+1971,Countess Dracula,Horror,6.0,Average,93,Avg. Length Film
+1971,"Le cri du cormoran, le soir au-dessus des jonques",Comedy,5.7,Average,85,Avg. Length Film
+1971,The Corpse,"Drama, Horror, Thriller",5.1,Average,91,Avg. Length Film
+1971,"'Ctyri vrazdy stací, drahousku'","Comedy, Crime",7.6,Excellent,103,Avg. Length Film
+1971,Il Decameron,"Comedy, Drama, History",7.1,Excellent,111,Avg. Length Film
+1971,12 stulev,"Adventure, Comedy, Crime",8.3,Excellent,159,No Data
+1971,Dzieciol,"Comedy, Romance",6.2,Average,85,Avg. Length Film
+1971,Le frisson des vampires,Horror,5.7,Average,95,Avg. Length Film
+1971,Games That Lovers Play,Comedy,3.3,Average,91,Avg. Length Film
+1971,Il gatto a nove code,"Horror, Mystery, Thriller",6.7,Average,112,Avg. Length Film
+1971,Gebissen wird nur nachts - das Happening der Vampir,"Comedy, Horror",4.8,Average,102,Avg. Length Film
+1971,Guld til præriens skrappe drenge,"Comedy, Western",5.4,Average,101,Avg. Length Film
+1971,The Hard Ride,"Action, Drama",5.4,Average,93,Avg. Length Film
+1971,The House That Dripped Blood,Horror,6.6,Average,102,Avg. Length Film
+1971,Incense for the Damned,Horror,3.8,Average,87,Avg. Length Film
+1971,Je suis une nymphomane,"Comedy, Fantasy",4.8,Average,103,Avg. Length Film
+1971,The Last Rebel,Western,3.1,Average,90,Avg. Length Film
+1971,The Last Valley,"Adventure, Drama, War",7.2,Excellent,125,No Data
+1971,Lotte in Italia,Drama,6.0,Average,62,Avg. Length Film
+1971,Mais ne nous délivrez pas du mal,"Drama, Horror",6.8,Average,102,Avg. Length Film
+1971,Mourir d'aimer...,Drama,6.8,Average,110,Avg. Length Film
+1971,Sie tötete in Ekstase,Horror,5.8,Average,73,Avg. Length Film
+1971,The Music Lovers,"Biography, Comedy, Drama",7.1,Excellent,123,No Data
+1971,Nella stretta morsa del ragno,Horror,5.7,Average,102,Avg. Length Film
+1971,The Night Visitor,"Crime, Thriller, Horror",6.6,Average,106,Avg. Length Film
+1971,La noche de Walpurgis,Horror,5.4,Average,86,Avg. Length Film
+1971,Per una bara piena di dollari,"Western, Action",5.3,Average,83,Avg. Length Film
+1971,Prega il morto e ammazza il vivo,Western,6.3,Average,90,Avg. Length Film
+1971,Puppet on a Chain,"Action, Thriller",6.0,Average,98,Avg. Length Film
+1971,Qualcosa striscia nel buio,Horror,5.5,Average,95,Avg. Length Film
+1971,Sem nevest efreytora Zbrueva,Comedy,6.9,Average,97,Avg. Length Film
+1971,Ha-Shoter Azulai,"Comedy, Drama",7.6,Excellent,87,Avg. Length Film
+1971,Vampyros Lesbos,"Drama, Horror",5.4,Average,89,Avg. Length Film
+1971,Lo strano vizio della signora Wardh,"Crime, Horror, Mystery",7.0,Excellent,98,Avg. Length Film
+1971,Summer in the City,Drama,6.0,Average,116,Avg. Length Film
+1971,Sur un arbre perché,Comedy,6.4,Average,90,Avg. Length Film
+1971,THX 1138,"Drama, Sci-Fi, Thriller",6.7,Average,86,Avg. Length Film
+1971,Tayna zheleznoy dveri,"Adventure, Family, Sci-Fi",7.0,Excellent,69,Avg. Length Film
+1971,The Todd Killings,"Crime, Drama",6.1,Average,93,Avg. Length Film
+1971,Tomato Kecchappu Kôtei,Drama,6.2,Average,72,Avg. Length Film
+1971,The Touch of Satan,Horror,2.2,Poor,90,Avg. Length Film
+1971,Uz zase skácu pres kaluze,"Drama, Family",7.0,Excellent,91,Avg. Length Film
+1971,El vampiro de la autopista,Horror,4.1,Average,90,Avg. Length Film
+1971,Viva la muerte,"Drama, War",6.8,Average,90,Avg. Length Film
+1971,Vladimir et Rosa,Drama,6.0,Average,103,Avg. Length Film
+1971,Shin Zatôichi: Yabure! Tôjin-ken,"Action, Adventure, Drama",7.2,Excellent,94,Avg. Length Film
+1971,La última señora Anderson,"Mystery, Romance, Thriller",5.9,Average,88,Avg. Length Film
+1971,Gishiki,"Comedy, Drama",7.3,Excellent,123,No Data
+1971,The Million Dollar Duck,"Comedy, Family, Sci-Fi",5.9,Average,89,Avg. Length Film
+1971,10 Rillington Place,"Biography, Crime, Drama",7.6,Excellent,111,Avg. Length Film
+1971,Fun and Games,Drama,4.2,Average,92,Avg. Length Film
+1971,200 Motels,"Comedy, Fantasy, Music",5.9,Average,98,Avg. Length Film
+1971,4 mosche di velluto grigio,"Crime, Mystery, Thriller",6.7,Average,104,Avg. Length Film
+1971,The Abominable Dr. Phibes,"Comedy, Horror",7.1,Excellent,94,Avg. Length Film
+1971,Acquasanta Joe,"Action, Adventure, Drama",4.7,Average,94,Avg. Length Film
+1971,"Adiós, cigüeña, adiós","Comedy, Drama",6.3,Average,90,Avg. Length Film
+1971,L'Albatros,Thriller,6.4,Average,92,Avg. Length Film
+1971,Las amantes del diablo,Horror,4.8,Average,90,Avg. Length Film
+1971,Anand,"Drama, Musical",8.8,Excellent,122,No Data
+1971,Anche per Django le carogne hanno un prezzo,"Action, Romance, Western",3.7,Average,89,Avg. Length Film
+1971,And Now for Something Completely Different,Comedy,7.6,Excellent,88,Avg. Length Film
+1971,Andaz,"Drama, Romance",6.8,Average,166,No Data
+1971,The Anderson Tapes,"Action, Crime, Thriller",6.4,Average,99,Avg. Length Film
+1971,The Andromeda Strain,"Sci-Fi, Thriller",7.2,Excellent,131,No Data
+1971,Angels Hard as They Come,"Action, Drama, Thriller",4.7,Average,85,Avg. Length Film
+1971,Ari-Baba to yonjuppiki no tozoku,"Animation, Comedy, Fantasy",5.8,Average,55,Short Film
+1971,El armario del tiempo,"Animation, Comedy",6.4,Average,78,Avg. Length Film
+1971,Les assassins de l'ordre,Drama,6.2,Average,107,Avg. Length Film
+1971,Aysecik ve sihirli cüceler rüyalar ülkesinde,"Adventure, Family, Fantasy",4.5,Average,88,Avg. Length Film
+1971,The Manipulator,Thriller,3.8,Average,85,Avg. Length Film
+1971,Bakuto gaijin butai,"Crime, Drama",7.4,Excellent,93,Avg. Length Film
+1971,Ballade på Christianshavn,"Comedy, Family",6.5,Average,100,Avg. Length Film
+1971,Bananas,Comedy,7.0,Excellent,82,Avg. Length Film
+1971,The Barefoot Executive,"Family, Comedy",6.0,Average,96,Avg. Length Film
+1971,The Battle of Love's Return,Comedy,4.2,Average,82,Avg. Length Film
+1971,The Beast in the Cellar,"Horror, Thriller",4.7,Average,101,Avg. Length Film
+1971,Beast of the Yellow Night,Horror,3.1,Average,87,Avg. Length Film
+1971,Bedknobs and Broomsticks,"Animation, Adventure, Come",7.1,Excellent,117,Avg. Length Film
+1971,The Beguiled,"Drama, Thriller, War",7.2,Excellent,105,Avg. Length Film
+1971,Bello onesto emigrato Australia sposerebbe compaesa,Comedy,6.9,Average,113,Avg. Length Film
+1971,The Touch,Drama,6.4,Average,115,Avg. Length Film
+1971,La bestia uccide a sangue freddo,"Horror, Mystery, Thriller",5.1,Average,96,Avg. Length Film
+1971,The Big Doll House,"Action, Drama, Thriller",6.0,Average,95,Avg. Length Film
+1971,Big Jake,Western,7.2,Excellent,110,Avg. Length Film
+1971,Billy Jack,"Action, Drama, Western",6.3,Average,114,Avg. Length Film
+1971,Black Beauty,"Drama, Family, Western",5.5,Average,106,Avg. Length Film
+1971,Black Killer,"Crime, Drama, Western",5.6,Average,93,Avg. Length Film
+1971,Blanche,"Drama, History",6.8,Average,93,Avg. Length Film
+1971,Bleak Moments,"Comedy, Drama",7.5,Excellent,106,Avg. Length Film
+1971,Blindman,Western,6.4,Average,105,Avg. Length Film
+1971,Blood Legacy,"Horror, Mystery, Thriller",2.8,Poor,82,Avg. Length Film
+1971,Blood Shack,Horror,2.7,Poor,55,Short Film
+1971,Blood Thirst,Horror,4.5,Average,74,Avg. Length Film
+1971,Blood and Lace,Horror,5.6,Average,87,Avg. Length Film
+1971,The Blood on Satan's Claw,Horror,6.4,Average,97,Avg. Length Film
+1971,Blutjunge Verführerinnen,Comedy,4.9,Average,79,Avg. Length Film
+1971,Bof... Anatomie d'un livreur,Comedy,7.0,Excellent,110,Avg. Length Film
+1971,Born to Win,"Comedy, Crime, Drama",5.5,Average,88,Avg. Length Film
+1971,Boulevard du Rhum,"Adventure, Comedy",5.6,Average,135,No Data
+1971,The Boy Friend,"Comedy, Musical, Romance",6.8,Average,137,No Data
+1971,The Brotherhood of Satan,Horror,5.3,Average,92,Avg. Length Film
+1971,Bubasinter,"Comedy, Drama",6.9,Average,66,Avg. Length Film
+1971,Bubù,Drama,6.4,Average,99,Avg. Length Film
+1971,Bunny O'Hare,Comedy,6.0,Average,91,Avg. Length Film
+1971,Bury Me an Angel,"Action, Drama",5.6,Average,89,Avg. Length Film
+1971,Calcutta 71,Drama,7.7,Excellent,132,No Data
+1971,Captain Apache,"Action, Crime, Mystery",4.8,Average,89,Avg. Length Film
+1971,Caravan,"Action, Comedy, Musical",6.8,Average,161,No Data
+1971,Historia de una traición,"Crime, Drama, Thriller",5.9,Average,90,Avg. Length Film
+1971,Carnal Knowledge,Drama,7.0,Excellent,98,Avg. Length Film
+1971,Carry on Henry,"Comedy, Romance",6.2,Average,89,Avg. Length Film
+1971,Carry on at Your Convenience,Comedy,6.2,Average,90,Avg. Length Film
+1971,Catlow,"Comedy, Western",5.6,Average,101,Avg. Length Film
+1971,Chain Gang Women,"Crime, Thriller",3.9,Average,85,Avg. Length Film
+1971,Le chat,Drama,7.6,Excellent,86,Avg. Length Film
+1971,Chrome and Hot Leather,"Action, Drama",5.4,Average,91,Avg. Length Film
+1971,La classe operaia va in paradiso,Drama,7.7,Excellent,125,No Data
+1971,Clay Pigeon,"Action, Drama",5.1,Average,93,Avg. Length Film
+1971,A Clockwork Orange,"Crime, Drama, Sci-Fi",8.3,Excellent,136,No Data
+1971,La coda dello scorpione,"Mystery, Thriller",6.7,Average,95,Avg. Length Film
+1971,Cold Turkey,Comedy,6.7,Average,99,Avg. Length Film
+1971,Como Era Gostoso o Meu Francês,"Adventure, Comedy",6.8,Average,84,Avg. Length Film
+1971,Confessione di un commissario di polizia al procura,"Crime, Drama",7.2,Excellent,101,Avg. Length Film
+1971,Kokuhakuteki joyûron,Drama,6.8,Average,124,No Data
+1971,La controfigura,"Mystery, Thriller",5.6,Average,88,Avg. Length Film
+1971,Il corsaro nero,"Comedy, Action, Adventure",5.4,Average,99,Avg. Length Film
+1971,Creatures the World Forgot,"Adventure, Horror, Sci-Fi",4.5,Average,92,Avg. Length Film
+1971,Crucible of Terror,"Drama, Horror",4.2,Average,91,Avg. Length Film
+1971,Cry Uncle,"Comedy, Crime, Mystery",5.0,Average,87,Avg. Length Film
+1971,Mr. Forbush and the Penguins,"Adventure, Drama",6.7,Average,101,Avg. Length Film
+1971,Dad's Army,"Comedy, War",6.9,Average,95,Avg. Length Film
+1971,Dash akol,"Drama, Romance, Thriller",7.2,Excellent,99,Avg. Length Film
+1971,The Deserter,Western,6.3,Average,100,Avg. Length Film
+1971,Desperate Characters,Drama,6.1,Average,97,Avg. Length Film
+1971,Detenuto in attesa di giudizio,"Comedy, Drama",7.5,Excellent,102,Avg. Length Film
+1971,Les deux Anglaises et le continent,"Romance, Drama",7.4,Excellent,130,No Data
+1971,Deviation,Horror,5.8,Average,89,Avg. Length Film
+1971,The Devils,"Biography, Drama, History",7.8,Excellent,111,Avg. Length Film
+1971,Diamonds Are Forever,"Action, Adventure, Thrille",6.6,Average,120,No Data
+1971,Die Screaming Marianne,"Crime, Drama, Thriller",5.0,Average,101,Avg. Length Film
+1971,Dirty Harry,"Action, Crime, Thriller",7.7,Excellent,102,Avg. Length Film
+1971,Dobutsu takarajima,"Animation, Action, Adventu",7.0,Excellent,78,Avg. Length Film
+1971,'Doc',Western,6.1,Average,96,Avg. Length Film
+1971,Doctors' Wives,Drama,4.4,Average,101,Avg. Length Film
+1971,Marta,"Drama, Thriller",6.3,Average,96,Avg. Length Film
+1971,Giù la testa... hombre,Western,3.9,Average,83,Avg. Length Film
+1971,Doucement les basses,Comedy,5.1,Average,90,Avg. Length Film
+1971,Dracula vs. Frankenstein,"Horror, Sci-Fi",3.4,Average,91,Avg. Length Film
+1971,Quan ji,"Action, Drama",6.1,Average,102,Avg. Length Film
+1971,Da jue dou,"Action, Drama",7.0,Excellent,113,Avg. Length Film
+1971,Dulcima,Drama,6.5,Average,98,Avg. Length Film
+1971,Dusty and Sweets McGee,"Crime, Drama",6.8,Average,92,Avg. Length Film
+1971,Dynamite Chicken,Comedy,4.8,Average,76,Avg. Length Film
+1971,"Su le mani, cadavere! Sei in arresto","Action, Drama, Romance",5.7,Average,94,Avg. Length Film
+1971,Emil i Lönneberga,"Comedy, Drama, Family",7.2,Excellent,95,Avg. Length Film
+1971,Emitaï,Drama,7.0,Excellent,103,Avg. Length Film
+1971,Er più: storia d'amore e di coltello,"Comedy, Drama, History",6.1,Average,106,Avg. Length Film
+1971,Era Sam Wallash!... lo chiamavano... E Così Sia,Western,3.8,Average,85,Avg. Length Film
+1971,Pinocchio,"Comedy, Fantasy",3.6,Average,74,Avg. Length Film
+1971,Erotik im Beruf - Was jeder Personalchef gern versc,Drama,4.9,Average,88,Avg. Length Film
+1971,Escape from the Planet of the Apes,"Action, Sci-Fi",6.3,Average,98,Avg. Length Film
+1971,Evdokia,"Drama, Romance",7.0,Excellent,97,Avg. Length Film
+1971,Evel Knievel,"Action, Biography, Drama",5.1,Average,88,Avg. Length Film
+1971,Exponerad,"Drama, Thriller",5.2,Average,90,Avg. Length Film
+1971,Una farfalla con le ali insanguinate,"Mystery, Thriller",6.4,Average,99,Avg. Length Film
+1971,Fiddler on the Roof,"Drama, Family, Musical",8.0,Excellent,181,No Data
+1971,Fieras sin jaula,"Drama, Thriller",6.0,Average,87,Avg. Length Film
+1971,Finis Hominis,"Comedy, Drama",5.9,Average,79,Avg. Length Film
+1971,Fleur bleue,"Drama, Romance",5.9,Average,81,Avg. Length Film
+1971,Flight of the Doves,"Drama, Family",6.4,Average,105,Avg. Length Film
+1971,Fluchtweg St. Pauli - Großalarm für die Davidswache,Thriller,6.1,Average,83,Avg. Length Film
+1971,Delusions of Grandeur,"Adventure, Comedy, History",7.3,Excellent,108,Avg. Length Film
+1971,Fools' Parade,"Comedy, Drama, Thriller",6.5,Average,98,Avg. Length Film
+1971,Den forsvundne fuldmægtig,"Comedy, Drama",7.0,Excellent,102,Avg. Length Film
+1971,Fortune and Men's Eyes,Drama,6.5,Average,102,Avg. Length Film
+1971,The French Connection,"Action, Crime, Drama",7.7,Excellent,104,Avg. Length Film
+1971,Friends,"Drama, Romance",6.6,Average,101,Avg. Length Film
+1971,Fright,"Horror, Thriller",5.8,Average,87,Avg. Length Film
+1971,Frustration,Drama,5.5,Average,90,Avg. Length Film
+1971,Gamera tai Shinkai kaijû Jigura,"Action, Adventure, Horror",3.4,Average,87,Avg. Length Film
+1971,The Gang That Couldn't Shoot Straight,"Comedy, Crime",5.0,Average,96,Avg. Length Film
+1971,Get Carter,"Crime, Thriller",7.4,Excellent,112,Avg. Length Film
+1971,Ginger,"Action, Crime, Drama",3.7,Average,90,Avg. Length Film
+1971,Giornata nera per l'ariete,"Crime, Mystery, Thriller",6.6,Average,92,Avg. Length Film
+1971,Il giorno del giudizio,Western,5.1,Average,99,Avg. Length Film
+1971,Giù la testa,"Drama, War, Western",7.7,Excellent,157,No Data
+1971,Glen and Randa,"Adventure, Sci-Fi",4.7,Average,93,Avg. Length Film
+1971,Gli fumavano le Colt... lo chiamavano Camposanto,"Western, Comedy",6.2,Average,94,Avg. Length Film
+1971,The Go-Between,"Drama, Romance",7.3,Excellent,116,Avg. Length Film
+1971,The Godson,"Action, Drama, Crime",4.1,Average,92,Avg. Length Film
+1971,Going Home,Drama,5.9,Average,97,Avg. Length Film
+1971,Gojira tai Hedora,"Animation, Action, Adventu",6.0,Average,85,Avg. Length Film
+1971,Goya - oder Der arge Weg der Erkenntnis,Drama,7.0,Excellent,136,No Data
+1971,The Grissom Gang,"Crime, Drama",6.8,Average,128,No Data
+1971,Guddi,"Drama, Comedy, Family",7.3,Excellent,121,No Data
+1971,A Gunfight,"Romance, Western",6.4,Average,89,Avg. Length Film
+1971,The Hand of Pleasure,"Comedy, Sci-Fi",3.0,Poor,62,Avg. Length Film
+1971,Hands of the Ripper,Horror,6.2,Average,85,Avg. Length Film
+1971,Hanno cambiato faccia,"Drama, Horror",6.9,Average,90,Avg. Length Film
+1971,"Happy Birthday, Wanda June","Comedy, Drama",6.1,Average,105,Avg. Length Film
+1971,Haré Rama Haré Krishna,"Drama, Musical",7.3,Excellent,149,No Data
+1971,Harold and Maude,"Comedy, Drama, Romance",7.9,Excellent,91,Avg. Length Film
+1971,Hay que educar a papá,Comedy,5.1,Average,88,Avg. Length Film
+1971,The Headless Eyes,Horror,4.0,Average,78,Avg. Length Film
+1971,The Hired Hand,"Drama, Western",7.0,Excellent,90,Avg. Length Film
+1971,Homesdale,"Comedy, Drama",5.8,Average,50,Short Film
+1971,Homo Eroticus,Comedy,5.5,Average,112,Avg. Length Film
+1971,The Horsemen,"Action, Adventure, Drama",6.3,Average,109,Avg. Length Film
+1971,The Hospital,"Comedy, Drama, Mystery",7.2,Excellent,103,Avg. Length Film
+1971,How to Frame a Figg,Comedy,6.6,Average,103,Avg. Length Film
+1971,The Hunting Party,"Action, Drama, Western",6.3,Average,111,Avg. Length Film
+1971,L'iguana dalla lingua di fuoco,"Mystery, Thriller",5.3,Average,92,Avg. Length Film
+1971,In nome del popolo italiano,"Comedy, Mystery",7.7,Excellent,103,Avg. Length Film
+1971,Assault,"Mystery, Crime, Drama",5.5,Average,91,Avg. Length Film
+1971,The Incredible 2-Headed Transplant,"Horror, Sci-Fi",3.5,Average,88,Avg. Length Film
+1971,Revenge,"Crime, Drama, Thriller",6.2,Average,89,Avg. Length Film
+1971,Inochi bô ni furô,"Crime, Drama",7.2,Excellent,121,No Data
+1971,Interview,Drama,7.5,Excellent,101,Avg. Length Film
+1971,L'istruttoria è chiusa: dimentichi,"Crime, Thriller",7.3,Excellent,106,Avg. Length Film
+1971,J W Coop,"Drama, Western",6.6,Average,112,Avg. Length Film
+1971,Jennifer on My Mind,Comedy,4.3,Average,90,Avg. Length Film
+1971,Jo,Comedy,7.2,Excellent,85,Avg. Length Film
+1971,Joe Hill,"Biography, Drama, History",7.4,Excellent,118,Avg. Length Film
+1971,Johnny Got His Gun,"Drama, War",7.9,Excellent,111,Avg. Length Film
+1971,Kahdeksas veljes,Comedy,5.0,Average,81,Avg. Length Film
+1971,Der Kapitän,Comedy,5.0,Average,93,Avg. Length Film
+1971,Catch Me a Spy,Comedy,5.3,Average,94,Avg. Length Film
+1971,Kidnapped,"Adventure, Drama",6.2,Average,107,Avg. Length Film
+1971,¡Viva la muerte... tua!,"Action, Adventure, Comedy",5.8,Average,103,Avg. Length Film
+1971,King Lear,Drama,7.1,Excellent,137,No Data
+1971,Klute,"Crime, Mystery, Thriller",7.1,Excellent,114,Avg. Length Film
+1971,"Korona Rossiyskoy Imperii, ili Snova Neulovimye","Action, Adventure, History",6.8,Average,134,No Data
+1971,Kotch,"Comedy, Drama",6.6,Average,113,Avg. Length Film
+1971,Ein Käfer geht aufs Ganze,Comedy,5.0,Average,92,Avg. Length Film
+1971,La figlia di Frankenstein,Horror,5.0,Average,93,Avg. Length Film
+1971,Zhong kui niang zi,"Action, Drama",7.1,Excellent,105,Avg. Length Film
+1971,Laisse aller... c'est une valse,"Action, Comedy, Crime",6.2,Average,100,Avg. Length Film
+1971,The Last Movie,Drama,6.3,Average,108,Avg. Length Film
+1971,The Last Picture Show,Drama,8.0,Excellent,118,Avg. Length Film
+1971,The Last Run,"Action, Drama, Crime",6.4,Average,95,Avg. Length Film
+1971,Lawman,"Adventure, Western",7.0,Excellent,99,Avg. Length Film
+1971,Le Mans,"Action, Adventure, Drama",6.8,Average,106,Avg. Length Film
+1971,Let's Scare Jessica to Death,"Drama, Horror, Mystery",6.4,Average,89,Avg. Length Film
+1971,The Light at the Edge of the World,"Adventure, Drama, Fantasy",6.1,Average,120,No Data
+1971,Little Murders,Comedy,7.0,Excellent,108,Avg. Length Film
+1971,Lo chiamavano King,Western,5.0,Average,90,Avg. Length Film
+1971,The Raging Moon,"Drama, Romance",6.8,Average,112,Avg. Length Film
+1971,The Love Machine,Drama,4.8,Average,108,Avg. Length Film
+1971,Una lucertola con la pelle di donna,"Mystery, Thriller",7.0,Excellent,104,Avg. Length Film
+1971,Lust for a Vampire,Horror,5.8,Average,95,Avg. Length Film
+1971,The Tragedy of Macbeth,"Biography, Drama, History",7.4,Excellent,140,No Data
+1971,Made for Each Other,Comedy,6.4,Average,100,Avg. Length Film
+1971,The Magnificent Seven Deadly Sins,Comedy,5.4,Average,107,Avg. Length Film
+1971,La maison sous les arbres,Thriller,5.6,Average,96,Avg. Length Film
+1971,La corta notte delle bambole di vetro,"Horror, Mystery",6.7,Average,97,Avg. Length Film
+1971,Malpertuis,"Drama, Fantasy, Horror",6.9,Average,125,No Data
+1971,Man in the Wilderness,"Adventure, Drama, Western",6.8,Average,104,Avg. Length Film
+1971,Il venditore di morte,"Action, Drama, Mystery",5.9,Average,91,Avg. Length Film
+1971,Les mariés de l'an deux,"Action, Adventure, Comedy",6.6,Average,98,Avg. Length Film
+1971,The Marriage of a Young Stockbroker,Comedy,6.2,Average,95,Avg. Length Film
+1971,Le martien de Noël,"Family, Sci-Fi",4.5,Average,65,Avg. Length Film
+1971,"Mary, Queen of Scots","Biography, Drama, History",7.2,Excellent,128,No Data
+1971,Maskarada,Drama,6.2,Average,86,Avg. Length Film
+1971,Max et les ferrailleurs,"Crime, Drama, Romance",7.3,Excellent,112,Avg. Length Film
+1971,McCabe & Mrs. Miller,"Drama, Western",7.7,Excellent,120,No Data
+1971,Melody,"Comedy, Drama, Romance",7.6,Excellent,103,Avg. Length Film
+1971,The Mephisto Waltz,"Horror, Mystery, Thriller",6.0,Average,115,Avg. Length Film
+1971,Mere Apne,Drama,7.6,Excellent,164,No Data
+1971,Il merlo maschio,Comedy,6.4,Average,110,Avg. Length Film
+1971,"Min søsters børn, når de er værst",Comedy,5.7,Average,105,Avg. Length Film
+1971,Minnie and Moskowitz,"Comedy, Drama, Romance",7.3,Excellent,114,Avg. Length Film
+1971,Mira,"Crime, Drama",6.5,Average,95,Avg. Length Film
+1971,Mon oncle Antoine,Drama,7.6,Excellent,104,Avg. Length Film
+1971,Morgen fällt die Schule aus - Die Lümmel von der er,Comedy,5.1,Average,90,Avg. Length Film
+1971,Morte a Venezia,Drama,7.4,Excellent,130,No Data
+1971,La morte cammina con i tacchi alti,"Mystery, Thriller",6.5,Average,108,Avg. Length Film
+1971,Mrs. Pollifax-Spy,"Adventure, Comedy",5.5,Average,110,Avg. Length Film
+1971,Murders in the Rue Morgue,"Crime, Horror, Mystery",5.2,Average,87,Avg. Length Film
+1971,Murphy's War,"Drama, War",6.8,Average,107,Avg. Length Film
+1971,Les mâles,Comedy,6.0,Average,113,Avg. Length Film
+1971,N. a pris les dés...,"Drama, Horror",6.3,Average,79,Avg. Length Film
+1971,Necrophagus,Horror,3.8,Average,86,Avg. Length Film
+1971,Nel nome del padre,Drama,6.7,Average,115,Avg. Length Film
+1971,A New Leaf,"Comedy, Romance",7.4,Excellent,102,Avg. Length Film
+1971,Nicholas and Alexandra,"Biography, Drama, History",7.2,Excellent,183,No Data
+1971,Nie lubie poniedzialku,Comedy,7.6,Excellent,98,Avg. Length Film
+1971,The Night Digger,"Drama, Horror, Thriller",6.3,Average,97,Avg. Length Film
+1971,La notte che Evelyn uscì dalla tomba,"Horror, Mystery, Thriller",5.7,Average,103,Avg. Length Film
+1971,The Night God Screamed,"Crime, Horror",6.1,Average,85,Avg. Length Film
+1971,Night of Dark Shadows,"Drama, Horror, Mystery",5.7,Average,95,Avg. Length Film
+1971,Noroi no yakata: Chi o suu me,Horror,6.1,Average,82,Avg. Length Film
+1971,Gli occhi freddi della paura,Thriller,5.3,Average,95,Avg. Length Film
+1971,Octaman,"Sci-Fi, Horror",3.5,Average,79,Avg. Length Film
+1971,Ofitsery,"Drama, Romance, War",7.7,Excellent,96,Avg. Length Film
+1971,El ojo del huracán,"Romance, Thriller",6.3,Average,100,Avg. Length Film
+1971,Gekido no showashi: Okinawa kessen,"Drama, History, War",7.0,Excellent,149,No Data
+1971,Olsen-banden i Jylland,"Comedy, Crime, Family",7.1,Excellent,101,Avg. Length Film
+1971,The Omega Man,"Action, Drama, Sci-Fi",6.5,Average,98,Avg. Length Film
+1971,On the Buses,Comedy,6.2,Average,88,Avg. Length Film
+1971,One More Train to Rob,"Comedy, Western",5.8,Average,108,Avg. Length Film
+1971,The Organization,"Action, Crime, Drama",6.0,Average,106,Avg. Length Film
+1971,Wake in Fright,"Drama, Thriller",7.7,Excellent,109,Avg. Length Film
+1971,The Panic in Needle Park,Drama,7.1,Excellent,110,Avg. Length Film
+1971,Parwana,"Romance, Thriller",6.9,Average,93,Avg. Length Film
+1971,The Peace Killers,"Action, Crime, Drama",5.5,Average,88,Avg. Length Film
+1971,Per grazia ricevuta,Comedy,7.1,Excellent,122,No Data
+1971,Percy,Comedy,4.4,Average,103,Avg. Length Film
+1971,The Tales of Beatrix Potter,"Family, Fantasy, Musical",7.0,Excellent,90,Avg. Length Film
+1971,Petrolejové lampy,Drama,7.2,Excellent,101,Avg. Length Film
+1971,Pink Narcissus,"Drama, Fantasy",6.7,Average,65,Avg. Length Film
+1971,Plasticni Isus,Drama,6.8,Average,73,Avg. Length Film
+1971,Play Misty for Me,"Drama, Thriller",7.0,Excellent,102,Avg. Length Film
+1971,Plaza Suite,"Comedy, Drama, Romance",6.6,Average,114,Avg. Length Film
+1971,Please Sir!,Comedy,6.2,Average,100,Avg. Length Film
+1971,La plus longue nuit du diable,"Fantasy, Horror",5.9,Average,95,Avg. Length Film
+1971,Point of Terror,"Drama, Horror, Mystery",3.9,Average,88,Avg. Length Film
+1971,Un posto ideale per uccidere,"Crime, Thriller",6.2,Average,90,Avg. Length Film
+1971,La poudre d'escampette,Comedy,5.9,Average,116,Avg. Length Film
+1971,Preacherman,"Comedy, Drama",4.7,Average,87,Avg. Length Film
+1971,Pretty Maids All in a Row,"Comedy, Crime, Mystery",6.2,Average,91,Avg. Length Film
+1971,Princ Bajaja,"Family, Fantasy",6.1,Average,73,Avg. Length Film
+1971,Private Duty Nurses,Thriller,4.4,Average,80,Avg. Length Film
+1971,Private Road,"Drama, Romance",6.3,Average,89,Avg. Length Film
+1971,Un aller simple,"Crime, Drama",6.0,Average,120,No Data
+1971,Punishment Park,"Drama, Thriller",7.8,Excellent,91,Avg. Length Film
+1971,The Pursuit of Happiness,"Crime, Drama",6.2,Average,93,Avg. Length Film
+1971,Les pétroleuses,"Action, Comedy, Western",5.3,Average,94,Avg. Length Film
+1971,Quando gli uomini armarono la clava e... con le don,Comedy,4.2,Average,95,Avg. Length Film
+1971,Quatre nuits d'un rêveur,"Drama, Romance",7.5,Excellent,87,Avg. Length Film
+1971,Quest for Love,"Drama, Mystery, Romance",6.6,Average,87,Avg. Length Film
+1971,Raid on Rommel,"Drama, War",5.6,Average,99,Avg. Length Film
+1971,Raphaël ou le débauché,Drama,7.1,Excellent,100,Avg. Length Film
+1971,Ecologia del delitto,"Horror, Mystery, Thriller",6.6,Average,84,Avg. Length Film
+1971,Von Richthofen and Brown,"Action, Biography, Drama",6.0,Average,97,Avg. Length Film
+1971,Red Sky at Morning,Drama,6.9,Average,112,Avg. Length Film
+1971,Rendez-vous à Bray,"Drama, Music, War",7.0,Excellent,90,Avg. Length Film
+1971,Reshma Aur Shera,"Drama, Musical, Romance",6.8,Average,158,No Data
+1971,The Resurrection of Zachary Wheeler,"Mystery, Sci-Fi, Thriller",5.5,Average,100,Avg. Length Film
+1971,The Return of Count Yorga,Horror,5.8,Average,97,Avg. Length Film
+1971,È tornato Sabata... hai chiuso un'altra volta!,Western,5.7,Average,100,Avg. Length Film
+1971,Roma bene,Comedy,6.9,Average,100,Avg. Length Film
+1971,Romansa konjokradice,"Adventure, Drama, History",5.2,Average,101,Avg. Length Film
+1971,Les lèvres rouges,Horror,6.6,Average,87,Avg. Length Film
+1971,Sacco e Vanzetti,"Biography, Crime, Drama",7.8,Excellent,125,No Data
+1971,A Safe Place,Drama,5.2,Average,94,Avg. Length Film
+1971,La salamandre,"Comedy, Drama",7.1,Excellent,124,No Data
+1971,Samad va ghalicheyeh hazrat soleyman,Comedy,6.6,Average,109,Avg. Length Film
+1971,The Sandpit Generals,"Action, Drama, Romance",6.9,Average,102,Avg. Length Film
+1971,Le saut de l'ange,"Crime, Drama",5.7,Average,95,Avg. Length Film
+1971,Say Hello to Yesterday,"Comedy, Drama",5.7,Average,96,Avg. Length Film
+1971,Schulmädchen-Report 2. Teil - Was Eltern den Schlaf,"Comedy, Drama, Romance",4.3,Average,91,Avg. Length Film
+1971,Scipione detto anche l'africano,"Comedy, History",6.6,Average,114,Avg. Length Film
+1971,Secrets,Drama,5.5,Average,92,Avg. Length Film
+1971,See No Evil,"Mystery, Thriller",6.7,Average,89,Avg. Length Film
+1971,Seemabaddha,Drama,7.9,Excellent,110,Avg. Length Film
+1971,The Seven Minutes,Drama,5.7,Average,115,Avg. Length Film
+1971,A Severed Head,Comedy,5.2,Average,98,Avg. Length Film
+1971,Die Sex-Abenteuer der drei Musketiere,Comedy,3.1,Average,76,Avg. Length Film
+1971,Shaft,"Action, Crime, Thriller",6.6,Average,100,Avg. Length Film
+1971,Sharmeelee,"Mystery, Musical, Romance",6.9,Average,164,No Data
+1971,Shoot Out,Western,6.2,Average,95,Avg. Length Film
+1971,Siegfried und das sagenhafte Liebesleben der Nibelu,"Action, Adventure, Fantasy",4.0,Average,92,Avg. Length Film
+1971,Chinmoku,"Drama, History",7.2,Excellent,129,No Data
+1971,"Simon, King of the Witches",Horror,6.0,Average,99,Avg. Length Film
+1971,Skin Game,"Comedy, Romance, Western",7.0,Excellent,102,Avg. Length Film
+1971,"Anda muchacho, spara!",Western,7.0,Excellent,103,Avg. Length Film
+1971,Soleil rouge,"Action, Western",6.9,Average,112,Avg. Length Film
+1971,Some of My Best Friends Are...,Drama,5.8,Average,110,Avg. Length Film
+1971,Quelqu'un derrière la porte,"Crime, Drama",6.1,Average,97,Avg. Length Film
+1971,Sometimes a Great Notion,"Action, Adventure, Drama",7.0,Excellent,114,Avg. Length Film
+1971,Le souffle au coeur,"Comedy, Drama",7.7,Excellent,118,Avg. Length Film
+1971,Star Spangled Girl,Comedy,5.7,Average,93,Avg. Length Film
+1971,The Statue,Comedy,4.9,Average,84,Avg. Length Film
+1971,Die Stewardessen,Comedy,3.9,Average,79,Avg. Length Film
+1971,Stork,Comedy,5.9,Average,85,Avg. Length Film
+1971,Lo strangolatore di Vienna,"Comedy, Crime, Horror",5.3,Average,83,Avg. Length Film
+1971,Straw Dogs,"Crime, Drama, Thriller",7.5,Excellent,113,Avg. Length Film
+1971,Such Good Friends,"Comedy, Drama",6.2,Average,101,Avg. Length Film
+1971,Summer of '42,"Comedy, Drama, Romance",7.3,Excellent,104,Avg. Length Film
+1971,Summertree,Drama,5.6,Average,88,Avg. Length Film
+1971,Sunday Bloody Sunday,Drama,7.1,Excellent,110,Avg. Length Film
+1971,Support Your Local Gunfighter,"Comedy, Romance, Western",6.9,Average,91,Avg. Length Film
+1971,Sweet Sweetback's Baadasssss Song,"Action, Crime, Drama",5.5,Average,97,Avg. Length Film
+1971,Szerelem,Drama,8.0,Excellent,88,Avg. Length Film
+1971,Szindbád,"Drama, Romance",7.7,Excellent,90,Avg. Length Film
+1971,T.R. Baskin,Drama,6.1,Average,90,Avg. Length Film
+1971,Taking Off,"Comedy, Drama, Music",7.4,Excellent,93,Avg. Length Film
+1971,Tandlæge på sengekanten,Comedy,4.4,Average,97,Avg. Length Film
+1971,Tang shan da xiong,"Action, Crime, Drama",7.1,Excellent,100,Avg. Length Film
+1971,Tante Trude aus Buxtehude,Comedy,3.4,Average,87,Avg. Length Film
+1971,El techo de cristal,"Drama, Horror, Mystery",6.3,Average,92,Avg. Length Film
+1971,The Telephone Book,Comedy,6.8,Average,80,Avg. Length Film
+1971,Tere Mere Sapne,"Drama, Romance",7.3,Excellent,175,No Data
+1971,Der Teufel kam aus Akasava,"Adventure, Thriller",4.9,Average,84,Avg. Length Film
+1971,They Might Be Giants,"Comedy, Mystery, Romance",6.8,Average,98,Avg. Length Film
+1971,This Stuff'll Kill Ya!,"Drama, Crime",4.0,Average,99,Avg. Length Film
+1971,Ti ekanes ston polemo Thanasi,"Comedy, Drama",7.6,Excellent,85,Avg. Length Film
+1971,Together,Drama,5.8,Average,72,Avg. Length Film
+1971,The Tormentors,"Crime, Drama",3.4,Average,78,Avg. Length Film
+1971,Die Tote aus der Themse,Thriller,5.5,Average,89,Avg. Length Film
+1971,A Town Called Bastard,"Action, Comedy, Drama",4.9,Average,95,Avg. Length Film
+1971,The Toy Box,"Horror, Mystery, Sci-Fi",4.4,Average,89,Avg. Length Film
+1971,Trastevere,Comedy,6.7,Average,98,Avg. Length Film
+1971,The Trojan Women,Drama,7.0,Excellent,105,Avg. Length Film
+1971,Trotta,Drama,7.3,Excellent,95,Avg. Length Film
+1971,Trzecia czesc nocy,"Drama, Horror, War",7.4,Excellent,105,Avg. Length Film
+1971,Two-Lane Blacktop,Drama,7.2,Excellent,102,Avg. Length Film
+1971,Ty i ya,Drama,7.1,Excellent,97,Avg. Length Film
+1971,U gori raste zelen bor,"Comedy, Drama, War",7.4,Excellent,94,Avg. Length Film
+1971,Umutsuzlar,"Crime, Drama, Romance",7.1,Excellent,87,Avg. Length Film
+1971,Une aventure de Billy le Kid,Western,5.8,Average,100,Avg. Length Film
+1971,"Unman, Wittering and Zigo","Action, Drama, Thriller",7.0,Excellent,102,Avg. Length Film
+1971,Unser Willi ist der Beste,Comedy,5.9,Average,86,Avg. Length Film
+1971,L'uomo dagli occhi di ghiaccio,"Drama, Thriller",5.5,Average,95,Avg. Length Film
+1971,Up Pompeii,Comedy,6.1,Average,90,Avg. Length Film
+1971,Utvandrarna,"Drama, History",8.0,Excellent,191,No Data
+1971,Valdez Is Coming,Western,6.8,Average,90,Avg. Length Film
+1971,Vanishing Point,"Action, Crime, Thriller",7.2,Excellent,99,Avg. Length Film
+1971,The Velvet Vampire,Horror,5.4,Average,80,Avg. Length Film
+1971,La vendetta è un piatto che si serve freddo,Western,4.9,Average,97,Avg. Length Film
+1971,Venom,Horror,4.4,Average,91,Avg. Length Film
+1971,"Vente a Alemania, Pepe","Comedy, Drama",5.4,Average,95,Avg. Length Film
+1971,La veuve Couderc,"Drama, Action, Romance",7.0,Excellent,92,Avg. Length Film
+1971,Requiem pour un vampire,Horror,5.5,Average,95,Avg. Length Film
+1971,Villain,"Crime, Drama, Thriller",6.6,Average,98,Avg. Length Film
+1971,La vittima designata,"Crime, Drama, Thriller",6.7,Average,105,Avg. Length Film
+1971,W.R. - Misterije organizma,"Comedy, Drama, Fantasy",6.9,Average,84,Avg. Length Film
+1971,Walkabout,"Adventure, Drama",7.6,Excellent,100,Avg. Length Film
+1971,Warnung vor einer heiligen Nutte,"Comedy, Drama",6.9,Average,103,Avg. Length Film
+1971,Wat zien ik,Comedy,5.8,Average,90,Avg. Length Film
+1971,Wenn mein Schätzchen auf die Pauke haut,Comedy,3.9,Average,86,Avg. Length Film
+1971,"Wer zuletzt lacht, lacht am besten","Comedy, Music",4.2,Average,85,Avg. Length Film
+1971,Werewolves on Wheels,Horror,4.3,Average,85,Avg. Length Film
+1971,What's the Matter with Helen?,"Crime, Musical, Mystery",6.4,Average,101,Avg. Length Film
+1971,When Eight Bells Toll,"Action, Adventure, Crime",6.0,Average,94,Avg. Length Film
+1971,Whity,"Drama, Western",6.5,Average,95,Avg. Length Film
+1971,Who Is Harry Kellerman and Why Is He Saying Those T,"Drama, Comedy",5.7,Average,108,Avg. Length Film
+1971,Whoever Slew Auntie Roo?,"Horror, Thriller",6.2,Average,91,Avg. Length Film
+1971,Wild Riders,"Crime, Thriller",4.4,Average,91,Avg. Length Film
+1971,Wild Rovers,Western,6.5,Average,136,No Data
+1971,Willard,Horror,6.2,Average,95,Avg. Length Film
+1971,Willy Wonka & the Chocolate Factory,"Family, Fantasy, Musical",7.8,Excellent,100,Avg. Length Film
+1971,Women in Cages,"Action, Crime, Drama",5.1,Average,81,Avg. Length Film
+1971,Wu ming ying xiong,"Action, Comedy",6.1,Average,103,Avg. Length Film
+1971,X312 - Flug zur Hölle,"Action, Crime, Drama",4.9,Average,86,Avg. Length Film
+1971,Ying wang,"Action, Drama",6.8,Average,80,Avg. Length Film
+1971,Ying zi shen bian,"Action, Drama",6.5,Average,78,Avg. Length Film
+1971,The Young Graduates,Drama,4.4,Average,100,Avg. Length Film
+1971,Zachariah,"Comedy, Drama, Musical",6.0,Average,93,Avg. Length Film
+1971,Zeppelin,"Adventure, Drama, War",6.1,Average,100,Avg. Length Film
+1971,Zycie rodzinne,Drama,6.9,Average,88,Avg. Length Film
+1971,Something Big,"Comedy, Western",5.7,Average,108,Avg. Length Film
+1971,Äppelkriget,Comedy,6.7,Average,103,Avg. Length Film
+1971,Ça n'arrive qu'aux autres,Drama,6.7,Average,90,Avg. Length Film
+1971,$,"Comedy, Crime, Drama",6.3,Average,121,No Data
+1971,Continuavano a chiamarlo Trinità,"Comedy, Western",7.3,Excellent,117,Avg. Length Film
+1971,El hombre de Río Malo,"Comedy, Romance, Western",4.6,Average,92,Avg. Length Film
+1971,Bless the Beasts & Children,"Comedy, Drama",6.8,Average,109,Avg. Length Film
+1971,Blood from the Mummy's Tomb,Horror,5.7,Average,94,Avg. Length Film
+1971,Il diavolo a sette facce,"Mystery, Thriller",4.5,Average,90,Avg. Length Film
+1971,Brain of Blood,"Horror, Sci-Fi",2.8,Poor,87,Avg. Length Film
+1971,Brother John,"Drama, Sci-Fi",6.4,Average,95,Avg. Length Film
+1971,Le casse,"Crime, Thriller, Action",6.7,Average,120,No Data
+1971,Chandler,"Crime, Drama",4.4,Average,85,Avg. Length Film
+1971,The Corpse Grinders,"Comedy, Horror",4.0,Average,72,Avg. Length Film
+1971,Dagmars Heta Trosor,"Comedy, Romance",4.6,Average,91,Avg. Length Film
+1971,Dr Jekyll & Sister Hyde,"Horror, Sci-Fi",6.6,Average,97,Avg. Length Film
+1971,"Drive, He Said","Comedy, Drama, Sport",5.9,Average,95,Avg. Length Film
+1971,Dzhentlmeny udachi,"Comedy, Crime, Drama",8.5,Excellent,88,Avg. Length Film
+1971,La décade prodigieuse,"Mystery, Drama",6.3,Average,110,Avg. Length Film
+1971,Face-Off,"Drama, Romance, Sport",5.5,Average,112,Avg. Length Film
+1971,Family Life,Drama,7.7,Excellent,108,Avg. Length Film
+1971,Gumshoe,"Comedy, Crime, Drama",6.5,Average,86,Avg. Length Film
+1971,Hannie Caulder,"Crime, Drama, Western",6.3,Average,85,Avg. Length Film
+1971,"I, Monster",Horror,5.8,Average,75,Avg. Length Film
+1971,Kill!,"Crime, Thriller, Action",5.3,Average,113,Avg. Length Film
+1971,Man and Boy,"Adventure, Crime, Drama",5.7,Average,98,Avg. Length Film
+1971,La mortadella,Comedy,5.6,Average,109,Avg. Length Film
+1971,Samkauli satrposatvis,"Drama, History",6.6,Average,75,Avg. Length Film
+1971,The Nightcomers,"Drama, Horror, Thriller",5.9,Average,96,Avg. Length Film
+1971,Permette? Rocco Papaleo,"Comedy, Drama",6.2,Average,106,Avg. Length Film
+1971,Quante volte... quella notte,"Comedy, Romance",5.8,Average,83,Avg. Length Film
+1971,Sans mobile apparent,"Mystery, Thriller",6.5,Average,100,Avg. Length Film
+1971,Shussho Iwai,"Crime, Drama",7.3,Excellent,131,No Data
+1971,La tarantola dal ventre nero,"Horror, Mystery, Thriller",6.4,Average,89,Avg. Length Film
+1971,"Testa t'ammazzo, croce... sei morto - Mi chiamano A","Comedy, Western",6.1,Average,94,Avg. Length Film
+1971,Trafic,Comedy,7.1,Excellent,96,Avg. Length Film
+1971,Twins of Evil,Horror,6.6,Average,87,Avg. Length Film
+1971,W Django!,Western,5.9,Average,90,Avg. Length Film
+1971,"Welcome Home, Soldier Boys",Drama,7.0,Excellent,91,Avg. Length Film
+1971,Xin du bi dao,"Action, Drama",7.3,Excellent,102,Avg. Length Film
+1971,The Year of the Yahoo!,"Comedy, Drama",5.4,Average,88,Avg. Length Film
+1971,Shuang xia,"Action, Drama",6.7,Average,94,Avg. Length Film
+1971,Addio fratello crudele,Drama,6.5,Average,105,Avg. Length Film
+1971,Baba,"Crime, Drama",7.3,Excellent,96,Avg. Length Film
+1971,The Day of the Wolves,"Crime, Drama",5.9,Average,95,Avg. Length Film
+1971,Du côté d'Orouët,Drama,7.6,Excellent,150,No Data
+1971,Wit's End,"Adventure, Mystery, Thrill",3.5,Average,86,Avg. Length Film
+1971,The Gatling Gun,"Action, Drama, Western",5.0,Average,93,Avg. Length Film
+1971,Osceola,"Western, Drama",5.9,Average,109,Avg. Length Film
+1971,Under Milk Wood,"Comedy, Drama",6.1,Average,87,Avg. Length Film
+1971,Zaat,"Horror, Sci-Fi",2.5,Poor,100,Avg. Length Film
+1971,Juste avant la nuit,"Crime, Drama",7.4,Excellent,106,Avg. Length Film
+1971,Il sole nella pelle,"Drama, Romance",5.7,Average,91,Avg. Length Film
+1971,Zhui ming qiang,"Action, Drama",6.7,Average,96,Avg. Length Film
+1971,Honey Britches,"Comedy, Horror, Thriller",2.8,Poor,85,Avg. Length Film
+1971,Dolgie provody,Drama,7.6,Excellent,97,Avg. Length Film
+1971,"Hahó, Öcsi!","Comedy, Family, Fantasy",6.3,Average,90,Avg. Length Film
+1971,Aatamin puvussa... ...ja vähän Eevankin,Comedy,6.2,Average,88,Avg. Length Film
+1971,B.D. în alertã,"Action, Comedy",8.6,Excellent,95,Avg. Length Film
+1971,B.D. la munte si la mare,"Comedy, Action, Crime",8.6,Excellent,100,Avg. Length Film
+1971,Far til fire i højt humør,Family,4.0,Average,96,Avg. Length Film
+1971,Christa,Drama,5.8,Average,100,Avg. Length Film
+1971,"Hvor er liget, Møller?","Comedy, Crime, Family",4.2,Average,91,Avg. Length Film
+1971,Is There Sex After Death?,Comedy,4.6,Average,102,Avg. Length Film
+1971,Midnite Plowboy,Comedy,4.4,Average,71,Avg. Length Film
+1971,Belorusskiy vokzal,Drama,7.9,Excellent,101,Avg. Length Film
+1971,Women in Revolt,"Comedy, Drama",5.8,Average,97,Avg. Length Film
+1971,Haiducii lui Saptecai,"Action, Adventure",7.4,Excellent,89,Avg. Length Film
+1971,Sãptãmîna nebunilor,"Action, History",6.9,Average,87,Avg. Length Film
+1971,Zestrea domnitei Ralu,"Action, History",6.9,Average,97,Avg. Length Film
+1971,Below the Belt,"Comedy, Action, Crime",3.7,Average,89,Avg. Length Film
+1971,Hirttämättömät,"Western, Comedy",6.8,Average,85,Avg. Length Film
+1971,Kreivi,"Biography, Comedy, Drama",5.3,Average,92,Avg. Length Film
+1971,Sweet Savior,"Crime, Drama, Thriller",4.3,Average,92,Avg. Length Film
+1971,Dushman,Drama,7.0,Excellent,177,No Data
+1971,Vrazda v hotelu Excelsior,Crime,7.0,Excellent,89,Avg. Length Film
+1971,Guess What Happened to Count Dracula?,"Comedy, Horror",2.9,Poor,80,Avg. Length Film
+1971,"Not Tonight, Darling",Drama,3.8,Average,90,Avg. Length Film
+1971,The Zodiac Killer,"Horror, Mystery, Thriller",4.3,Average,87,Avg. Length Film
+1971,Daisy Town,"Animation, Adventure, Come",7.0,Excellent,71,Avg. Length Film
+1971,Southern Comforts,Comedy,4.7,Average,80,Avg. Length Film
+1971,Chhadmabeshi,Comedy,8.0,Excellent,122,No Data
+1971,Fantasia chez les ploucs,Comedy,4.7,Average,100,Avg. Length Film
+1971,Hayat sevince güzel,"Family, Comedy, Drama",5.7,Average,94,Avg. Length Film
+1971,Sinderella külkedisi,Fantasy,4.6,Average,82,Avg. Length Film
+1971,Anubhav,Drama,6.9,Average,139,No Data
+1971,Pink Angels,Comedy,4.8,Average,81,Avg. Length Film
+1971,El profe,"Comedy, Drama, Family",6.8,Average,120,No Data
+1971,Shura,"Drama, Horror",8.0,Excellent,134,No Data
+1971,Bilyy ptakh z chornoyu vidznakoyu,"Drama, War",7.1,Excellent,99,Avg. Length Film
+1971,There's Always Vanilla,"Comedy, Drama, Romance",5.1,Average,93,Avg. Length Film
+1971,Partie krásného dragouna,Crime,7.0,Excellent,89,Avg. Length Film
+1971,Nyama nishto po-hubavo ot loshoto vreme,"Drama, Thriller",6.7,Average,129,No Data
+1971,Hogo fogo Homolka,Comedy,6.9,Average,78,Avg. Length Film
+1971,Keby som mal pusku,"Comedy, Drama",6.9,Average,90,Avg. Length Film
+1971,Sometimes Aunt Martha Does Dreadful Things,"Crime, Horror",5.1,Average,95,Avg. Length Film
+1971,Crno seme,Drama,7.6,Excellent,82,Avg. Length Film
+1971,O trellopenintaris,Comedy,5.8,Average,98,Avg. Length Film
+1971,Addio zio Tom,Drama,6.7,Average,136,No Data
+1971,Mlad i zdrav kao ruza,Drama,7.2,Excellent,76,Avg. Length Film
+1971,Balada o svirepom...,"Drama, War",7.2,Excellent,86,Avg. Length Film
+1971,I kori tou iliou,"Adventure, Drama, Romance",4.9,Average,92,Avg. Length Film
+1971,Küçük sevgilim,"Drama, Romance",6.0,Average,80,Avg. Length Film
+1971,Battal Gazi Destani,"Action, Adventure, History",6.4,Average,97,Avg. Length Film
+1971,The Other Side of Madness,"Crime, Drama",4.9,Average,82,Avg. Length Film
+1971,Satin alinan koca,Romance,6.1,Average,88,Avg. Length Film
+1971,Brute Corps,"Action, Drama",5.7,Average,87,Avg. Length Film
+1971,Ali Baba ve Kirk Haramiler,"Comedy, Fantasy",6.8,Average,84,Avg. Length Film
+1971,Les bidasses en folie,"Comedy, Adventure, War",5.3,Average,95,Avg. Length Film
+1971,Tian zhan,"Adventure, Action, Fantasy",5.5,Average,90,Avg. Length Film
+1971,Tou tiao hao han,"Action, Drama",6.3,Average,96,Avg. Length Film
+1971,Le sauveur,"Drama, War",6.6,Average,105,Avg. Length Film
+1971,O faflatas,"Comedy, Romance",5.3,Average,89,Avg. Length Film
+1971,Osvobozhdenie: Napravlenie glavnogo udara,"Drama, Romance, War",7.7,Excellent,125,No Data
+1971,Der neue heiße Sex-Report - Was Männer nicht für mö,Comedy,4.3,Average,97,Avg. Length Film
+1971,Hochwürden drückt ein Auge zu,Comedy,3.9,Average,90,Avg. Length Film
+1971,O katergaris,Comedy,6.5,Average,85,Avg. Length Film
+1971,S' agapo,"Drama, Romance",4.4,Average,103,Avg. Length Film
+1971,Bang Bang,Comedy,7.0,Excellent,85,Avg. Length Film
+1971,O epanastatis popolaros,Drama,5.3,Average,95,Avg. Length Film
+1971,Katahrisis exousias,"Crime, Drama, Thriller",6.9,Average,104,Avg. Length Film
+1971,Nora-neko rokku: Bôsô shûdan '71,"Action, Crime, Drama",6.0,Average,86,Avg. Length Film
+1971,Agapisa mia... polythrona,Comedy,5.4,Average,92,Avg. Length Film
+1971,I megali stigmi tou '21: Papaflessas,"Adventure, Biography, Hist",6.8,Average,130,No Data
+1971,Morgane et ses nymphes,Horror,5.7,Average,86,Avg. Length Film
+1971,Quick Billy,Drama,7.0,Excellent,56,Short Film
+1971,Ekeino to kalokairi...,"Drama, Romance",6.3,Average,79,Avg. Length Film
+1971,Mia Ellinida sto haremi,"Comedy, Musical",6.8,Average,105,Avg. Length Film
+1971,Santo en la venganza de la momia,"Horror, Action, Adventure",5.8,Average,87,Avg. Length Film
+1971,Death by Invitation,Horror,3.7,Average,81,Avg. Length Film
+1971,Ten,"Comedy, Drama, Fantasy",7.4,Excellent,86,Avg. Length Film
+1971,"28i Oktovriou, ora 5,30","Drama, War",5.2,Average,102,Avg. Length Film
+1971,Taralezhite se razhdat bez bodli,"Comedy, Family",8.6,Excellent,84,Avg. Length Film
+1971,Sho o suteyo machi e deyô,"Drama, Music",8.0,Excellent,137,No Data
+1971,Mandara,Drama,6.9,Average,132,No Data
+1971,Marihuana Stop!,"Comedy, Musical",4.6,Average,92,Avg. Length Film
+1971,Ziteitai epeigontos gabros,Comedy,5.5,Average,102,Avg. Length Film
+1971,Manto Mavrogenous,"Biography, Drama, History",5.4,Average,95,Avg. Length Film
+1971,Mera Gaon Mera Desh,"Action, Drama",7.0,Excellent,151,No Data
+1971,Lal Patthar,Drama,6.3,Average,148,No Data
+1971,Loving Memory,Drama,6.1,Average,57,Short Film
+1971,Dhanyee Meye,Comedy,7.6,Excellent,137,No Data
+1971,Yesenia,"Drama, Romance",6.4,Average,121,No Data
+1971,"Out 1, noli me tangere","Drama, Mystery",7.9,Excellent,729,No Data
+1971,Trimata ot zapasa,"Comedy, Drama, War",8.3,Excellent,97,Avg. Length Film
+1971,Roberto Carlos a 300 Quilômetros por Hora,Adventure,5.8,Average,99,Avg. Length Film
+1971,Los campeones justicieros,"Action, Adventure, Sci-Fi",5.9,Average,80,Avg. Length Film
+1971,Ates Parçasi,Romance,6.7,Average,89,Avg. Length Film
+1971,Güllü,"Comedy, Romance",6.3,Average,84,Avg. Length Film
+1971,Asrin kadini: Melek mi seytan mi,Romance,6.6,Average,88,Avg. Length Film
+1971,Yedi Kocali Hürmüz,"Comedy, Romance",6.9,Average,88,Avg. Length Film
+1971,Mehboob Ki Mehndi,"Drama, Musical, Romance",6.9,Average,151,No Data
+1971,"Arde baby, arde","Drama, Fantasy, Thriller",4.4,Average,97,Avg. Length Film
+1971,Haathi Mere Saathi,"Drama, Family, Musical",6.9,Average,170,No Data
+1971,Feride,"Drama, Romance",5.4,Average,95,Avg. Length Film
+1971,Tarkan: Viking Kani,"Action, Adventure, Fantasy",6.4,Average,86,Avg. Length Film
+1971,Gambler,"Crime, Romance, Thriller",6.7,Average,154,No Data
+1971,Keloglan,"Comedy, Fantasy",6.5,Average,90,Avg. Length Film
+1971,Hüdaverdi - Pirtik,Comedy,6.9,Average,80,Avg. Length Film
+1971,Un burattino di nome Pinocchio,"Animation, Family, Fantasy",6.8,Average,96,Avg. Length Film
+1971,Son hiçkirik,"Drama, Romance",6.5,Average,89,Avg. Length Film
+1971,Shutite?,"Comedy, Drama",5.1,Average,85,Avg. Length Film
+1971,Kal Aaj Aur Kal,"Family, Musical, Romance",6.9,Average,156,No Data
+1971,If Footmen Tire You What Will Horses Do?,"Drama, Horror",4.2,Average,52,Short Film
+1971,Thartharah fawq al-Nil,Drama,7.6,Excellent,115,Avg. Length Film
+1971,Sezercik yavrum benim,Drama,4.7,Average,83,Avg. Length Film
+1971,Zubekô banchô: Zange no neuchi mo nai,Action,6.8,Average,86,Avg. Length Film
+1971,Kholodno - goryacho,"Drama, Romance",3.8,Average,90,Avg. Length Film
+1971,Naves ena,"Adventure, Drama, Thriller",7.0,Excellent,80,Avg. Length Film
+1971,Turist Ömer Boga Güresçisi,"Comedy, Romance",6.9,Average,97,Avg. Length Film
+1971,Senede bir gün,"Drama, Romance, War",7.1,Excellent,92,Avg. Length Film
+1971,Emine,"Drama, Romance",6.1,Average,90,Avg. Length Film
+1971,Maza ispazintis,Drama,7.3,Excellent,77,Avg. Length Film
+1971,Kasturi Nivasa,Drama,8.2,Excellent,152,No Data
+1971,Funshutsu kigan - 15-sai no baishunfu,Drama,6.2,Average,72,Avg. Length Film
+1971,Särikli Çöräk,Drama,8.2,Excellent,68,Avg. Length Film
+1971,B.D. în alerta - Vaduve cu termen redus,"Action, Comedy, Crime",8.2,Excellent,95,Avg. Length Film
+1971,Zawgaty wal kalb,Drama,6.7,Average,90,Avg. Length Film
+1971,Gün Keçdi,"Drama, Romance",8.1,Excellent,83,Avg. Length Film
+1971,Osvobozhdenie: Bitva za Berlin,"Drama, Romance, War",7.1,Excellent,86,Avg. Length Film
+1971,Osvobozhdenie: Posledniy shturm,"Drama, History, Romance",7.2,Excellent,75,Avg. Length Film
